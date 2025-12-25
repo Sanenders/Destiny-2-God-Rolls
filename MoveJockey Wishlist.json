@@ -3,7 +3,7 @@
     "name": "MoveJockey Wishlist",
     "data": [
         {
-            "description": "",
+            "description": "TestItemDescription2",
             "hash": 3620277039,
             "name": "TestItem2",
             "plugs": [
@@ -24,11 +24,12 @@
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "GodPVE",
+                "Controller"
             ]
         },
         {
-            "description": "",
+            "description": "TestItemDescription3",
             "hash": 3620277039,
             "name": "TestItem3",
             "plugs": [
@@ -49,32 +50,8 @@
                 ]
             ],
             "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 3620277039,
-            "name": "TestItem4",
-            "plugs": [
-                [
-                    2860123632
-                ],
-                [
-                    550838496
-                ],
-                [
-                    2938480696
-                ],
-                [
-                    1549370717
-                ],
-                [
-                    155346308
-                ]
-            ],
-            "tags": [
-                "GodPVP"
+                "PVE",
+                "Controller"
             ]
         }
     ]
