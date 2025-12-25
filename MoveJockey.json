@@ -1123,6 +1123,424 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Rewind Rounds (also good: Reconstruction)\nPerk 2: Incandescent (also good: Frenzy)",
+            "hash": 1471212226,
+            "name": "Acasia's Dejection PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    3839493627,
+                    2680121939
+                ],
+                [
+                    1563455254,
+                    3418782618,
+                    461595545,
+                    1523832109
+                ],
+                [
+                    2675184851,
+                    4293542123,
+                    3007133316,
+                    4104185692
+                ],
+                [
+                    3186078099
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Perpetual Motion\nPerk 2: High-Impact Reserves",
+            "hash": 1471212226,
+            "name": "Acasia's Dejection PVP God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    3839493627,
+                    2680121939
+                ],
+                [
+                    2014892510,
+                    1428297954
+                ],
+                [
+                    2002547233,
+                    2213355989
+                ],
+                [
+                    3186078099
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Rewind Rounds (also good: Reconstruction)\nPerk 2: Incandescent (also good: Frenzy)",
+            "hash": 3493494807,
+            "name": "Acasia's Dejection PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    3839493627,
+                    2680121939
+                ],
+                [
+                    1563455254,
+                    3418782618,
+                    461595545,
+                    1523832109
+                ],
+                [
+                    2675184851,
+                    4293542123,
+                    3007133316,
+                    4104185692
+                ],
+                [
+                    3186078099
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Perpetual Motion\nPerk 2: High-Impact Reserves",
+            "hash": 3493494807,
+            "name": "Acasia's Dejection PVP God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    3839493627,
+                    2680121939
+                ],
+                [
+                    2014892510,
+                    1428297954
+                ],
+                [
+                    2002547233,
+                    2213355989
+                ],
+                [
+                    3186078099
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Blade: Honed Edge\nGuard: Balanced Guard\nPerk 1: Assassin’s Blade (also good: Wellspring)\nPerk 2: Eager Edge\nMasterwork: Impact\nOrigin Trait: Tenacity",
+            "hash": 1823308496,
+            "name": "Synanceia PVP God Roll",
+            "plugs": [
+                [
+                    4270598587,
+                    2827049491
+                ],
+                [
+                    2338887882,
+                    52780822
+                ],
+                [
+                    3678483220,
+                    354401740,
+                    2675361166,
+                    3592538738
+                ],
+                [
+                    1618208178,
+                    2077819806
+                ],
+                [
+                    483923727,
+                    3911709647
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Blade: Hungry Edge\nGuard: Swordmaster’s Guard\nPerk 1: Tireless Blade (also good: Relentless Strikes)\nPerk 2: Chain Reaction or Chaos Reshaped\nMasterwork: Impact",
+            "hash": 3569407878,
+            "name": "Summum PVE God Roll",
+            "plugs": [
+                [
+                    1498024248,
+                    436053704
+                ],
+                [
+                    125241418,
+                    269888150
+                ],
+                [
+                    4183521337,
+                    2590710093,
+                    4085959009,
+                    1749209109
+                ],
+                [
+                    598607952,
+                    2396489472,
+                    1817983009,
+                    3640170453
+                ],
+                [
+                    1878756191
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Blade: Jagged Edge\nGuard: Swordmaster’s Guard\nPerk 1: Relentless Strikes\nPerk 2: Bait and Switch or Chaos Reshaped (also good: Surrounded)\nMasterwork: Impact",
+            "hash": 3569407878,
+            "name": "Summum PVP God Roll",
+            "plugs": [
+                [
+                    3959569796,
+                    3666208348
+                ],
+                [
+                    125241418,
+                    269888150
+                ],
+                [
+                    4085959009,
+                    1749209109
+                ],
+                [
+                    3744057135,
+                    3078487919,
+                    1817983009,
+                    3640170453,
+                    781192741,
+                    3708227201
+                ],
+                [
+                    1878756191
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Blade: Hungry Edge\nGuard: Swordmaster’s Guard\nPerk 1: Tireless Blade (also good: Relentless Strikes)\nPerk 2: Chain Reaction or Chaos Reshaped\nMasterwork: Impact",
+            "hash": 2001697739,
+            "name": "Summum PVE God Roll",
+            "plugs": [
+                [
+                    1498024248,
+                    436053704
+                ],
+                [
+                    125241418,
+                    269888150
+                ],
+                [
+                    4183521337,
+                    2590710093,
+                    4085959009,
+                    1749209109
+                ],
+                [
+                    598607952,
+                    2396489472,
+                    1817983009,
+                    3640170453
+                ],
+                [
+                    1878756191
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Blade: Jagged Edge\nGuard: Swordmaster’s Guard\nPerk 1: Relentless Strikes\nPerk 2: Bait and Switch or Chaos Reshaped (also good: Surrounded)\nMasterwork: Impact",
+            "hash": 2001697739,
+            "name": "Summum PVP God Roll",
+            "plugs": [
+                [
+                    3959569796,
+                    3666208348
+                ],
+                [
+                    125241418,
+                    269888150
+                ],
+                [
+                    4085959009,
+                    1749209109
+                ],
+                [
+                    3744057135,
+                    3078487919,
+                    1817983009,
+                    3640170453,
+                    781192741,
+                    3708227201
+                ],
+                [
+                    1878756191
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Blade: Tempered Edge\nGuard: Swordmaster’s Guard\nPerk 1: Eager Edge (also good: Vorpal Weapon, Relentless Strikes)\nPerk 2: Whirlwind Blade (also good: Bait and Switch)\nMasterwork: Impact",
+            "hash": 1085743380,
+            "name": "Sullen Claw PVE God Roll",
+            "plugs": [
+                [
+                    766579919,
+                    938542991
+                ],
+                [
+                    125241418,
+                    269888150
+                ],
+                [
+                    1618208178,
+                    2077819806,
+                    3418165135,
+                    1546637391,
+                    4085959009,
+                    1749209109
+                ],
+                [
+                    147913470,
+                    3913600130,
+                    3744057135,
+                    3078487919
+                ],
+                [
+                    2957461671,
+                    1164078247
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Blade: Honed Edge\nGuard: Balanced Guard\nPerk 1: Eager Edge\nPerk 2: Assassin’s Blade\nMasterwork: Impact",
+            "hash": 1085743380,
+            "name": "Sullen Claw PVP God Roll",
+            "plugs": [
+                [
+                    4270598587,
+                    2827049491
+                ],
+                [
+                    2338887882,
+                    52780822
+                ],
+                [
+                    1618208178,
+                    2077819806
+                ],
+                [
+                    3678483220,
+                    354401740
+                ],
+                [
+                    2957461671,
+                    1164078247
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Blade: Enduring Blade\nGuard: Swordmaster’s Guard\nPerk 1: Unrelenting (also good: Relentless Strikes)\nPerk 2: Cold Steel (also good: Surrounded)\nMasterwork: Impact",
+            "hash": 3794274730,
+            "name": "Ill Omen PVE God Roll",
+            "plugs": [
+                [
+                    3885243590,
+                    1261178282
+                ],
+                [
+                    125241418,
+                    269888150
+                ],
+                [
+                    855168139,
+                    3108830275,
+                    4085959009,
+                    1749209109
+                ],
+                [
+                    405677814,
+                    3650930298,
+                    781192741,
+                    3708227201
+                ],
+                [
+                    253121539
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Blade: Enduring Blade\nGuard: Balanced Guard\nPerk 1: Valiant Charge\nPerk 2: Cold Steel (also good: Vorpal Weapon)\nMasterwork: Impact",
+            "hash": 3794274730,
+            "name": "Ill Omen PVP God Roll",
+            "plugs": [
+                [
+                    3885243590,
+                    1261178282
+                ],
+                [
+                    2338887882,
+                    52780822
+                ],
+                [
+                    4274613598,
+                    4274614370
+                ],
+                [
+                    405677814,
+                    3650930298,
+                    3418165135,
+                    1546637391
+                ],
+                [
+                    253121539
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
