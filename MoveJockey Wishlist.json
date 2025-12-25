@@ -1,0 +1,81 @@
+{
+    "description": "Test",
+    "name": "MoveJockey Wishlist",
+    "data": [
+        {
+            "description": "TestItemDescription2",
+            "hash": 3620277039,
+            "name": "TestItem2",
+            "plugs": [
+                [
+                    1932356121
+                ],
+                [
+                    1065371964
+                ],
+                [
+                    984655331
+                ],
+                [
+                    4045335048
+                ],
+                [
+                    3845057226
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "TestItemDescription3",
+            "hash": 3620277039,
+            "name": "TestItem3",
+            "plugs": [
+                [
+                    1467527085
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    243981275
+                ],
+                [
+                    460017080
+                ],
+                [
+                    990298390
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "TestItemDescription4",
+            "hash": 3620277039,
+            "name": "TestItem4",
+            "plugs": [
+                [
+                    2860123632
+                ],
+                [
+                    550838496
+                ],
+                [
+                    2938480696
+                ],
+                [
+                    1549370717
+                ],
+                [
+                    155346308
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        }
+    ]
+}
