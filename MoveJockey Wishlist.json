@@ -3,7 +3,7 @@
     "name": "MoveJockey Wishlist",
     "data": [
         {
-            "description": "TestItemDescription2",
+            "description": "",
             "hash": 3620277039,
             "name": "TestItem2",
             "plugs": [
@@ -28,7 +28,7 @@
             ]
         },
         {
-            "description": "TestItemDescription3",
+            "description": "",
             "hash": 3620277039,
             "name": "TestItem3",
             "plugs": [
@@ -53,7 +53,7 @@
             ]
         },
         {
-            "description": "TestItemDescription4",
+            "description": "",
             "hash": 3620277039,
             "name": "TestItem4",
             "plugs": [
