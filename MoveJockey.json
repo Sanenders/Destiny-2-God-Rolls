@@ -2245,6 +2245,196 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Flared Magwell\nPerk 1: Attrition Orbs or Hatchling\nPerk 2: Target Lock or Demolitionist (also good: Master of Arms)\nMasterwork: Reload Speed\nOrigin Trait: Field-Tested",
+            "hash": 2872063099,
+            "name": "The Immortal PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    984655331,
+                    243981275,
+                    102912326,
+                    831391274
+                ],
+                [
+                    2939589096,
+                    365154968,
+                    1906147653,
+                    3523296417,
+                    2963273944,
+                    3081867624
+                ],
+                [
+                    1064478151,
+                    2120661319
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Ricochet Rounds\nPerk 1: Rangefinder or Dynamic Sway Reduction (also good: Threat Detector)\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Roar of Battle",
+            "hash": 2872063099,
+            "name": "The Immortal PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    1968098204,
+                    1885400500
+                ],
+                [
+                    509594246,
+                    2846385770,
+                    3060983774,
+                    1359896290,
+                    494941759,
+                    4071163871
+                ],
+                [
+                    2939589096,
+                    365154968,
+                    2923251173,
+                    1015611457
+                ],
+                [
+                    4236235115,
+                    1673863459
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling\nMagazine: Accurized Rounds\nPerk 1: Subsistence\nPerk 2: Frenzy or Demolitionist\nMasterwork: Range",
+            "hash": 3886416794,
+            "name": "Submission PVE God Roll",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    4245865861,
+                    1820235745
+                ],
+                [
+                    3007133316,
+                    4104185692,
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    3363267119
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Full Bore\nMagazine: Accurized Rounds\nPerk 1: Perpetual Motion or Encore\nPerk 2: Killing Wind\nMasterwork: Range",
+            "hash": 3886416794,
+            "name": "Submission PVP God Roll",
+            "plugs": [
+                [
+                    1871180748,
+                    202670084
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    2014892510,
+                    1428297954,
+                    838873202,
+                    1195158366
+                ],
+                [
+                    4207509907,
+                    2450788523
+                ],
+                [
+                    3363267119
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Flared Magwell\nPerk 1: Repulsor Brace\nPerk 2: Destabilizing Rounds\nMasterwork: Reload Speed",
+            "hash": 2022294213,
+            "name": "Shayura's Wrath PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    2541826827,
+                    776531651
+                ],
+                [
+                    1926441324,
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Dynamic Sway Reduction (also good: Zen Moment)\nPerk 2: Kill Clip (also good: Tap The Trigger)\nMasterwork: Range",
+            "hash": 2022294213,
+            "name": "Shayura's Wrath PVP God Roll",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553
+                ],
+                [
+                    1968098204,
+                    1885400500
+                ],
+                [
+                    3060983774,
+                    1359896290,
+                    1748774930,
+                    2387244414
+                ],
+                [
+                    2923251173,
+                    1015611457,
+                    1523649716,
+                    1890422124
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
