@@ -2435,6 +2435,457 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Flared Magwell\nPerk 1: Demolitionist (also good: Subsistence)\nPerk 2: Crystalline Corpsebloom (also good: Desperate Measures)\nMasterwork: Stability or Reload Speed\nOrigin Trait: Tenacity",
+            "hash": 1524387902,
+            "name": "Seraphine Haze PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    1906147653,
+                    3523296417,
+                    4245865861,
+                    1820235745
+                ],
+                [
+                    2078520142,
+                    2922950962,
+                    2799030358,
+                    2109543898
+                ],
+                [
+                    483923727,
+                    3911709647
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling\nMagazine: Accurized Rounds\nPerk 1: Dynamic Sway Reduction\nPerk 2: Target Lock\nMasterwork: Range\nOrigin Trait: Tenacity",
+            "hash": 1524387902,
+            "name": "Seraphine Haze PVP God Roll",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    3060983774,
+                    1359896290
+                ],
+                [
+                    2939589096,
+                    365154968
+                ],
+                [
+                    483923727,
+                    3911709647
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Polygonal Rifling or Fluted Barrel\nMagazine: Flared Magwell or Appended Mag\nPerk 1: Fourth Time’s the Charm\nPerk 2: Frenzy\nMasterwork: Range or Handling",
+            "hash": 1081724548,
+            "name": "Rapacious Appetite PVE God Roll",
+            "plugs": [
+                [
+                    3966296580,
+                    1392496348,
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1709045111,
+                    3230963543,
+                    1065371964,
+                    1087426260
+                ],
+                [
+                    848860060,
+                    1354429876
+                ],
+                [
+                    3007133316,
+                    4104185692
+                ],
+                [
+                    2053642371
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds or High-Caliber Rounds\nPerk 1: Perpetual Motion\nPerk 2: Target Lock\nMasterwork: Range",
+            "hash": 1081724548,
+            "name": "Rapacious Appetite PVP God Roll",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553
+                ],
+                [
+                    1968098204,
+                    1885400500,
+                    494745090,
+                    1561002382
+                ],
+                [
+                    2014892510
+                ],
+                [
+                    2939589096
+                ],
+                [
+                    2053642371
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Proximity Power or Slice\nPerk 2: Swashbuckler or Dragonfly (also good: Surrounded)\nMasterwork: Reload Speed\nOrigin Trait: Wild Card",
+            "hash": 190747610,
+            "name": "Qua Nilus II PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1065371964,
+                    1087426260
+                ],
+                [
+                    820036316,
+                    4190679284,
+                    3422796781,
+                    923806249
+                ],
+                [
+                    1161469972,
+                    4082225868,
+                    169755979,
+                    2848615171,
+                    781192741,
+                    3708227201
+                ],
+                [
+                    501821599,
+                    1050127423
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Accurized Rounds\nPerk 1: Dynamic Sway Reduction (also good: Transcendent Moment)\nPerk 2: Swashbuckler or Harmony\nMasterwork: Range\nOrigin Trait: Vanguard Determination",
+            "hash": 190747610,
+            "name": "Qua Nilus II PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    3060983774,
+                    1359896290,
+                    680897173,
+                    3731491409
+                ],
+                [
+                    1161469972,
+                    4082225868,
+                    2748801589,
+                    438098033
+                ],
+                [
+                    1621842933,
+                    3846229553
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Flared Magwell\nPerk 1: Loose Change (also good: Attrition Orbs)\nPerk 2: Jolting Feedback (also good: Frenzy)\nMasterwork: Handling",
+            "hash": 825495813,
+            "name": "Noxious Vetiver PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    561986700,
+                    1119449540,
+                    984655331,
+                    243981275
+                ],
+                [
+                    717070634,
+                    3966416502,
+                    3007133316,
+                    4104185692
+                ],
+                [
+                    2041432007
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Accurized Rounds\nPerk 1: To The Pain\nPerk 2: Target Lock\nMasterwork: Range or Stability",
+            "hash": 825495813,
+            "name": "Noxious Vetiver PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    3416609154,
+                    3938834702
+                ],
+                [
+                    2939589096,
+                    365154968
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Tactical Mag\nPerk 1: Grave Robber (also good: Pugilist)\nPerk 2: Sword Logic or Swashbuckler\nMasterwork: Stability\nOrigin Trait: Willing Vessel",
+            "hash": 3234363830,
+            "name": "Mirror Imago PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1783397184,
+                    106909392
+                ],
+                [
+                    402033656,
+                    1631667848
+                ],
+                [
+                    639190697,
+                    31345821,
+                    1161469972,
+                    4082225868
+                ],
+                [
+                    878237828
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Accurized Rounds\nPerk 1: Moving Target (also good: To the Pain)\nPerk 2: Sword Logic or Target Lock\nMasterwork: Range\nOrigin Trait: Willing Vessel",
+            "hash": 3234363830,
+            "name": "Mirror Imago PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    2717805783,
+                    588594999,
+                    3416609154,
+                    3938834702
+                ],
+                [
+                    639190697,
+                    31345821,
+                    2939589096,
+                    365154968
+                ],
+                [
+                    878237828
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Tactical Mag\nPerk 1: Grave Robber (also good: Pugilist)\nPerk 2: Sword Logic or Swashbuckler\nMasterwork: Stability\nOrigin Trait: Willing Vessel",
+            "hash": 302039451,
+            "name": "Mirror Imago PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1783397184,
+                    106909392
+                ],
+                [
+                    402033656,
+                    1631667848,
+                    536173722,
+                    691659142
+                ],
+                [
+                    639190697,
+                    31345821,
+                    1161469972,
+                    4082225868
+                ],
+                [
+                    878237828
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Accurized Rounds\nPerk 1: Moving Target (also good: To the Pain)\nPerk 2: Sword Logic or Target Lock\nMasterwork: Range\nOrigin Trait: Willing Vessel",
+            "hash": 302039451,
+            "name": "Mirror Imago PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    2717805783,
+                    588594999,
+                    3416609154,
+                    3938834702
+                ],
+                [
+                    639190697,
+                    31345821,
+                    2939589096,
+                    365154968
+                ],
+                [
+                    878237828
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Flared Magwell\nPerk 1: Heal Clip (also good: Attrition Orbs)\nPerk 2: Incandescent (also good: Burning Ambition)\nMasterwork: Reload Speed\nOrigin Trait: Vanguard Determination",
+            "hash": 3946054154,
+            "name": "Mida Mini-Tool PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    4223976499,
+                    3017780555,
+                    984655331,
+                    243981275
+                ],
+                [
+                    2675184851,
+                    4293542123,
+                    3581929919,
+                    2890807135
+                ],
+                [
+                    1621842933,
+                    3846229553
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Ricochet Rounds\nPerk 1: Perpetual Motion\nPerk 2: Master of Arms (also good: Aggregate Charge)\nMasterwork: Range\nOrigin Trait: Roar of Battle",
+            "hash": 3946054154,
+            "name": "Mida Mini-Tool PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    1968098204,
+                    1885400500
+                ],
+                [
+                    2014892510,
+                    1428297954
+                ],
+                [
+                    2963273944,
+                    3081867624,
+                    3192447905,
+                    3764420437
+                ],
+                [
+                    4236235115,
+                    1673863459
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
