@@ -20,3 +20,7 @@ Desktop: <a href="https://apps.microsoft.com/detail/9pmg9zq41k95?hl=de-DE&gl=DE"
 3. Choose your language and skip the wishlist selection
 4. Go to settings and click on **add wishlist**
 5. Click on **Custom** and paste the following link:
+```bash
+https://raw.githubusercontent.com/MoveJockey/Destiny-2-God-Rolls/refs/heads/main/littlelight.json
+```
+6. Press the button **Load Wishlist** to add the wishlist to the LittleLight App.
