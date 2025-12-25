@@ -71,6 +71,72 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Steady Rounds\nPerk 1: Rimestealer (also good: Rapid Hit)\nPerk 2: Headstone (also good: Explosive Payload)\nMasterwork: Reload Speed or Stability\nOrigin Trait: Bray Legacy",
+            "hash": 4090134063,
+            "name": "Jurisprudent PVE God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    1002206008,
+                    3177308360
+                ],
+                [
+                    2617553311,
+                    1955165503,
+                    2938480696,
+                    247725512
+                ],
+                [
+                    1171887445,
+                    124408337,
+                    64866129,
+                    3038247973
+                ],
+                [
+                    4232410959,
+                    4139916815
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Rapid Hit (also good: Lone Wolf)\nPerk 2: Explosive Payload\nMasterwork: Stability\nOrigin Trait: Bray Legacy",
+            "hash": 4090134063,
+            "name": "Jurisprudent PVP God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    2938480696,
+                    247725512,
+                    2073244114,
+                    2579169598
+                ],
+                [
+                    64866129,
+                    3038247973
+                ],
+                [
+                    4232410959,
+                    4139916815
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
