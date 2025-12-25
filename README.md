@@ -12,6 +12,11 @@ This repository contains a wish list for Destiny 2 weapon God Rolls. Most God Ro
 
 ## How to use the Wishlist on the LittleLight App (prefered)
 
-1. Download the Littlelight App:
+1. Download the Littlelight App:<br>
+Mobile: <a href="https://play.google.com/store/apps/details?id=me.markezine.luzinha">Android Play Store</a> / <a href="https://itunes.apple.com/us/app/little-light-for-destiny-2/id1373037254?ls=1&mt=8">iOS App Store</a><br>
+Desktop: <a href="https://apps.microsoft.com/detail/9pmg9zq41k95?hl=de-DE&gl=DE">Microsoft App Store</a>
 
-<a id='[ssFeatures](https://play.google.com/store/apps/details?id=me.markezine.luzinha)'>![Logo](https://littlelight.club/img/google-play-badge.png)</a>
+2. Use your Platform Account to sign into Bungie.net
+3. Choose your language and skip the wishlist selection
+4. Go to settings and click on **add wishlist**
+5. Click on **Custom** and paste the following link:
