@@ -451,6 +451,366 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Barrel Shroud\nMagazine: Appended Mag\nPerk 1: Trickle Charge (also good: Proximity Power)\nPerk 2: Rolling Storm (also good: One-Two Punch, Trench Barrel)\nMasterwork: Handling",
+            "hash": 1242785638,
+            "name": "Sarpedon-D PVE God Roll",
+            "plugs": [
+                [
+                    2371713880,
+                    1300023272
+                ],
+                [
+                    1065371964,
+                    1087426260
+                ],
+                [
+                    511499160,
+                    1115162408,
+                    820036316,
+                    4190679284
+                ],
+                [
+                    2633604463,
+                    3218042543,
+                    788178929,
+                    2679249093,
+                    2459015849,
+                    2360754333
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smoothbore\nMagazine: Accurized Rounds\nPerk 1: To the Pain\nPerk 2: Desperate Measures\nMasterwork: Range",
+            "hash": 1242785638,
+            "name": "Sarpedon-D PVP God Roll",
+            "plugs": [
+                [
+                    905499626,
+                    466087222
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    3416609154,
+                    3938834702
+                ],
+                [
+                    2799030358,
+                    2109543898
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Overclocked Heatsink\nPerk 1: Jolting Feedback or Trickle Charge\nPerk 2: Meganuera or Voltshot (also good: Desperate Measures)\nMasterwork: Cooling Efficiency",
+            "hash": 71057630,
+            "name": "Voltaic Shade PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    226831738,
+                    1092016998
+                ],
+                [
+                    717070634,
+                    3966416502,
+                    511499160,
+                    1115162408
+                ],
+                [
+                    4196156997,
+                    657025441,
+                    1720528630,
+                    2173046394,
+                    2799030358,
+                    2109543898
+                ],
+                [
+                    2957461671,
+                    1164078247
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Break\nMagazine: Tactical Heatsink\nPerk 1: Delicate Tuning or Keep Away\nPerk 2: Precision Instrument or Frenzy\nMasterwork: Range",
+            "hash": 71057630,
+            "name": "Voltaic Shade PVP God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    3210123846,
+                    769709866
+                ],
+                [
+                    1341464476,
+                    307683764,
+                    3198323828,
+                    3619207468
+                ],
+                [
+                    332733060,
+                    555281244,
+                    3007133316,
+                    4104185692
+                ],
+                [
+                    2957461671,
+                    1164078247
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Overclocked Heatsink\nPerk 1: Heal Clip or Attrition Orbs\nPerk 2: Incandescent or Onslaught (also good: Burning Ambition)\nMasterwork: Cooling Efficiency\nOrigin Trait: Imperial Allegiance",
+            "hash": 1863583117,
+            "name": "Zealous Ideal PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    226831738,
+                    1092016998
+                ],
+                [
+                    4223976499,
+                    3017780555,
+                    984655331,
+                    243981275
+                ],
+                [
+                    2675184851,
+                    4293542123,
+                    956288240,
+                    95528736,
+                    3581929919,
+                    2890807135
+                ],
+                [
+                    2957461671,
+                    1164078247
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Chambered Compensator\nMagazine: Projection Fuse\nPerk 1: Delicate Tuning or Dynamic Sway Reduction (also good: Zen Moment)\nPerk 2: Tap the Trigger or Onslaught\nMasterwork: Range\nOrigin Trait: Imperial Allegiance",
+            "hash": 1863583117,
+            "name": "Zealous Ideal PVP God Roll",
+            "plugs": [
+                [
+                    3399528164,
+                    3661387068
+                ],
+                [
+                    2800182654,
+                    2969185026
+                ],
+                [
+                    1341464476,
+                    307683764,
+                    3060983774,
+                    1359896290,
+                    1748774930,
+                    2387244414
+                ],
+                [
+                    1523649716,
+                    1890422124,
+                    956288240,
+                    95528736
+                ],
+                [
+                    2957461671,
+                    1164078247
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Accelerated Coils\nPerk 1: Discord or Lead from Gold (also good: Ambitious Assassin)\nPerk 2: Reservoir Burst (also good: Destabilizing Rounds)\nMasterwork: Charge Time\nOrigin Trait: Willing Vessel",
+            "hash": 3228630258,
+            "name": "Afterlight PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1279785143,
+                    689005463
+                ],
+                [
+                    906981559,
+                    3978468247,
+                    3442762221,
+                    1556840489,
+                    3797647183,
+                    2010801679
+                ],
+                [
+                    254337357,
+                    1427256713,
+                    1926441324,
+                    2048641572
+                ],
+                [
+                    878237828
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Break\nMagazine: Particle Repeater\nPerk 1: Under Pressure or Discord\nPerk 2: Successful Warm-up or Cornered\nMasterwork: Range or Stability\nOrigin Trait: Willing Vessel",
+            "hash": 3228630258,
+            "name": "Afterlight PVP God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    3081681954,
+                    3868766766
+                ],
+                [
+                    3755250867,
+                    1645158859,
+                    906981559,
+                    3978468247
+                ],
+                [
+                    617966211,
+                    2652708987,
+                    1008128453,
+                    1799762209
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Rewind Rounds\nPerk 2: Detonator Beam (also good: Jolting Feedback)\nMasterwork: Handling",
+            "hash": 1968711238,
+            "name": "Warlord's Spear PVE God Roll",
+            "plugs": [
+                [
+                    1840239774,
+                    1124871858
+                ],
+                [
+                    2073750249,
+                    2749775325
+                ],
+                [
+                    1563455254,
+                    3418782618
+                ],
+                [
+                    222783511,
+                    4198902903,
+                    717070634,
+                    3966416502
+                ],
+                [
+                    3989629871
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Dynamic Sway Reduction or High-Impact Reserves\nPerk 2: Target Lock\nMasterwork: Range",
+            "hash": 1968711238,
+            "name": "Warlord's Spear PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    2800182654,
+                    2969185026
+                ],
+                [
+                    3060983774,
+                    1359896290,
+                    2002547233,
+                    2213355989
+                ],
+                [
+                    2939589096,
+                    365154968
+                ],
+                [
+                    3989629871
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Tear)\nPerk 2: Detonator Beam (also good: Killing Tally)\nMasterwork: Handling",
+            "hash": 1303313141,
+            "name": "Unsworn PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    2073750249,
+                    2749775325
+                ],
+                [
+                    2840833776,
+                    3700496672,
+                    3244229373,
+                    960997401
+                ],
+                [
+                    222783511,
+                    4198902903,
+                    2896748467,
+                    557221067
+                ],
+                [
+                    1298135794
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }
