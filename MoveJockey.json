@@ -137,6 +137,320 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Light Heatsink\nPerk 1: Attrition Orbs (also good: Trickle Charge)\nPerk 2: Jolting Feedback (also good: Killing Tally, Killing Storm)\nMasterwork: Cooling Efficiency\nOrigin Trait: Imperial Allegiance",
+            "hash": 954563454,
+            "name": "Bitter End PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    4273542183,
+                    1946186791
+                ],
+                [
+                    984655331,
+                    243981275,
+                    511499160,
+                    1115162408
+                ],
+                [
+                    717070634,
+                    3966416502,
+                    2896748467,
+                    557221067,
+                    2633604463,
+                    3218042543
+                ],
+                [
+                    2957461671,
+                    1164078247
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Projection Fuse\nPerk 1: Delicate Tuning\nPerk 2: Killing Tally\nMasterwork: Range\nOrigin Trait: Imperial Allegiance",
+            "hash": 954563454,
+            "name": "Bitter End PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    2800182654,
+                    2969185026
+                ],
+                [
+                    1341464476,
+                    307683764
+                ],
+                [
+                    2896748467,
+                    557221067
+                ],
+                [
+                    2957461671,
+                    1164078247
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Light Heatsink\nPerk 1: Destabilizing Rounds (also good: Repulsor Brace, Delicate Tuning)\nPerk 2: Demoralize (also good: Meganeura, Frenzy)\nMasterwork: Cooling Efficiency\nOrigin Trait: Imperial Allegiance",
+            "hash": 2873508409,
+            "name": "High Tyrant PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    4273542183,
+                    1946186791
+                ],
+                [
+                    1926441324,
+                    2048641572,
+                    2541826827,
+                    776531651,
+                    1341464476,
+                    307683764
+                ],
+                [
+                    2813913866,
+                    1464081238,
+                    4196156997,
+                    657025441,
+                    3007133316,
+                    4104185692
+                ],
+                [
+                    2957461671,
+                    1164078247
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Headseeker (also good: Master of Arms)\nMasterwork: Range\nOrigin Trait: Imperial Allegiance",
+            "hash": 2873508409,
+            "name": "High Tyrant PVP God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    2800182654,
+                    2969185026
+                ],
+                [
+                    2938480696,
+                    247725512
+                ],
+                [
+                    4045335048,
+                    460017080,
+                    2963273944,
+                    3081867624
+                ],
+                [
+                    2957461671,
+                    1164078247
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Liquid Coils or Accelerated Coils\nPerk 1: Envious Arsenal (also good: Reconstruction)\nPerk 2: Bait and Switch (also good: Precision Instrument)\nMasterwork: Charge Time\nOrigin Trait: Veist Stinger",
+            "hash": 766122634,
+            "name": "Mistral Lift PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    2777563320,
+                    1687452232
+                ],
+                [
+                    2817499044,
+                    3987942396,
+                    461595545,
+                    1523832109
+                ],
+                [
+                    3744057135,
+                    3078487919,
+                    332733060,
+                    555281244
+                ],
+                [
+                    54024075,
+                    3988215619
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Envious Arsenal (also good: Slideshot, Air Trigger)\nPerk 2: Elemental Honing (also good: Aggregate Charge, Bait and Switch)\nMasterwork: Handling\nOrigin Trait: Contending Cascade",
+            "hash": 4069880346,
+            "name": "Gizmo Weft PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    2817499044,
+                    3987942396,
+                    191144788,
+                    3161816588,
+                    3291427296,
+                    1421772400
+                ],
+                [
+                    496047945,
+                    1089671869,
+                    3192447905,
+                    3764420437,
+                    3744057135,
+                    3078487919
+                ],
+                [
+                    2691822036,
+                    934928524
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Rimestealer (also good: Demolitionist)\nPerk 2: Crystalline Corpsebloom (also good: Reaper’s Tithe)\nMasterwork: Handling or Reload Speed\nOrigin Trait: Field-Tested",
+            "hash": 2922964484,
+            "name": "Permafrost PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    2617553311,
+                    1955165503,
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    2078520142,
+                    2922950962,
+                    177189259,
+                    113508675
+                ],
+                [
+                    1064478151,
+                    2120661319
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Flared Magwell\nPerk 1: Firefly or Slice (also good: Shoot to Loot)\nPerk 2: Sword Logic or Explosive Payload (also good: Tear)\nMasterwork: Reload Speed\nOrigin Trait: Fleet Footed",
+            "hash": 2263462407,
+            "name": "Corundum Hammer PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    1183436451,
+                    3824105627,
+                    3422796781,
+                    923806249,
+                    2840833776,
+                    3700496672
+                ],
+                [
+                    639190697,
+                    31345821,
+                    64866129,
+                    3038247973,
+                    3244229373,
+                    960997401
+                ],
+                [
+                    1939575288,
+                    65797256
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Accurized Rounds\nPerk 1: Slideshot (also good: Fragile Focus)\nPerk 2: Opening Shot or Explosive Payload\nMasterwork: Stability\nOrigin Trait: Roar of Battle",
+            "hash": 2263462407,
+            "name": "Corundum Hammer PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    191144788,
+                    3161816588,
+                    1609056795,
+                    2451262963
+                ],
+                [
+                    1370847713,
+                    47981717,
+                    64866129,
+                    3038247973
+                ],
+                [
+                    4236235115,
+                    1673863459
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
