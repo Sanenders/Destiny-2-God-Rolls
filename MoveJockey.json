@@ -3,7 +3,7 @@
     "name": "MoveJockey Wishlist",
     "data": [
         {
-            "description": "Barrel:Smallbore\nMagazine:Extended Mag\nPerk 1:Shoot to Loot or Attrition Orbs\nPerk 2:Kinetic Tremors\nMasterwork:Stability\nStock:Hand-Laid Stock",
+            "description": "Barrel: Smallbore\nMagazine: Extended Mag\nPerk 1: Shoot to Loot or Attrition Orbs\nPerk 2: Kinetic Tremors\nMasterwork: Stability\nOrigin Trait: Hand-Laid Stock",
             "hash": 3620277039,
             "name": "Peculiar Charm PVE God Roll",
             "plugs": [
@@ -810,6 +810,318 @@
             ],
             "tags": [
                 "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Accurized Rounds\nPerk 1: Rangefinder (also good: Lone Wolf)\nPerk 2: Headseeker\nMasterwork: Range\nOrigin Trait: Hand-Laid Stock",
+            "hash": 3620277039,
+            "name": "Peculiar Charm PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    509594246,
+                    2846385770,
+                    2073244114,
+                    2579169598
+                ],
+                [
+                    4045335048,
+                    460017080
+                ],
+                [
+                    3845057226,
+                    990298390
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Subsistence\nPerk 2: Killing Tally or Detonator Beam\nMasterwork: Handling\nOrigin Trait: Tenacity",
+            "hash": 3576134513,
+            "name": "Ribbontail PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    2073750249,
+                    2749775325
+                ],
+                [
+                    4245865861,
+                    1820235745
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    222783511,
+                    4198902903
+                ],
+                [
+                    483923727,
+                    3911709647
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Recycled Energy or Triple Tap\nPerk 2: Jolting Feedback or Detonator Beam (also good: Rolling Storm)\nMasterwork: Handling",
+            "hash": 2029899814,
+            "name": "Keraunios PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    2073750249,
+                    2749775325
+                ],
+                [
+                    3555252274,
+                    3713215006,
+                    573122728,
+                    3400784728
+                ],
+                [
+                    717070634,
+                    3966416502,
+                    222783511,
+                    4198902903,
+                    2633604463,
+                    3218042543
+                ],
+                [
+                    1702976605
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nBattery: Tactical Battery\nPerk 1: Dynamic Sway Reduction\nPerk 2: Closing Time\nMasterwork: Stability",
+            "hash": 2029899814,
+            "name": "Keraunios PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    3256371876,
+                    732557052
+                ],
+                [
+                    3060983774,
+                    1359896290
+                ],
+                [
+                    3955464425,
+                    1194056669
+                ],
+                [
+                    1702976605
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Corkscrew Rifling\nMagazine: Projection Fuse\nPerk 1: Subsistence or Slice\nPerk 2: Killing Tally or Hatchling\nMasterwork: Handling or Range",
+            "hash": 1711056134,
+            "name": "Incisor PVE God Roll",
+            "plugs": [
+                [
+                    111235976,
+                    4090651448
+                ],
+                [
+                    2800182654,
+                    2969185026
+                ],
+                [
+                    4245865861,
+                    1820235745,
+                    3422796781,
+                    923806249
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    102912326,
+                    831391274
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Tactical Battery\nPerk 1: Slice or Dynamic Sway Reduction\nPerk 2: Tap the Trigger or Kill Clip\nMasterwork: Range",
+            "hash": 1711056134,
+            "name": "Incisor PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    3256371876,
+                    732557052
+                ],
+                [
+                    3422796781,
+                    923806249,
+                    3060983774,
+                    1359896290
+                ],
+                [
+                    1523649716,
+                    1890422124,
+                    2923251173,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Corkscrew Rifling\nMagazine: Projection Fuse\nPerk 1: Subsistence or Slice\nPerk 2: Killing Tally or Hatchling\nMasterwork: Handling or Range",
+            "hash": 2839600459,
+            "name": "Incisor PVE God Roll",
+            "plugs": [
+                [
+                    111235976,
+                    4090651448
+                ],
+                [
+                    2800182654,
+                    2969185026
+                ],
+                [
+                    4245865861,
+                    1820235745,
+                    3422796781,
+                    923806249
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    102912326,
+                    831391274
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Tactical Battery\nPerk 1: Slice or Dynamic Sway Reduction\nPerk 2: Tap the Trigger or Kill Clip\nMasterwork: Range",
+            "hash": 2839600459,
+            "name": "Incisor PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    3256371876,
+                    732557052
+                ],
+                [
+                    3422796781,
+                    923806249,
+                    3060983774,
+                    1359896290
+                ],
+                [
+                    1523649716,
+                    1890422124,
+                    2923251173,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Shoot to Loot (also good: Repulsor Brace)\nPerk 2: One for All (also good: Demolitionist)\nMasterwork: Reload Speed",
+            "hash": 1886840007,
+            "name": "Chronophage PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    3839493627,
+                    2680121939
+                ],
+                [
+                    2840833776,
+                    3700496672,
+                    2541826827,
+                    776531651
+                ],
+                [
+                    859780267,
+                    4049631843,
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    253121539
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nBattery: Enhanced Battery\nPerk 1: Elemental Capacitor\nPerk 2: High Ground (also good: Desperate Measures)\nMasterwork: Range",
+            "hash": 1886840007,
+            "name": "Chronophage PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    3839493627,
+                    2680121939
+                ],
+                [
+                    711234314,
+                    3511092054
+                ],
+                [
+                    2140591236,
+                    2319119708,
+                    2799030358,
+                    2109543898
+                ],
+                [
+                    253121539
+                ]
+            ],
+            "tags": [
+                "GodPVP"
             ]
         }
     ]
