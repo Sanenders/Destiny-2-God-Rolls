@@ -1541,6 +1541,710 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Blade: Honed Edge\nGuard: Swordmaster’s Guard\nPerk 1: Tireless Blade\nPerk 2: En Garde \nMasterwork: Impact",
+            "hash": 2139640995,
+            "name": "Hero of Ages PVE God Roll",
+            "plugs": [
+                [
+                    4270598587,
+                    2827049491
+                ],
+                [
+                    125241418,
+                    269888150
+                ],
+                [
+                    2590710093
+                ],
+                [
+                    1685431615
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Blade: Hungry Edge\nGuard: Swordmaster’s Guard\nPerk 1: Tireless Blade\nPerk 2: Assassin’s Blade\nMasterwork: Impact",
+            "hash": 2139640995,
+            "name": "Hero of Ages PVP God Roll",
+            "plugs": [
+                [
+                    1498024248,
+                    436053704
+                ],
+                [
+                    125241418,
+                    269888150
+                ],
+                [
+                    2590710093
+                ],
+                [
+                    354401740
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Blade: Jagged Edge or Tempered Edge\nGuard: Swordmaster’s Guard\nPerk 1: Relentless Strikes or Tireless Blade\nPerk 2: Whirlwind Blade or Chain Reaction\nMasterwork: Impact",
+            "hash": 3371413057,
+            "name": "Goldtusk PVE God Roll",
+            "plugs": [
+                [
+                    3959569796,
+                    3666208348,
+                    766579919,
+                    938542991
+                ],
+                [
+                    269888150
+                ],
+                [
+                    4085959009,
+                    1749209109,
+                    4183521337,
+                    2590710093
+                ],
+                [
+                    147913470,
+                    3913600130,
+                    598607952,
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Blade: Jagged Edge or Tempered Edge\nGuard: Swordmaster’s Guard\nPerk 1: Valiant Charge\nPerk 2: Counterattack\nMasterwork: Impact",
+            "hash": 3371413057,
+            "name": "Goldtusk PVP God Roll",
+            "plugs": [
+                [
+                    3959569796,
+                    3666208348,
+                    766579919,
+                    938542991
+                ],
+                [
+                    269888150
+                ],
+                [
+                    4274613598,
+                    4274614370
+                ],
+                [
+                    1145640183,
+                    3016987351
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Blade: Hungry Edge\nGuard: Balanced Guard\nPerk 1: Incandescent\nPerk 2: One for All (also good: Chain Reaction)\nMasterwork: Impact",
+            "hash": 4207120603,
+            "name": "False Idols PVE God Roll",
+            "plugs": [
+                [
+                    1498024248,
+                    436053704
+                ],
+                [
+                    2338887882,
+                    52780822
+                ],
+                [
+                    2675184851,
+                    4293542123
+                ],
+                [
+                    859780267,
+                    4049631843,
+                    598607952,
+                    2396489472
+                ],
+                [
+                    1988485648
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Blade: Honed Edge\nGuard: Balanced Guard\nPerk 1: Wellspring\nPerk 2: Vorpal Weapon\nMasterwork: Impact",
+            "hash": 4207120603,
+            "name": "False Idols PVP God Roll",
+            "plugs": [
+                [
+                    4270598587,
+                    2827049491
+                ],
+                [
+                    2338887882,
+                    52780822
+                ],
+                [
+                    2675361166,
+                    3592538738
+                ],
+                [
+                    3418165135,
+                    1546637391
+                ],
+                [
+                    1988485648
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Blade: Jagged Edge\nGuard: Swordmaster’s Guard\nPerk 1: Relentless Strikes (also good: Tireless Blade)\nPerk 2: Elemental Honing (also good: Redirection)\nMasterwork: Impact\nOrigin Trait: Bray Legacy",
+            "hash": 2344383760,
+            "name": "Eighty-Six PVE God Roll",
+            "plugs": [
+                [
+                    3959569796,
+                    3666208348
+                ],
+                [
+                    125241418,
+                    269888150
+                ],
+                [
+                    4085959009,
+                    1749209109
+                ],
+                [
+                    496047945,
+                    1089671869,
+                    1545231802,
+                    3201496230
+                ],
+                [
+                    4232410959,
+                    4139916815
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Blade: Honed Edge\nGuard: Swordmaster’s Guard\nPerk 1: Tireless Blade\nPerk 2: Surrounded\nMasterwork: Impact",
+            "hash": 3668817296,
+            "name": "Dragoncult Sickle PVE God Roll",
+            "plugs": [
+                [
+                    4270598587,
+                    2827049491
+                ],
+                [
+                    125241418,
+                    269888150
+                ],
+                [
+                    2590710093
+                ],
+                [
+                    3708227201
+                ],
+                [
+                    220689851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Blade: Honed Edge\nGuard: Burst Guard\nPerk 1: Tireless Blade\nPerk 2: Golden Tricorn\nMasterwork: Impact",
+            "hash": 3668817296,
+            "name": "Dragoncult Sickle PVP God Roll",
+            "plugs": [
+                [
+                    4270598587,
+                    2827049491
+                ],
+                [
+                    3923000764,
+                    3625355092
+                ],
+                [
+                    2590710093
+                ],
+                [
+                    2610012052
+                ],
+                [
+                    220689851
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Blade: Jagged Edge\nGuard: Swordmaster’s Guard\nPerk 1: Relentless Strikes\nPerk 2: Surrounded\nMasterwork: Impact",
+            "hash": 3366545721,
+            "name": "Bequest PVE God Roll",
+            "plugs": [
+                [
+                    3959569796,
+                    3666208348
+                ],
+                [
+                    125241418,
+                    269888150
+                ],
+                [
+                    4085959009,
+                    1749209109
+                ],
+                [
+                    781192741,
+                    3708227201
+                ],
+                [
+                    766321425
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Blade: Honed Edge\nGuard: Burst Guard\nPerk 1: Tireless Blade\nPerk 2: Assassin’s Blade\nMasterwork: Impact",
+            "hash": 3366545721,
+            "name": "Bequest PVP God Roll",
+            "plugs": [
+                [
+                    4270598587,
+                    2827049491
+                ],
+                [
+                    3923000764,
+                    3625355092
+                ],
+                [
+                    4183521337,
+                    2590710093
+                ],
+                [
+                    3678483220,
+                    354401740
+                ],
+                [
+                    766321425
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Blade: Tempered Edge\nGuard: Swordmasters Guard\nPerk 1: Relentless Strikes (also good: Slice)\nPerk 2: Elemental Honing (also good: Surrounded)\nMasterwork: Impact",
+            "hash": 547165496,
+            "name": "Abyssal Edge PVE God Roll",
+            "plugs": [
+                [
+                    766579919,
+                    938542991
+                ],
+                [
+                    125241418,
+                    269888150
+                ],
+                [
+                    4085959009,
+                    1749209109,
+                    3422796781,
+                    923806249
+                ],
+                [
+                    496047945,
+                    1089671869,
+                    781192741,
+                    3708227201
+                ],
+                [
+                    878237828
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Blade: Honed Edge\nGuard: Balanced Guard\nPerk 1: Valiant Charge\nPerk 2: Demolitionist (also good: Sword Logic, En Garde)\nMasterwork: Impact",
+            "hash": 547165496,
+            "name": "Abyssal Edge PVP God Roll",
+            "plugs": [
+                [
+                    4270598587,
+                    2827049491
+                ],
+                [
+                    2338887882,
+                    52780822
+                ],
+                [
+                    4274613598,
+                    4274614370
+                ],
+                [
+                    1906147653,
+                    3523296417,
+                    639190697,
+                    1685431615
+                ],
+                [
+                    878237828
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Blade: Tempered Edge\nGuard: Swordmasters Guard\nPerk 1: Relentless Strikes (also good: Slice)\nPerk 2: Elemental Honing (also good: Surrounded)\nMasterwork: Impact",
+            "hash": 2712683313,
+            "name": "Abyssal Edge PVE God Roll",
+            "plugs": [
+                [
+                    766579919,
+                    938542991
+                ],
+                [
+                    125241418,
+                    269888150
+                ],
+                [
+                    4085959009,
+                    1749209109,
+                    3422796781,
+                    923806249
+                ],
+                [
+                    496047945,
+                    1089671869,
+                    781192741,
+                    3708227201
+                ],
+                [
+                    878237828
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Blade: Honed Edge\nGuard: Balanced Guard\nPerk 1: Valiant Charge\nPerk 2: Demolitionist (also good: Sword Logic, En Garde)\nMasterwork: Impact",
+            "hash": 2712683313,
+            "name": "Abyssal Edge PVP God Roll",
+            "plugs": [
+                [
+                    4270598587,
+                    2827049491
+                ],
+                [
+                    2338887882,
+                    52780822
+                ],
+                [
+                    4274613598,
+                    4274614370
+                ],
+                [
+                    1906147653,
+                    3523296417,
+                    639190697,
+                    31345821,
+                    3406782879,
+                    1685431615
+                ],
+                [
+                    878237828
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Accelerated Coils\nPerk 1: Discord or Lead from Gold (also good: Ambitious Assassin)\nPerk 2: Reservoir Burst (also good: Destabilizing Rounds)\nMasterwork: Charge Time\nOrigin Trait: Willing Vessel",
+            "hash": 3953163559,
+            "name": "Afterlight PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1279785143,
+                    689005463
+                ],
+                [
+                    906981559,
+                    3978468247,
+                    3442762221,
+                    1556840489,
+                    3797647183,
+                    2010801679
+                ],
+                [
+                    254337357,
+                    1427256713,
+                    1926441324,
+                    2048641572
+                ],
+                [
+                    878237828
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Particle Repeater\nPerk 1: Under Pressure or Discord\nPerk 2: Successful Warm-up or Cornered\nMasterwork: Range or Stability\nOrigin Trait: Willing Vessel",
+            "hash": 3953163559,
+            "name": "Afterlight PVP God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    3081681954,
+                    3868766766
+                ],
+                [
+                    3755250867,
+                    1645158859,
+                    906981559,
+                    3978468247
+                ],
+                [
+                    617966211,
+                    2652708987,
+                    1008128453,
+                    1799762209
+                ],
+                [
+                    878237828
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Flared Magwell\nPerk 1: Heal Clip (also good: Demolitionist or Attrition Orbs)\nPerk 2: Incandescent or Chaos Reshaped (also good: Burning Ambition)\nMasterwork: Reload Speed\nOrigin Trait: Dream Work or Tex Balanced Stock",
+            "hash": 3293207827,
+            "name": "Yeartide Apex PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    4223976499,
+                    3017780555,
+                    1906147653,
+                    3523296417,
+                    984655331,
+                    243981275
+                ],
+                [
+                    2675184851,
+                    4293542123,
+                    1817983009,
+                    3640170453,
+                    3581929919,
+                    2890807135
+                ],
+                [
+                    1198287879,
+                    1380061575,
+                    1043703792,
+                    2437618208
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Ricochet Rounds\nPerk 1: Lone Wolf (also good: Heal Clip)\nPerk 2: Target Lock (also good: Chaos Reshaped)\nMasterwork: Range\nOrigin Trait: Dream Work",
+            "hash": 3293207827,
+            "name": "Yeartide Apex PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    1968098204,
+                    1885400500
+                ],
+                [
+                    2073244114,
+                    2579169598,
+                    4223976499,
+                    3017780555
+                ],
+                [
+                    2939589096,
+                    365154968,
+                    1817983009,
+                    3640170453
+                ],
+                [
+                    1198287879,
+                    1380061575
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "VOID BUILD\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Repulsor Brace\nPerk 2: Desperate Measures (also good: Destabilizing Rounds)\nMasterwork: Range or Stability",
+            "hash": 1050806815,
+            "name": "The Recluse PVE God Roll - Void Build",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    2541826827,
+                    776531651
+                ],
+                [
+                    2799030358,
+                    2109543898,
+                    1926441324,
+                    2048641572
+                ],
+                [
+                    2489430594
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "AD CLEAR BUILD\nBarrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Repulsor Brace (also good: Threat Detector)\nPerk 2: Frenzy (also good: Surrounded)\nMasterwork: Range or Stability",
+            "hash": 1050806815,
+            "name": "The Recluse PVE God Roll - Ad Clear Build",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    2541826827,
+                    776531651,
+                    494941759,
+                    4071163871
+                ],
+                [
+                    3007133316,
+                    4104185692,
+                    781192741,
+                    3708227201
+                ],
+                [
+                    2489430594
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "6V6 MODES\nBarrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Dynamic Sway Reduction\nPerk 2: Master of Arms\nMasterwork: Range",
+            "hash": 1050806815,
+            "name": "The Recluse PVP God Roll - 6v6 Modes",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553
+                ],
+                [
+                    1968098204,
+                    1885400500
+                ],
+                [
+                    3060983774,
+                    1359896290
+                ],
+                [
+                    2963273944,
+                    3081867624
+                ],
+                [
+                    2489430594
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Dynamic Sway Reduction\nPerk 2: Tap the Trigger\nMasterwork: Range",
+            "hash": 1050806815,
+            "name": "The Recluse PVP God Roll - 3v3 Modes",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553
+                ],
+                [
+                    1968098204,
+                    1885400500
+                ],
+                [
+                    3060983774,
+                    1359896290
+                ],
+                [
+                    1523649716,
+                    1890422124
+                ],
+                [
+                    2489430594
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
