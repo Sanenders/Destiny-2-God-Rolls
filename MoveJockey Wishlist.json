@@ -1,0 +1,29 @@
+{
+    "description": "Test",
+    "name": "MoveJockey Wishlist",
+    "data": [
+        {
+            "description": "",
+            "hash": 3620277039,
+            "name": "",
+            "plugs": [
+                [
+                    1932356121
+                ],
+                [
+                    1065371964
+                ],
+                [
+                    984655331
+                ],
+                [
+                    4045335048
+                ],
+                [
+                    3845057226
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+            ]
+        }
