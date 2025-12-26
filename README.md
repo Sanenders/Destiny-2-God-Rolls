@@ -1,6 +1,6 @@
 # Destiny 2 God Roll Wishlist
 
-This repository contains a wish list for Destiny 2 weapon God Rolls. Most God Rolls come from popular websites such as blueberries.gg.
+This repository contains a wishlist for Destiny 2 weapon God Rolls. Most God Rolls come from popular websites such as blueberries.gg.
 
 ## Important
 
