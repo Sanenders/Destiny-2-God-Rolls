@@ -9030,6 +9030,459 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Enhanced Battery\nPerk 1: Auto-Loading Holster\nPerk 2: Firing Line\nMasterwork: Charge Time",
+            "hash": 3652506829,
+            "name": "Stormchaser PVE God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    3839493627,
+                    2680121939
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    1771339417
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Accelerated Coils\nPerk 1: Rangefinder\nPerk 2: Demolitionist\nMasterwork: Charge Time",
+            "hash": 3652506829,
+            "name": "Stormchaser PVP God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    1279785143,
+                    689005463
+                ],
+                [
+                    2846385770
+                ],
+                [
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Hard Launch\nMagazine: Impact Casing\nPerk 1: Auto-Loading Holster\nPerk 2: Explosive Light or Chain Reaction\nMasterwork: Velocity",
+            "hash": 3489657138,
+            "name": "Palmyra-B PVE God Roll",
+            "plugs": [
+                [
+                    564443854,
+                    981914802
+                ],
+                [
+                    274905539,
+                    3796465595
+                ],
+                [
+                    3528046508,
+                    3300816228
+                ],
+                [
+                    2275087323,
+                    3194351027,
+                    598607952,
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High.Velocity Rounds\nPerk 1: Impulse Amplifier\nPerk 2: Adrenaline Junkie\nMasterwork: Velocity",
+            "hash": 3489657138,
+            "name": "Palmyra-B PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    3878366039,
+                    951095735
+                ],
+                [
+                    2422968039,
+                    11612903
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Smoothbore or Smallbore\nBattery: Assault Mag (also good: Tactical Mag)\nPerk 1: Lead from Gold or Threat Detector\nPerk 2: Swashbuckler or Golden Tricorn (also good: One-Two Punch)\nMasterwork: Reload Speed",
+            "hash": 2563012876,
+            "name": "Matador 64 PVE God Roll",
+            "plugs": [
+                [
+                    905499626,
+                    466087222,
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    1488599449,
+                    791862061,
+                    1783397184,
+                    106909392
+                ],
+                [
+                    1556840489,
+                    4071163871
+                ],
+                [
+                    4082225868,
+                    2610012052,
+                    2679249093
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smoothbore or Smallbore\nMagazine: Accurized Rounds or Light Mag\nPerk 1: Perpetual Motion or Threat Detector\nPerk 2: Opening Shot or Killing Wind\nMasterwork: Range",
+            "hash": 2563012876,
+            "name": "Matador 64 PVP God Roll",
+            "plugs": [
+                [
+                    905499626,
+                    466087222,
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    3267421167,
+                    3142289711,
+                    1807273211,
+                    679225683
+                ],
+                [
+                    1428297954,
+                    4071163871
+                ],
+                [
+                    47981717,
+                    2450788523
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Barrel Shroud\nMagazine: Assault Mag\nPerk 1: Pugilist\nPerk 2: Surrounded or Trench Barrel\nMasterwork: Reload Speed",
+            "hash": 318443586,
+            "name": "Imperial Decree PVE God Roll",
+            "plugs": [
+                [
+                    2371713880,
+                    1300023272
+                ],
+                [
+                    1488599449,
+                    791862061
+                ],
+                [
+                    536173722,
+                    691659142
+                ],
+                [
+                    781192741,
+                    3708227201,
+                    2459015849,
+                    2360754333
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Barrel Shroud\nMagazine: Accurized Rounds\nPerk 1: Threat Detector or Slideshot\nPerk 2: Opening Shot\nMasterwork: Handling or Range",
+            "hash": 318443586,
+            "name": "Imperial Decree PVP God Roll",
+            "plugs": [
+                [
+                    2371713880,
+                    1300023272
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    494941759,
+                    4071163871,
+                    191144788,
+                    3161816588
+                ],
+                [
+                    1370847713,
+                    47981717
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Assault Mag\nPerk 1: Threat Detector (also good: Graverobber, Lead from Gold)\nPerk 2: Chill Clip (also good: Master of Arms)\nMasterwork: Stability\nOrigin Trait: Field-Tested",
+            "hash": 1402874079,
+            "name": "Hawthorne's Field-Forged Shotgun PVE God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    1488599449,
+                    791862061
+                ],
+                [
+                    494941759,
+                    4071163871,
+                    402033656,
+                    1631667848,
+                    3442762221,
+                    1556840489
+                ],
+                [
+                    344235611,
+                    2978966579,
+                    2963273944,
+                    3081867624
+                ],
+                [
+                    1064478151,
+                    2120661319
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Barrel Shroud\nMagazine: Accurized Rounds\nPerk 1: Slideshot (also good: Threat Detector)\nPerk 2: Closing Time (also good: Opening Shot)\nMasterwork: Range\nOrigin Trait: Field-Tested",
+            "hash": 1402874079,
+            "name": "Hawthorne's Field-Forged Shotgun PVP God Roll",
+            "plugs": [
+                [
+                    2371713880,
+                    1300023272
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    191144788,
+                    3161816588,
+                    494941759,
+                    4071163871
+                ],
+                [
+                    3955464425,
+                    1194056669,
+                    1370847713,
+                    47981717
+                ],
+                [
+                    1064478151,
+                    2120661319
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Barrel Shroud (also good: Corkscrew Rifling)\nMagazine: Assault Mag\nPerk 1: Pugilist\nPerk 2: One-Two Punch\nMasterwork: Handling",
+            "hash": 694500607,
+            "name": "Found Verdict PVE God Roll",
+            "plugs": [
+                [
+                    2371713880,
+                    1300023272,
+                    111235976,
+                    4090651448
+                ],
+                [
+                    1488599449,
+                    791862061
+                ],
+                [
+                    536173722,
+                    691659142
+                ],
+                [
+                    788178929,
+                    2679249093
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Rifled Barrel (also good: Corkscrew Rifling)\nMagazine: Accurized Rounds\nPerk 1: Slideshot\nPerk 2: Opening Shot\nMasterwork: Range",
+            "hash": 694500607,
+            "name": "Found Verdict PVP God Roll",
+            "plugs": [
+                [
+                    1987021001,
+                    1332244541
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    191144788,
+                    3161816588
+                ],
+                [
+                    1370847713,
+                    47981717
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Barrel Shroud (also good: Corkscrew Rifling)\nMagazine: Assault Mag\nPerk 1: Pugilist\nPerk 2: One-Two Punch\nMasterwork: Handling",
+            "hash": 851296754,
+            "name": "Found Verdict PVE God Roll",
+            "plugs": [
+                [
+                    2371713880,
+                    1300023272,
+                    111235976,
+                    4090651448
+                ],
+                [
+                    1488599449,
+                    791862061
+                ],
+                [
+                    536173722,
+                    691659142
+                ],
+                [
+                    788178929,
+                    2679249093
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Rifled Barrel (also good: Corkscrew Rifling)\nMagazine: Accurized Rounds\nPerk 1: Slideshot\nPerk 2: Opening Shot\nMasterwork: Range",
+            "hash": 851296754,
+            "name": "Found Verdict PVP God Roll",
+            "plugs": [
+                [
+                    1987021001,
+                    1332244541,
+                    111235976,
+                    4090651448
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    191144788,
+                    3161816588
+                ],
+                [
+                    1370847713,
+                    47981717
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Full Choke\nMagazine: Assault Mag\nPerk 1: Discord\nPerk 2: Chain Reaction (also good: Surrounded)\nMasterwork: Reload Speed",
+            "hash": 499245245,
+            "name": "Ded Gramarye IV PVE God Roll",
+            "plugs": [
+                [
+                    3311319252,
+                    1047830412
+                ],
+                [
+                    1488599449,
+                    791862061
+                ],
+                [
+                    906981559,
+                    3978468247
+                ],
+                [
+                    598607952,
+                    2396489472,
+                    781192741,
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Full Choke\nMagazine: Accurized Rounds\nPerk 1: Threat Detector\nPerk 2: Disruption Break\nMasterwork: Range",
+            "hash": 499245245,
+            "name": "Ded Gramarye IV PVP God Roll",
+            "plugs": [
+                [
+                    3311319252,
+                    1047830412
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    494941759,
+                    4071163871
+                ],
+                [
+                    2216471363,
+                    1683379515
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
