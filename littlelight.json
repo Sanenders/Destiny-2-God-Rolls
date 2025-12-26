@@ -6397,6 +6397,200 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel (also good: Corkscrew Rifling)\nMagazine: Tactical Mag\nPerk 1: Demolitionist\nPerk 2: Desperate Measures (also good: Adrenaline Junkie)\nMasterwork: Reload Speed",
+            "hash": 2328923181,
+            "name": "Breachlight PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774,
+                    111235976,
+                    4090651448
+                ],
+                [
+                    1783397184,
+                    106909392
+                ],
+                [
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    2799030358,
+                    2109543898,
+                    2422968039,
+                    11612903
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Accurized Rounds\nPerk 1: Threat Detector or Perpetual Motion\nPerk 2: Swashbuckler\nMasterwork: Stability",
+            "hash": 2328923181,
+            "name": "Breachlight PVE God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    494941759,
+                    4071163871,
+                    2014892510,
+                    1428297954
+                ],
+                [
+                    1161469972,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Liquid Coils or Ionized Battery\nPerk 1: Rewind Rounds, Demolionist or Reconstruction\nPerk 2: Frenzy or Focused Fury\nMasterwork: Handling or Charge Time",
+            "hash": 1491665733,
+            "name": "Briar's Contempt PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    2777563320,
+                    1687452232,
+                    3629421851,
+                    1483536627
+                ],
+                [
+                    1563455254,
+                    3418782618,
+                    1906147653,
+                    3523296417,
+                    461595545,
+                    1523832109
+                ],
+                [
+                    3007133316,
+                    4104185692,
+                    2402480669,
+                    2896038713
+                ],
+                [
+                    3186078099
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Particle Repeater or Projection Fuse\nPerk 1: Keep Away\nPerk 2: High-Impact Reserves\nMasterwork: Handling or Range",
+            "hash": 1491665733,
+            "name": "Briar's Contempt PVP God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    3081681954,
+                    3868766766,
+                    2800182654,
+                    2969185026
+                ],
+                [
+                    3198323828,
+                    3619207468
+                ],
+                [
+                    2002547233,
+                    2213355989
+                ],
+                [
+                    3186078099
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Liquid Coils or Ionized Battery\nPerk 1: Rewind Rounds, Demolionist or Reconstruction\nPerk 2: Frenzy or Focused Fury\nMasterwork: Handling or Charge Time",
+            "hash": 2890082420,
+            "name": "Briar's Contempt PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    2777563320,
+                    1687452232,
+                    3629421851,
+                    1483536627
+                ],
+                [
+                    1563455254,
+                    3418782618,
+                    1906147653,
+                    3523296417,
+                    461595545,
+                    1523832109
+                ],
+                [
+                    3007133316,
+                    4104185692,
+                    2402480669,
+                    2896038713
+                ],
+                [
+                    3186078099
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Particle Repeater or Projection Fuse\nPerk 1: Keep Away\nPerk 2: High-Impact Reserves\nMasterwork: Handling or Range",
+            "hash": 2890082420,
+            "name": "Briar's Contempt PVP God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    3081681954,
+                    3868766766,
+                    2800182654,
+                    2969185026
+                ],
+                [
+                    3198323828,
+                    3619207468
+                ],
+                [
+                    2002547233,
+                    2213355989
+                ],
+                [
+                    3186078099
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
