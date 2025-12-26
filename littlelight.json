@@ -8858,6 +8858,182 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Assault Mag\nPerk 1: Fourth Time’s the Charm (also good: Reconstruction)\nPerk 2: Focused Fury\nMasterwork: Range",
+            "hash": 135029084,
+            "name": "Nessa's Oblation PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1488599449,
+                    791862061
+                ],
+                [
+                    848860060,
+                    1354429876,
+                    461595545,
+                    1523832109
+                ],
+                [
+                    2402480669,
+                    2896038713
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore or Hammer-forged Rifling\nMagazine: Accurised Rounds or Assault Mag\nPerk 1: Demolitionist\nPerk 2: Opening Shot\nMasterwork: Range",
+            "hash": 135029084,
+            "name": "Nessa's Oblation PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992,
+                    1147230557,
+                    3250034553
+                ],
+                [
+                    3267421167,
+                    3142289711,
+                    1488599449,
+                    791862061
+                ],
+                [
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    1370847713,
+                    47981717
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Assault Mag\nPerk 1: Fourth Time’s the Charm (also good: Reconstruction)\nPerk 2: Focused Fury\nMasterwork: Range",
+            "hash": 522366885,
+            "name": "Nessa's Oblation PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1488599449,
+                    791862061
+                ],
+                [
+                    848860060,
+                    1354429876,
+                    461595545,
+                    1523832109
+                ],
+                [
+                    2402480669,
+                    2896038713
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore or Hammer-forged Rifling\nMagazine: Accurised Rounds or Assault Mag\nPerk 1: Demolitionist\nPerk 2: Opening Shot\nMasterwork: Range",
+            "hash": 522366885,
+            "name": "Nessa's Oblation PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992,
+                    1147230557,
+                    3250034553
+                ],
+                [
+                    3267421167,
+                    3142289711,
+                    1488599449,
+                    791862061
+                ],
+                [
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    1370847713,
+                    47981717
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Barrel Shroud\nMagazine: Assault Mag\nPerk 1: Grave Robber (also good: Discord)\nPerk 2: One-Two Punch (also good: Trench Barrel)\nMasterwork: Range",
+            "hash": 2699423382,
+            "name": "MIDA Macro-Tool PVE God Roll",
+            "plugs": [
+                [
+                    2371713880,
+                    1300023272
+                ],
+                [
+                    1488599449,
+                    791862061
+                ],
+                [
+                    402033656,
+                    1631667848,
+                    906981559,
+                    3978468247
+                ],
+                [
+                    788178929,
+                    2679249093,
+                    2459015849,
+                    2360754333
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Accurized Rounds\nPerk 1: Threat Detector (also good: Slideshot)\nPerk 2: Opening Shot (also good: Closing Time)\nMasterwork: Range",
+            "hash": 2699423382,
+            "name": "MIDA Macro-Tool PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    494941759,
+                    4071163871,
+                    191144788,
+                    3161816588
+                ],
+                [
+                    1370847713,
+                    47981717,
+                    3955464425,
+                    1194056669
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
