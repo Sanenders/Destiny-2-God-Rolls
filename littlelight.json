@@ -8184,6 +8184,680 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Arrowhead Break\nMagazine: Assault Mag\nPerk 1: Rapid-Hit or Lead from Gold (also good: Rimestealer)\nPerk 2: Precision Instrument or Chill Clip (also good: Headstone)\nMasterwork: Handling\nOrigin Trait: Veist Stinger",
+            "hash": 3635232671,
+            "name": "Trachinus PVE God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    1488599449,
+                    791862061
+                ],
+                [
+                    2938480696,
+                    247725512,
+                    3442762221,
+                    1556840489,
+                    2617553311,
+                    1955165503
+                ],
+                [
+                    332733060,
+                    555281244,
+                    344235611,
+                    2978966579,
+                    1171887445,
+                    124408337
+                ],
+                [
+                    54024075,
+                    3988215619
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling\nMagazine: Accurized Rounds\nPerk 1: Transcendent Moment (also good: Killing Wind)\nPerk 2: Binary Orbit\nMasterwork: Range\nOrigin Trait: Tenacity",
+            "hash": 3635232671,
+            "name": "Trachinus PVP God Roll",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    680897173,
+                    3731491409,
+                    4207509907,
+                    2450788523
+                ],
+                [
+                    983853954,
+                    1546142478
+                ],
+                [
+                    483923727,
+                    3911709647
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Assault Mag\nPerk 1: Envious Assassin\nPerk 2: Bait and Switch or Cascade Point\nMasterwork: Handling\nOrigin Trait: One Quiet Moment",
+            "hash": 51129316,
+            "name": "The Inquisitor PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1488599449,
+                    791862061
+                ],
+                [
+                    424370782,
+                    968510818
+                ],
+                [
+                    3744057135,
+                    3078487919,
+                    331667533,
+                    3751912585
+                ],
+                [
+                    4091460919
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Accurized Rounds\nPerk 1: Lone Wolf (also good: Threat Detector)\nPerk 2: Closing Time or Opening Shot\nMasterwork: Range\nOrigin Trait: One Quiet Moment",
+            "hash": 51129316,
+            "name": "The Inquisitor PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    2073244114,
+                    2579169598,
+                    494941759,
+                    4071163871
+                ],
+                [
+                    3955464425,
+                    1194056669,
+                    1370847713,
+                    47981717
+                ],
+                [
+                    4091460919
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Assault Mag\nPerk 1: Envious Assassin\nPerk 2: Bait and Switch or Cascade Point\nMasterwork: Handling\nOrigin Trait: One Quiet Moment",
+            "hash": 2330860573,
+            "name": "The Inquisitor PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1488599449,
+                    791862061
+                ],
+                [
+                    424370782,
+                    968510818
+                ],
+                [
+                    3744057135,
+                    3078487919,
+                    331667533,
+                    3751912585
+                ],
+                [
+                    4091460919
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Accurized Rounds\nPerk 1: Lone Wolf (also good: Threat Detector)\nPerk 2: Closing Time or Opening Shot\nMasterwork: Range\nOrigin Trait: One Quiet Moment",
+            "hash": 2330860573,
+            "name": "The Inquisitor PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    2073244114,
+                    2579169598,
+                    494941759,
+                    4071163871
+                ],
+                [
+                    3955464425,
+                    1194056669,
+                    1370847713,
+                    47981717
+                ],
+                [
+                    4091460919
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Assault Mag\nPerk 1: Reconstruction (also good: Rewind Rounds, Envious Arsenal)\nPerk 2: One-Two Punch (also good: Bait and Switch, Trench Barrel)\nMasterwork: Handling",
+            "hash": 3868973291,
+            "name": "Starscape Null PVE God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    1488599449,
+                    791862061
+                ],
+                [
+                    461595545,
+                    1523832109,
+                    1563455254,
+                    3418782618,
+                    2817499044,
+                    3987942396
+                ],
+                [
+                    788178929,
+                    2679249093,
+                    3744057135,
+                    3078487919,
+                    2459015849,
+                    2360754333
+                ],
+                [
+                    943022827,
+                    2597494435
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Accurized Rounds\nPerk 1: Pugilist\nPerk 2: Aggregate Charge\nMasterwork: Range",
+            "hash": 3868973291,
+            "name": "Starscape Null PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    536173722,
+                    691659142
+                ],
+                [
+                    3192447905,
+                    3764420437
+                ],
+                [
+                    943022827,
+                    2597494435
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Assault Mag\nPerk 1: Lead from Gold\nPerk 2: Recombination\nMasterwork: Reload",
+            "hash": 3232203524,
+            "name": "Someday PVE God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    1488599449,
+                    791862061
+                ],
+                [
+                    3442762221,
+                    1556840489
+                ],
+                [
+                    3335686050,
+                    469285294
+                ],
+                [
+                    1988485648
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Barrel Shroud\nMagazine: Accurized Rounds\nPerk 1: Elemental Capacitor\nPerk 2: Opening Shot\nMasterwork: Range",
+            "hash": 3232203524,
+            "name": "Someday PVP God Roll",
+            "plugs": [
+                [
+                    2371713880,
+                    1300023272
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    711234314,
+                    3511092054
+                ],
+                [
+                    1370847713,
+                    47981717
+                ],
+                [
+                    1988485648
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Appended Mag\nPerk 1: Heal Clip (also good: Auto-Loading Holster)\nPerk 2: Incandescent (also good: Precision Instrument)\nMasterwork: Reload",
+            "hash": 2130875369,
+            "name": "Sojourner's Tale PVE God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    1065371964,
+                    1087426260
+                ],
+                [
+                    4223976499,
+                    3017780555,
+                    3528046508,
+                    3300816228
+                ],
+                [
+                    2675184851,
+                    4293542123,
+                    332733060,
+                    555281244
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Quickdraw (also good: Discord)\nPerk 2: Opening Shot (also good: Harmony)\nMasterwork: Range",
+            "hash": 2130875369,
+            "name": "Sojourner's Tale PVP God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    1961144892,
+                    706527188,
+                    906981559,
+                    3978468247
+                ],
+                [
+                    1370847713,
+                    47981717,
+                    2748801589,
+                    438098033
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Barrel Shroud\nMagazine: Assault Mag\nPerk 1: Discord or Repulsor Brace\nPerk 2: Destabilizing Rounds or Surrounded\nMasterwork: Handling",
+            "hash": 2913577176,
+            "name": "Scavenger's Fate PVE God Roll",
+            "plugs": [
+                [
+                    2371713880,
+                    1300023272
+                ],
+                [
+                    1488599449,
+                    791862061
+                ],
+                [
+                    906981559,
+                    3978468247,
+                    2541826827,
+                    776531651
+                ],
+                [
+                    1926441324,
+                    2048641572,
+                    781192741,
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Barrel Shroud\nMagazine: Accurized Rounds\nPerk 1: Slideshot or Lone Wolf\nPerk 2: Closing Time\nMasterwork: Range or Handling",
+            "hash": 2913577176,
+            "name": "Scavenger's Fate PVP God Roll",
+            "plugs": [
+                [
+                    2371713880,
+                    1300023272
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    191144788,
+                    3161816588,
+                    2073244114,
+                    2579169598
+                ],
+                [
+                    3955464425,
+                    1194056669
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Extended Mag\nPerk 1: Envious Arsenal\nPerk 2: Bait and Switch\nMasterwork: Handling\nOrigin Trait: Roar of Battle",
+            "hash": 1956186483,
+            "name": "Pure Recollection PVE God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    1890997540,
+                    2420895100
+                ],
+                [
+                    2817499044,
+                    3987942396
+                ],
+                [
+                    3744057135,
+                    3078487919
+                ],
+                [
+                    4236235115,
+                    1673863459
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Ricochet Rounds\nPerk 1: Threat Detector\nPerk 2: Closing Time (also good: Headseeker)\nMasterwork: Range\nOrigin Trait: Roar of Battle",
+            "hash": 1956186483,
+            "name": "Pure Recollection PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    1968098204,
+                    1885400500
+                ],
+                [
+                    494941759,
+                    4071163871
+                ],
+                [
+                    3955464425,
+                    1194056669,
+                    4045335048,
+                    460017080
+                ],
+                [
+                    4236235115,
+                    1673863459
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Barrel Shroud\nMagazine: Assault Mag\nPerk 1: Pugilist\nPerk 2: One-Two Punch\nMasterwork: Handling",
+            "hash": 2145441168,
+            "name": "Prophet of Doom PVE God Roll",
+            "plugs": [
+                [
+                    2371713880,
+                    1300023272
+                ],
+                [
+                    1488599449,
+                    791862061
+                ],
+                [
+                    536173722,
+                    691659142
+                ],
+                [
+                    788178929,
+                    2679249093
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Barrel Shroud\nMagazine: Accurized Rounds\nPerk 1: Threat Detector\nPerk 2: Opening Shot (also good: Closing Time)\nMasterwork: Handling",
+            "hash": 2145441168,
+            "name": "Prophet of Doom PVP God Roll",
+            "plugs": [
+                [
+                    2371713880,
+                    1300023272
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    494941759,
+                    4071163871
+                ],
+                [
+                    1370847713,
+                    47981717,
+                    3955464425,
+                    1194056669
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Corkscrew Rifling\nMagazine: Assault Mag\nPerk 1: One-Two Punch or Repulsor Brace\nPerk 2: Vorpal Weapon or Destabilizing Rounds\nMasterwork: Handling",
+            "hash": 367772693,
+            "name": "Precipial PVE God Roll",
+            "plugs": [
+                [
+                    111235976,
+                    4090651448
+                ],
+                [
+                    1488599449,
+                    791862061
+                ],
+                [
+                    788178929,
+                    2679249093,
+                    2541826827,
+                    776531651
+                ],
+                [
+                    3418165135,
+                    1546637391,
+                    1926441324,
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Accurized Rounds\nPerk 1: Threat Detector\nPerk 2: Slideshot or Opening Shot\nMasterwork: Range",
+            "hash": 367772693,
+            "name": "Precipial PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    494941759,
+                    4071163871
+                ],
+                [
+                    191144788,
+                    3161816588,
+                    1370847713,
+                    47981717
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Corkscrew Rifling\nMagazine: Tactical Mag\nPerk 1: Threat Detector (also good: Field Prep)\nPerk 2: One-Two Punch (also good: Trench Barrel)\nMasterwork: Handling",
+            "hash": 1298672084,
+            "name": "Perfect Paradox PVE God Roll",
+            "plugs": [
+                [
+                    111235976,
+                    4090651448
+                ],
+                [
+                    1783397184,
+                    106909392
+                ],
+                [
+                    494941759,
+                    4071163871,
+                    2308090567,
+                    2869569095
+                ],
+                [
+                    788178929,
+                    2679249093,
+                    2459015849,
+                    2360754333
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Corkscrew Rifling (also good: Rifled Barrel)\nMagazine: Accurized Rounds\nPerk 1: Threat Detector\nPerk 2: Opening Shot\nMasterwork: Range",
+            "hash": 1298672084,
+            "name": "Perfect Paradox PVP God Roll",
+            "plugs": [
+                [
+                    111235976,
+                    4090651448,
+                    1987021001,
+                    1332244541
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    494941759,
+                    4071163871
+                ],
+                [
+                    1370847713,
+                    47981717
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
