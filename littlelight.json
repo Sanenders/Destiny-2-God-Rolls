@@ -9483,6 +9483,234 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Corkscrew Rifling\nMagazine: Appended Mag\nPerk 1: Grave Robber (also good: Threat Detector)\nPerk 2: One-Two Punch (also good: Trench Barrel, Cascade Point)\nMasterwork: Handling\nStock: Short-Action",
+            "hash": 2035738085,
+            "name": "Deadlock PVE God Roll",
+            "plugs": [
+                [
+                    111235976,
+                    4090651448
+                ],
+                [
+                    1065371964,
+                    1087426260
+                ],
+                [
+                    402033656,
+                    1631667848,
+                    494941759,
+                    4071163871
+                ],
+                [
+                    788178929,
+                    2679249093,
+                    2459015849,
+                    2360754333,
+                    331667533,
+                    3751912585
+                ],
+                [
+                    1067908860
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Barrel Shroud\nMagazine: Accurized Rounds\nPerk 1: Threat Detector (also good: Slideshot, Lone Wolf)\nPerk 2: Opening Shot (also good: Closing Time)\nMasterwork: Range\nStock: Composite",
+            "hash": 2035738085,
+            "name": "Deadlock PVP God Roll",
+            "plugs": [
+                [
+                    2371713880,
+                    1300023272
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    494941759,
+                    4071163871,
+                    191144788,
+                    3161816588,
+                    2073244114,
+                    2579169598
+                ],
+                [
+                    1370847713,
+                    47981717,
+                    3955464425,
+                    1194056669
+                ],
+                [
+                    3465198467
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Tactical Mag\nPerk 1: Fourth Time’s the Charm\nPerk 2: Precision Instrument\nMasterwork: Handling",
+            "hash": 3649985571,
+            "name": "Arcane Embrace PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1783397184,
+                    106909392
+                ],
+                [
+                    848860060,
+                    1354429876
+                ],
+                [
+                    332733060,
+                    555281244
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Accurized Rounds\nPerk 1: Slideshot\nPerk 2: Closing Time\nMasterwork: Range",
+            "hash": 3649985571,
+            "name": "Arcane Embrace PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    191144788,
+                    3161816588
+                ],
+                [
+                    3955464425,
+                    1194056669
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Rifled Barrel\nMagazine: Assault Mag\nPerk 1: Grave Robber\nPerk 2: One-Two Punch\nMasterwork: Handling",
+            "hash": 2855157553,
+            "name": "A Sudden Death PVE God Roll",
+            "plugs": [
+                [
+                    1987021001,
+                    1332244541
+                ],
+                [
+                    1488599449,
+                    791862061
+                ],
+                [
+                    1631667848
+                ],
+                [
+                    2679249093
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Rifled Barrel\nMagazine: Accurized Rounds\nPerk 1: Slideshot\nPerk 2: Snapshot Sights\nMasterwork: Range",
+            "hash": 2855157553,
+            "name": "",
+            "plugs": [
+                [
+                    1987021001,
+                    1332244541
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    3161816588
+                ],
+                [
+                    957782887
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Assault Mag\nPerk 1: Reconstruction (also good: Auto-Loading Holster)\nPerk 2: Recombination\nMasterwork: Handling",
+            "hash": 4248569242,
+            "name": "Heritage PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1488599449,
+                    791862061
+                ],
+                [
+                    461595545,
+                    1523832109,
+                    3528046508,
+                    3300816228
+                ],
+                [
+                    3335686050,
+                    469285294
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-forged Rifling or Fluted Barrel\nMagazine: Accurized Rounds\nPerk 1: Slideshot or Threat Detector\nPerk 2: Moving Target\nMasterwork: Range or Handling",
+            "hash": 4248569242,
+            "name": "Heritage PVP God Roll",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553,
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    191144788,
+                    3161816588,
+                    494941759,
+                    4071163871
+                ],
+                [
+                    2717805783,
+                    588594999
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
