@@ -1,5 +1,5 @@
 {
-    "description": "Test",
+    "description": "Most God Rolls come from popular websites such as blueberries.gg.",
     "name": "MoveJockey Wishlist",
     "data": [
         {
@@ -4951,6 +4951,589 @@
                 ],
                 [
                     957782887
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Launcher Barrel: Quick Launch\nMagazine: Flared Magwell\nPerk 1: Heal Clip (also good: Beacon Rounds)\nPerk 2: Incandescent (also good: Demolitionist)\nMasterwork: Velocity",
+            "hash": 2198166292,
+            "name": "Aberrant Action PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    4223976499,
+                    3017780555,
+                    1135494563,
+                    2859149211
+                ],
+                [
+                    2675184851,
+                    4293542123,
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    253121539
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Launcher Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Beacon Rounds (also good: Heal Clip)\nPerk 2: Harmony\nMasterwork: Velocity",
+            "hash": 2198166292,
+            "name": "Aberrant Action PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    1135494563,
+                    2859149211,
+                    4223976499,
+                    3017780555
+                ],
+                [
+                    2748801589,
+                    438098033
+                ],
+                [
+                    253121539
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: Tactical Mag\nPerk 1: Impulse Amplifier or Lead from Gold\nPerk 2: Jolting Feedback or One-for-All\nMasterwork: Velocity",
+            "hash": 738446555,
+            "name": "Unfall PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    1783397184,
+                    106909392
+                ],
+                [
+                    3878366039,
+                    951095735,
+                    3442762221,
+                    1556840489
+                ],
+                [
+                    717070634,
+                    3966416502,
+                    859780267,
+                    4049631843
+                ],
+                [
+                    1621842933,
+                    3846229553
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: Tactical Mag\nPerk 1: Air Trigger (also good: Loose Change)\nPerk 2: Chill Clip (also good: Desperate Measures)\nMasterwork: Velocity",
+            "hash": 480368036,
+            "name": "Tinasha's Mastery PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    1783397184,
+                    106909392
+                ],
+                [
+                    3291427296,
+                    1421772400,
+                    561986700,
+                    1119449540
+                ],
+                [
+                    344235611,
+                    2978966579,
+                    2799030358,
+                    2109543898
+                ],
+                [
+                    3989629871
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: Tactical Mag\nPerk 1: Lead from Gold (also good: Demolitionist)\nPerk 2: One for All (also good: Desperate Measures)\nMasterwork: Velocity",
+            "hash": 3947966653,
+            "name": "The Call PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    1783397184,
+                    106909392
+                ],
+                [
+                    3442762221,
+                    1556840489,
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    859780267,
+                    4049631843,
+                    2799030358,
+                    2109543898
+                ],
+                [
+                    1988485648
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Beacon Rounds\nPerk 2: Vorpal Weapon\nMasterwork: Velocity",
+            "hash": 3947966653,
+            "name": "The Call PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    1135494563,
+                    2859149211
+                ],
+                [
+                    3418165135,
+                    1546637391
+                ],
+                [
+                    1988485648
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: Flared Magwell\nPerk 1: Heal Clip (also good: Lead from Gold)\nPerk 2: Incandescent\nMasterwork: Handling\nOrigin Trait: Tenacity",
+            "hash": 4049127142,
+            "name": "Returned Memory PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    4223976499,
+                    3017780555,
+                    3442762221,
+                    1556840489
+                ],
+                [
+                    2675184851,
+                    4293542123
+                ],
+                [
+                    483923727,
+                    3911709647
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Beacon Rounds (also good: Impulse Amplifier)\nPerk 2: Desperate Measures\nMasterwork: Velocity\nOrigin Trait: Roar of Battle or Tenacity",
+            "hash": 4049127142,
+            "name": "Returned Memory PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    1135494563,
+                    2859149211,
+                    3878366039,
+                    951095735
+                ],
+                [
+                    2799030358,
+                    2109543898
+                ],
+                [
+                    4236235115,
+                    1673863459,
+                    483923727,
+                    3911709647
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Tactical Mag\nPerk 1: Headstone (also good: Subsistence)\nPerk 2: Rimestealer or Frenzy (also good: Desperate Measures)\nMasterwork: Reload Speed",
+            "hash": 3437370193,
+            "name": "Peacebond PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1783397184,
+                    106909392
+                ],
+                [
+                    1171887445,
+                    124408337,
+                    4245865861,
+                    1820235745
+                ],
+                [
+                    2617553311,
+                    1955165503,
+                    3007133316,
+                    4104185692,
+                    2799030358,
+                    2109543898
+                ],
+                [
+                    3989629871
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Extended Barrel\nMagazine: Accurized Rounds\nPerk 1: Moving Target or Zen Moment\nPerk 2: Headseeker or Desperado\nMasterwork: Range",
+            "hash": 3437370193,
+            "name": "Peacebond PVP God Roll",
+            "plugs": [
+                [
+                    1932356121,
+                    1467527085
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    2717805783,
+                    588594999,
+                    1748774930,
+                    2387244414
+                ],
+                [
+                    4045335048,
+                    460017080,
+                    624891305,
+                    3047969693
+                ],
+                [
+                    3989629871
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling\nMagazine: Flared Magwell or Alloy Magazine\nPerk 1: Thresh\nPerk 2: Swashbuckler or Hatching\nMasterwork: Reload Speed",
+            "hash": 231031173,
+            "name": "Mykel's Reverence PVE God Roll",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553
+                ],
+                [
+                    1709045111,
+                    3230963543,
+                    550838496,
+                    1431678320
+                ],
+                [
+                    1172413778,
+                    2726471870
+                ],
+                [
+                    1161469972,
+                    1890422124,
+                    102912326,
+                    831391274
+                ],
+                [
+                    3186078099
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Perpetual Motion\nPerk 2: Swashbuckler or Tap the Trigger (or Hatchling if strand subclass)\nMasterwork: Range",
+            "hash": 231031173,
+            "name": "Mykel's Reverence PVP God Roll",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553
+                ],
+                [
+                    1968098204,
+                    1885400500
+                ],
+                [
+                    2014892510,
+                    1428297954
+                ],
+                [
+                    1161469972,
+                    4082225868,
+                    1523649716,
+                    1890422124
+                ],
+                [
+                    3186078099
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling\nMagazine: Flared Magwell or Alloy Magazine\nPerk 1: Thresh\nPerk 2: Swashbuckler or Hatchling\nMasterwork: Reload Speed",
+            "hash": 1986287028,
+            "name": "Mykel's Reverence PVE God Roll",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553
+                ],
+                [
+                    1709045111,
+                    3230963543,
+                    550838496,
+                    1431678320
+                ],
+                [
+                    1172413778,
+                    2726471870
+                ],
+                [
+                    1161469972,
+                    4082225868,
+                    102912326,
+                    831391274
+                ],
+                [
+                    3186078099
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Perpetual Motion\nPerk 2: Swashbuckler or Tap the Trigger (or Hatching if strand subclass)\nMasterwork: Range",
+            "hash": 1986287028,
+            "name": "Mykel's Reverence PVP God Roll",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553
+                ],
+                [
+                    1968098204,
+                    1885400500
+                ],
+                [
+                    2014892510,
+                    1428297954
+                ],
+                [
+                    1161469972,
+                    4082225868,
+                    1523649716,
+                    1890422124
+                ],
+                [
+                    3186078099
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Explosive Ordnance\nPerk 1: Repulsor Brace (also good: Feeding Frenzy or Reconstruction)\nPerk 2: Destabilizing Rounds (also good: Withering Gaze)\nMasterwork: Velocity\nOrigin Trait: Vanguard’s Vindication",
+            "hash": 3922217119,
+            "name": "Lotus-Eater PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    3781548872,
+                    1380253176
+                ],
+                [
+                    2541826827,
+                    776531651,
+                    1171147302,
+                    2779035018,
+                    461595545,
+                    1523832109
+                ],
+                [
+                    1926441324,
+                    2048641572,
+                    2904194311,
+                    1134488199
+                ],
+                [
+                    744217850
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Strategist\nPerk 2: High Ground\nMasterwork: Velocity\nOrigin Trait: Vanguard’s Vindication",
+            "hash": 3922217119,
+            "name": "Lotus-Eater PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    3120212825,
+                    880644845
+                ],
+                [
+                    2140591236,
+                    2319119708
+                ],
+                [
+                    744217850
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Explosive Ordnance\nPerk 1: Repulsor Brace (also good: Feeding Frenzy or Reconstruction)\nPerk 2: Destabilizing Rounds (also good: Withering Gaze)\nMasterwork: Velocity\nOrigin Trait: Vanguard’s Vindication",
+            "hash": 2697143634,
+            "name": "Lotus-Eater PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    3781548872,
+                    1380253176
+                ],
+                [
+                    2541826827,
+                    776531651,
+                    1171147302,
+                    2779035018,
+                    461595545,
+                    1523832109
+                ],
+                [
+                    1926441324,
+                    2048641572,
+                    2904194311,
+                    1134488199
+                ],
+                [
+                    744217850
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Strategist\nPerk 2: High Ground\nMasterwork: Velocity\nOrigin Trait: Vanguard’s Vindication",
+            "hash": 2697143634,
+            "name": "Lotus-Eater PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    3120212825,
+                    880644845
+                ],
+                [
+                    2140591236,
+                    2319119708
+                ],
+                [
+                    744217850
                 ]
             ],
             "tags": [
