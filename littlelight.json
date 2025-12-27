@@ -12115,6 +12115,196 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Ricochet Rounds\nPerk 1: Rapid Hit or Outlaw\nPerk 2: Desperado\nMasterwork: Range or Stability",
+            "hash": 435821041,
+            "name": "Relentless PVE God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    1968098204,
+                    1885400500
+                ],
+                [
+                    2938480696,
+                    247725512,
+                    1347741687,
+                    1168162263
+                ],
+                [
+                    624891305,
+                    3047969693
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: High-Caliber Rounds\nPerk 1 Keep Away\nPerk 2: Headseeker\nMasterwork: Range",
+            "hash": 435821041,
+            "name": "Relentless PVP God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    494745090,
+                    1561002382
+                ],
+                [
+                    3198323828,
+                    3619207468
+                ],
+                [
+                    4045335048,
+                    460017080
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Corkscrew Rifling\nMagazine: Flared Magwell\nPerk 1: Rimestealer or Demolitionist\nPerk 2: Headstone or Desperate Measures\nStock: Short-Action Stock\nMasterwork: Range",
+            "hash": 3218364298,
+            "name": "Redrix's Estoc PVE God Roll",
+            "plugs": [
+                [
+                    111235976,
+                    4090651448
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    2617553311,
+                    1955165503,
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    1171887445,
+                    124408337,
+                    2799030358,
+                    2109543898
+                ],
+                [
+                    1067908860
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Corkscrew Rifling\nMagazine: Accurized Rounds\nPerk 1: Lone Wolf or Zen Moment\nPerk 2: Headseeker or Kill Clip\nStock: Fitted Stock\nMasterwork: Range",
+            "hash": 3218364298,
+            "name": "Redrix's Estoc PVP God Roll",
+            "plugs": [
+                [
+                    111235976,
+                    4090651448
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    2073244114,
+                    2579169598,
+                    1748774930,
+                    2387244414
+                ],
+                [
+                    4045335048,
+                    460017080,
+                    2923251173,
+                    1015611457
+                ],
+                [
+                    4259401308
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: Appended Mag\nPerk 1: Trickle Charge (also good: Blast Disruptor)\nPerk 2: Elemental Honing (also god: Jolting Feedback)\nMasterwork: Handling\nOrigin Trait: Vanguard Determination or Accelerated Assault",
+            "hash": 3556730800,
+            "name": "Psi Aeterna IV PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    1065371964,
+                    1087426260
+                ],
+                [
+                    511499160,
+                    1115162408,
+                    3696140595,
+                    1017229899
+                ],
+                [
+                    496047945,
+                    1089671869,
+                    717070634,
+                    3966416502
+                ],
+                [
+                    1621842933,
+                    3846229553
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: Appended Mag\nPerk 1: Trickle Charge (also good: Blast Disruptor)\nPerk 2: Elemental Honing (also god: Jolting Feedback)\nMasterwork: Handling\nOrigin Trait: Vanguard Determination or Accelerated Assault",
+            "hash": 135971347,
+            "name": "Psi Aeterna IV PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    1065371964,
+                    1087426260
+                ],
+                [
+                    511499160,
+                    1115162408,
+                    3696140595,
+                    1017229899
+                ],
+                [
+                    496047945,
+                    1089671869,
+                    717070634,
+                    3966416502
+                ],
+                [
+                    1621842933,
+                    3846229553,
+                    2671305723,
+                    3713579091
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }
