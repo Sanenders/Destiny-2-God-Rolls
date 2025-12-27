@@ -11641,6 +11641,94 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Subsistence\nPerk 2: Killing Tally or Detonator Beam\nMasterwork: Handling\nOrigin Trait: Tenacity",
+            "hash": 407150808,
+            "name": "Ribbontail PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    2073750249,
+                    2749775325
+                ],
+                [
+                    4245865861,
+                    1820235745
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    222783511,
+                    4198902903
+                ],
+                [
+                    483923727,
+                    3911709647
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist\nPerk 2: Chill Clip \nMasterwork: Charge Time",
+            "hash": 768621510,
+            "name": "Deliverance PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    3839493627,
+                    2680121939
+                ],
+                [
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    344235611,
+                    2978966579
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Break or Extended Barrel\nBattery: Projection Fuse\nPerk 1: Heating Up or Perpetual Motion\nPerk 2: Successful Warm-Up \nMasterwork: Range",
+            "hash": 768621510,
+            "name": "Deliverance PVP God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230,
+                    1932356121,
+                    1467527085
+                ],
+                [
+                    2800182654,
+                    2969185026
+                ],
+                [
+                    2748258257,
+                    1570042021,
+                    2014892510,
+                    1428297954
+                ],
+                [
+                    617966211,
+                    2652708987
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
