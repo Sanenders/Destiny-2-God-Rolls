@@ -14,7 +14,7 @@ This repository contains a wishlist for Destiny 2 weapon God Rolls. Most God Rol
 
 - Crafted weapons may not be recognized as God Rolls, even though upon closer inspection, the weapon does contain the correct perks.
 
-- Shiny and Masterwork Weapon Drops may not be recognized as God Rolls and not even showing suggested Perks or wishlist notes.
+- Holofoil and Masterwork Weapon Drops (especially from Destiny 2: Renegades DLC) may not be recognized as God Rolls and not even showing suggested Perks or wishlist notes.
 
 ## How to use the Wishlist on the Little Light App (prefered)
 
