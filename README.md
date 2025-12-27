@@ -1,16 +1,14 @@
 # Destiny 2 God Roll Wishlist
 
-This repository contains a wishlist for Destiny 2 weapon God Rolls. Most God Rolls come from popular websites such as blueberries.gg.
+This repository contains a wishlist for Destiny 2 weapon God Rolls. Most God Rolls come from popular websites like blueberries.gg.
 
 ## Important
 
-- It's possible to add “good weapon perks,” even if the weapon is not a God Roll. This wishlist only covers God Rolls.
+- This wishlist only covers **God Rolls** (skipped 'good weapon perk' selection). 
 
-- Crafted weapons may not be recognized as God Rolls, even though upon closer inspection, the weapon does contain the correct perks.
+- Weapons can often have more than one perk as a suggested God Roll. The priority of the perks can be found below in the details and also as text in the wishlist notes.
 
-- Parameters for masterworks cannot be transferred. Instead, you can find all the perk details (including masterwork) at the wishlist notes.
-
-- This wishlist is primarily only useful for weapons that can still be obtained in the game in some way (e.g. from Xûr).
+- This wishlist primarily focus on weapons that can still be obtained in the game.
 
 ## How to use the Wishlist on the Little Light App (prefered)
 
@@ -26,3 +24,12 @@ Desktop: <a href="https://apps.microsoft.com/detail/9pmg9zq41k95?hl=de-DE&gl=DE"
 https://raw.githubusercontent.com/MoveJockey/Destiny-2-God-Rolls/refs/heads/main/littlelight.json
 ```
 6. Press the button **Load Wishlist** and add the wishlist to the Little Light App.
+
+## Missing Weapon Types (still in progress)
+- Auto Rifles
+- Combat Bows
+- Fusion Rifles
+- Glaives
+- Grenade Launchers
+- Hand Cannons
+- Linear Fusion Rifles
