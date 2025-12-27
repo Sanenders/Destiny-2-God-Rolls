@@ -11311,7 +11311,168 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Demolitionist (also good: Ambitious Assassin)\nPerk 2: Chain Reaction (also good: One for All)\nMasterwork: Reload Speed (also good: Handling)",
+            "hash": 568611921,
+            "name": "Forbearance PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    1906147653,
+                    3523296417,
+                    3797647183,
+                    2010801679
+                ],
+                [
+                    598607952,
+                    2396489472,
+                    859780267,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Disruption Break (also good: Surplus)\nPerk 2: Golden Tricorn\nMasterwork: Handling",
+            "hash": 568611921,
+            "name": "Forbearance PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    2216471363,
+                    1683379515,
+                    2658083589,
+                    3436462433
+                ],
+                [
+                    4290541820,
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Ambitious Assassin\nPerk 2: Chain Reaction\nMasterwork: Reload Speed",
+            "hash": 613334176,
+            "name": "Forbearance PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    3797647183,
+                    2010801679
+                ],
+                [
+                    598607952,
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Surplus\nPerk 2: Wellspring\nMasterwork: Handling",
+            "hash": 613334176,
+            "name": "Forbearance PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    2658083589,
+                    3436462433
+                ],
+                [
+                    2675361166,
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Ambitious Assassin\nPerk 2: Chain Reaction\nMasterwork: Reload Speed",
+            "hash": 4038592169,
+            "name": "Forbearance PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    3797647183,
+                    2010801679
+                ],
+                [
+                    598607952,
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Surplus\nPerk 2: Wellspring\nMasterwork: Handling",
+            "hash": 4038592169,
+            "name": "Forbearance PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    2658083589,
+                    3436462433
+                ],
+                [
+                    2675361166,
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
-
     ]
 }
