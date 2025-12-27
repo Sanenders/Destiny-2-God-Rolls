@@ -6,7 +6,7 @@ This repository contains a wishlist for Destiny 2 weapon God Rolls. Most God Rol
 
 - This wishlist only covers **God Rolls** (skipped 'good weapon perk' selection). 
 
-- A weapon can often have more than one perk as a suggested God Roll. The priority of the perks can be found below in the details and also as text in the wishlist notes.
+- Weapons can often have more than one perk as a suggested God Roll. The priority of the perks can be found below in the details and also as text in the wishlist notes.
 
 - This wishlist primarily focus on weapons that can still be obtained in the game.
 
