@@ -6,11 +6,15 @@ This repository contains a wishlist for Destiny 2 weapon God Rolls. Most God Rol
 
 - It's possible to add “good weapon perks,” even if the weapon is not a God Roll. This wishlist only covers God Rolls.
 
-- Crafted weapons may not be recognized as God Rolls, even though upon closer inspection, the weapon does contain the correct perks.
-
 - Parameters for masterworks cannot be transferred. Instead, you can find all the perk details (including masterwork) at the wishlist notes.
 
 - This wishlist is primarily only useful for weapons that can still be obtained in the game in some way (e.g. from Xûr).
+
+## Known Issues
+
+- Crafted weapons may not be recognized as God Rolls, even though upon closer inspection, the weapon does contain the correct perks.
+
+- Shiny and Masterwork Weapon Drops may not be recognized as God Rolls and not even showing suggested Perks or wishlist notes.
 
 ## How to use the Wishlist on the Little Light App (prefered)
 
