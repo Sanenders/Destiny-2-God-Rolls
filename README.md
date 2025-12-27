@@ -8,7 +8,7 @@ This repository contains a wishlist for Destiny 2 weapon God Rolls. Most God Rol
 
 - Parameters for masterworks cannot be transferred. Instead, you can find all the perk details (including masterwork) at the wishlist notes.
 
-- This wishlist is primarily only useful for weapons that can still be obtained in the game in some way (e.g. from Xûr).
+- This wishlist is primarily only useful for weapons that can still be obtained in the game.
 
 ## Known Issues
 
