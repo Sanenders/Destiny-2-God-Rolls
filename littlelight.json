@@ -13221,6 +13221,314 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Arrowhead Break\nMagazine: Ricochet Rounds\nPerk 1: Demolitionist\nPerk 2: Frenzy\nMasterwork: Range",
+            "hash": 3110377595,
+            "name": "Autumn Wind PVE God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    1968098204,
+                    1885400500
+                ],
+                [
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    3007133316,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Rangefinder\nPerk 2: Headseeker\nMasterwork: Range",
+            "hash": 3110377595,
+            "name": "Autumn Wind PVP God Roll",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553
+                ],
+                [
+                    1968098204,
+                    1885400500
+                ],
+                [
+                    509594246,
+                    2846385770
+                ],
+                [
+                    4045335048,
+                    460017080
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Light Heatsink\nPerk 1: Firefly\nPerk 2: Thermal Atomization (also good: Tear)\nMasterwork: Handling\nOrigin Trait: Accelerated Assault",
+            "hash": 3984776322,
+            "name": "All or Nothing PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    4273542183,
+                    1946186791
+                ],
+                [
+                    1183436451,
+                    3824105627
+                ],
+                [
+                    3590359704,
+                    1909124648,
+                    3244229373,
+                    960997401
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Tactical Heatsink\nPerk 1: Keep Away or Zen Moment\nPerk 2: Headseeker or Kill Clip\nMasterwork: Range or Handling\nOrigin Trait: Air-Cooled Core",
+            "hash": 3984776322,
+            "name": "All or Nothing PVP God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    3210123846,
+                    769709866
+                ],
+                [
+                    3198323828,
+                    3619207468,
+                    1748774930,
+                    2387244414
+                ],
+                [
+                    4045335048,
+                    460017080,
+                    2923251173,
+                    1015611457
+                ],
+                [
+                    4280607931,
+                    1309453587
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Light Heatsink\nPerk 1: Firefly\nPerk 2: Thermal Atomization (also good: Tear)\nMasterwork: Handling\nOrigin Trait: Accelerated Assault",
+            "hash": 2023002233,
+            "name": "All or Nothing PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    4273542183,
+                    1946186791
+                ],
+                [
+                    1183436451,
+                    3824105627
+                ],
+                [
+                    3590359704,
+                    1909124648,
+                    3244229373,
+                    960997401
+                ],
+                [
+                    2671305723,
+                    3713579091
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Tactical Heatsink\nPerk 1: Keep Away or Zen Moment\nPerk 2: Headseeker or Kill Clip\nMasterwork: Range or Handling\nOrigin Trait: Air-Cooled Core",
+            "hash": 2023002233,
+            "name": "All or Nothing PVP God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    3210123846,
+                    769709866
+                ],
+                [
+                    3198323828,
+                    3619207468,
+                    1748774930,
+                    2387244414
+                ],
+                [
+                    4045335048,
+                    460017080,
+                    2923251173,
+                    1015611457
+                ],
+                [
+                    4280607931,
+                    1309453587
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Break\nMagazine: Flared Magwell\nPerk 1: Slice\nPerk 2: Golden Tricorn (also good: Hatchling)\nMasterwork: Reload Speed\nOrigin Trait: One Quiet Moment",
+            "hash": 3969379530,
+            "name": "Aisha's Care PVE God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    3422796781,
+                    923806249
+                ],
+                [
+                    4290541820,
+                    2610012052,
+                    102912326,
+                    831391274
+                ],
+                [
+                    4091460919
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Ricochet Rounds\nPerk 1: Zen Moment (also good: To The Pain)\nPerk 2: Headseeker (also good: Moving Target)\nMasterwork: Stability\nOrigin Trait: Omolon Fluid Dynamics",
+            "hash": 3969379530,
+            "name": "Aisha's Care PVP God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    1968098204,
+                    1885400500
+                ],
+                [
+                    1748774930,
+                    2387244414,
+                    3416609154,
+                    3938834702
+                ],
+                [
+                    4045335048,
+                    460017080,
+                    2717805783,
+                    588594999
+                ],
+                [
+                    2839173408
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Flared Magwell\nPerk 1: Slice\nPerk 2: Golden Tricorn (also good: Hatchling)\nMasterwork: Reload Speed\nOrigin Trait: One Quiet Moment",
+            "hash": 3332125295,
+            "name": "Aisha's Care PVE God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    3422796781,
+                    923806249
+                ],
+                [
+                    4290541820,
+                    2610012052,
+                    102912326,
+                    831391274
+                ],
+                [
+                    4091460919
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Ricochet Rounds\nPerk 1: Zen Moment (also good: To The Pain)\nPerk 2: Headseeker (also good: Moving Target)\nMasterwork: Stability\nOrigin Trait: Omolon Fluid Dynamics",
+            "hash": 3332125295,
+            "name": "Aisha's Care PVP God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    1968098204,
+                    1885400500
+                ],
+                [
+                    1748774930,
+                    2387244414,
+                    3416609154,
+                    3938834702
+                ],
+                [
+                    4045335048,
+                    460017080,
+                    2717805783,
+                    588594999
+                ],
+                [
+                    2839173408
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
