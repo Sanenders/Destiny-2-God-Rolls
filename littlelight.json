@@ -12055,6 +12055,66 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Flared Magwell\nPerk 1: Rapid-Hit or Demolitionist\nPerk 2: Frenzy (also good: Desperate Measures)\nMasterwork: Reload Speed",
+            "hash": 2241507890,
+            "name": "Sacred Provenance PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    2938480696,
+                    247725512,
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    3007133316,
+                    4104185692,
+                    2799030358,
+                    2109543898
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Extended Barrel\nMagazine: Ricochet Rounds\nPerk 1: Killing Wind or Rapid-Hit\nPerk 2: Headseeker (also good: Desperado)\nMasterwork: Stability",
+            "hash": 2241507890,
+            "name": "Sacred Provenance PVP God Roll",
+            "plugs": [
+                [
+                    1932356121,
+                    1467527085
+                ],
+                [
+                    1968098204,
+                    1885400500
+                ],
+                [
+                    4207509907,
+                    2450788523,
+                    2938480696,
+                    247725512
+                ],
+                [
+                    4045335048,
+                    460017080,
+                    624891305,
+                    3047969693
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
