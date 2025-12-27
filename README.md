@@ -24,3 +24,12 @@ Desktop: <a href="https://apps.microsoft.com/detail/9pmg9zq41k95?hl=de-DE&gl=DE"
 https://raw.githubusercontent.com/MoveJockey/Destiny-2-God-Rolls/refs/heads/main/littlelight.json
 ```
 6. Press the button **Load Wishlist** and add the wishlist to the Little Light App.
+
+## Missing Weapon Types (still in progress)
+- Auto Rifles
+- Combat Bows
+- Fusion Rifles
+- Glaives
+- Grenade Launchers
+- Hand Cannons
+- Linear Fusion Rifles
