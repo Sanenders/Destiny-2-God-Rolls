@@ -11593,6 +11593,54 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling\nMagazine: Accurized Rounds\nPerk 1: Subsistence\nPerk 2: Demolitionist\nMasterwork: Range",
+            "hash": 829330711,
+            "name": "Peacebond PVE God Roll",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    1820235745
+                ],
+                [
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling\nMagazine: Accurized Rounds\nPerk 1: Killing Wind\nPerk 2: Harmony\nMasterwork: Range",
+            "hash": 829330711,
+            "name": "Peacebond PVP God Roll",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    2450788523
+                ],
+                [
+                    438098033
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
