@@ -16263,6 +16263,602 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Appended Mag\nPerk 1: Explosive Payload\nPerk 2: Frenzy (also good: Firefly)\nMasterwork: Range",
+            "hash": 4184168210,
+            "name": "Fatebringer PVE God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    1065371964,
+                    1087426260
+                ],
+                [
+                    64866129,
+                    3038247973
+                ],
+                [
+                    3007133316,
+                    4104185692,
+                    1183436451,
+                    3824105627
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Accurized Rounds\nPerk 1: Explosive Payload or Opening Shot\nPerk 2: Eye of the Storm\nMasterwork: Range",
+            "hash": 4184168210,
+            "name": "Fatebringer PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    64866129,
+                    3038247973,
+                    1370847713,
+                    47981717
+                ],
+                [
+                    3719974635,
+                    699525795
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Appended Mag\nPerk 1: Explosive Payload\nPerk 2: Frenzy (also good: Firefly)\nMasterwork: Range",
+            "hash": 4219826183,
+            "name": "Fatebringer PVE God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    1065371964,
+                    1087426260
+                ],
+                [
+                    64866129,
+                    3038247973
+                ],
+                [
+                    3007133316,
+                    4104185692,
+                    1183436451,
+                    3824105627
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Accurized Rounds\nPerk 1: Explosive Payload or Opening Shot\nPerk 2: Eye of the Storm\nMasterwork: Range",
+            "hash": 4219826183,
+            "name": "Fatebringer PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    64866129,
+                    3038247973,
+                    1370847713,
+                    47981717
+                ],
+                [
+                    3719974635,
+                    699525795
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Sight: Truesight HCS\nMagazine: High-Caliber Rounds\nPerk 1: Unrelenting or Rapid Hit\nPerk 2: Headstone or Demolitionist\nMasterwork: Handling",
+            "hash": 235827225,
+            "name": "Eyasluna PVE God Roll",
+            "plugs": [
+                [
+                    1926090092
+                ],
+                [
+                    494745090,
+                    1561002382
+                ],
+                [
+                    3108830275,
+                    247725512
+                ],
+                [
+                    124408337,
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Sight: Hitmark HCS\nMagazine: High-Caliber Rounds or Ricochet Rounds\nPerk 1: Rangefinder or Perpetual Motion\nPerk 2: Moving Target or Kill Clip\nMasterwork: Range",
+            "hash": 235827225,
+            "name": "Eyasluna PVP God Roll",
+            "plugs": [
+                [
+                    1926090093
+                ],
+                [
+                    494745090,
+                    1561002382,
+                    1968098204,
+                    1885400500
+                ],
+                [
+                    2846385770,
+                    1428297954
+                ],
+                [
+                    588594999,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Flared Magwell\nPerk 1: Rimestealer\nPerk 2: Headstone\nMasterwork: Handling",
+            "hash": 2823644677,
+            "name": "Exuviae PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    2617553311,
+                    1955165503
+                ],
+                [
+                    1171887445,
+                    124408337
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Accurized Rounds\nPerk 1: Keep Away\nPerk 2: Precision Instrument\nMasterwork: Stability or Handling",
+            "hash": 2823644677,
+            "name": "Exuviae PVP God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    3198323828,
+                    3619207468
+                ],
+                [
+                    332733060,
+                    555281244
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Tactical Mag\nPerk 1: Enlightened Action\nPerk 2: Explosive Payload\nMasterwork: Stability\nOrigin Trait: Hakke Breach Armaments",
+            "hash": 198854575,
+            "name": "Crimil's Dagger PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1783397184,
+                    106909392
+                ],
+                [
+                    1771736209,
+                    3828510309
+                ],
+                [
+                    64866129,
+                    3038247973
+                ],
+                [
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Accurized Rounds\nPerk 1: Slideways (also good: Moving Target)\nPerk 2: Adagio (also good: Zen Moment)\nMasterwork: Range\nOrigin Trait: Skulking Wolf",
+            "hash": 198854575,
+            "name": "Crimil's Dagger PVP God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    2396422520,
+                    2039302152,
+                    2717805783,
+                    588594999
+                ],
+                [
+                    2889515627,
+                    3673922083,
+                    1748774930,
+                    2387244414
+                ],
+                [
+                    3989629871
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel or Polygonal Rifling\nMagazine: Tactical Mag\nPerk 1: Headstone (also good: Rapid-Hit)\nPerk 2: Demolitionist or Collective Action\nMasterwork: Handling or Reload Speed",
+            "hash": 496728945,
+            "name": "Bold Endings PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774,
+                    3966296580,
+                    1392496348
+                ],
+                [
+                    1783397184,
+                    106909392
+                ],
+                [
+                    1171887445,
+                    124408337,
+                    2938480696,
+                    247725512
+                ],
+                [
+                    1906147653,
+                    3523296417,
+                    2562668800,
+                    3324494224
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Accurized Rounds\nPerk 1: Rapid-Hit or To the Pain\nPerk 2: Eye of the Storm (also good: Desperate Measures)\nMasterwork: Stability or Range",
+            "hash": 496728945,
+            "name": "Bold Endings PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    2938480696,
+                    247725512,
+                    3416609154,
+                    3938834702
+                ],
+                [
+                    3719974635,
+                    699525795,
+                    2799030358,
+                    2109543898
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Tactical Mag\nPerk 1: Demolitionist or Pugilist\nPerk 2: Frenzy or Explosive Payload\nMasterwork: Reload Speed",
+            "hash": 4152016199,
+            "name": "Better Devils PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1783397184,
+                    106909392
+                ],
+                [
+                    1906147653,
+                    3523296417,
+                    536173722,
+                    691659142
+                ],
+                [
+                    3007133316,
+                    4104185692,
+                    64866129,
+                    3038247973
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling or Smallbore\nMagazine: Accurized Rounds or Steady Rounds\nPerk 1: Rapid-Hit or Perpetual Motion\nPerk 2: Explosive Payload or Elemental Capacitor\nMasterwork: Stability",
+            "hash": 4152016199,
+            "name": "Better Devils PVP God Roll",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553,
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    3267421167,
+                    3142289711,
+                    1002206008,
+                    3177308360
+                ],
+                [
+                    2938480696,
+                    247725512,
+                    2014892510,
+                    1428297954
+                ],
+                [
+                    64866129,
+                    3038247973,
+                    711234314,
+                    3511092054
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Barrel Shroud\nMagazine: Appended Mag\nPerk 1: Grave Robber (also good: Vorpal Weapon or Threat Remover)\nPerk 2: Trench Barrel or One-Two Punch (also good: Cascade Point)\nMasterwork: Range or Handling\nOrigin Trait: Roar of Battle",
+            "hash": 3981920134,
+            "name": "Aureus Neutralizer PVE God Roll",
+            "plugs": [
+                [
+                    2371713880,
+                    1300023272
+                ],
+                [
+                    1065371964,
+                    1087426260
+                ],
+                [
+                    402033656,
+                    1631667848,
+                    3418165135,
+                    1546637391,
+                    2476672792,
+                    1126264488
+                ],
+                [
+                    2459015849,
+                    2360754333,
+                    788178929,
+                    2679249093,
+                    331667533,
+                    3751912585
+                ],
+                [
+                    4236235115,
+                    1673863459
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Corkscrew Rifling\nMagazine: Accurized Rounds\nPerk 1: Lone Wolf\nPerk 2: Closing Time or Opening Shot\nMasterwork: Range or Handling\nOrigin Trait: Roar of Battle",
+            "hash": 3981920134,
+            "name": "Aureus Neutralizer PVP God Roll",
+            "plugs": [
+                [
+                    111235976,
+                    4090651448
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    2073244114,
+                    2579169598
+                ],
+                [
+                    3955464425,
+                    1194056669,
+                    1370847713,
+                    47981717
+                ],
+                [
+                    4236235115,
+                    1673863459
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Flared Magwell\nPerk 1: Rampage (also good: Destabilizing Rounds or Demolitionist)\nPerk 2: Explosive Payload (also good: Kill Clip)\nMasterwork: Reload",
+            "hash": 963574173,
+            "name": "Ancient Gospel PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    288411554,
+                    3425386926,
+                    1926441324,
+                    2048641572,
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    64866129,
+                    3038247973,
+                    2923251173,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling\nMagazine: Accurized Rounds\nPerk 1: Rapid Hit (also good: Lone Wolf or Eye of the Storm)\nPerk 2: Kill Clip (Explosive Payload or Rangefinder)\nMasterwork: Range",
+            "hash": 963574173,
+            "name": "Ancient Gospel PVP God Roll",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    2938480696,
+                    247725512,
+                    2073244114,
+                    2579169598,
+                    3719974635,
+                    699525795
+                ],
+                [
+                    2923251173,
+                    1015611457,
+                    64866129,
+                    3038247973,
+                    509594246,
+                    2846385770
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Flared Magwell\nPerk 1: Heal Clip\nPerk 2: Incandescent (also good: Firefly)\nMasterwork: Reload Speed\nOrigin Trait: Exhaustive Research",
+            "hash": 4124362340,
+            "name": "Agape PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    4223976499,
+                    3017780555
+                ],
+                [
+                    2675184851,
+                    4293542123,
+                    1183436451,
+                    3824105627
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Ricochet Rounds\nPerk 1: Encore or Moving Target\nPerk 2: Precision Instrument\nMasterwork: Stability or Range\nOrigin Trait: Exhaustive Research",
+            "hash": 4124362340,
+            "name": "Agape PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    1968098204,
+                    1885400500
+                ],
+                [
+                    838873202,
+                    1195158366,
+                    2717805783,
+                    588594999
+                ],
+                [
+                    332733060,
+                    555281244
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
