@@ -22181,6 +22181,301 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Ricochet Rounds\nPerk 1: Vorpal Weapon\nStock: Composite Stock",
+            "hash": 2188764214,
+            "name": "Dead Man's Tale PVE God Roll",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1546637391
+                ],
+                [
+                    3465198467
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Ricochet Rounds\nTrait: Moving Target (also good: Vorpal Weapon)\nStock: Fitted Stock",
+            "hash": 2188764214,
+            "name": "Dead Man's Tale PVP God Roll",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    588594999,
+                    1546637391
+                ],
+                [
+                    4259401308
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Bowstring: Natural String\nArrow: Compact Arrow Shaft\nGrip: Polymer Grip\nCatalyst: Multi-Threaded Snare Retrofit (also good: Hatchling Retrofit)",
+            "hash": 2910326942,
+            "name": "Wish-Keeper PVE God Roll",
+            "plugs": [
+                [
+                    1784898267
+                ],
+                [
+                    16392701
+                ],
+                [
+                    862848869
+                ],
+                [
+                    372672209,
+                    372672211
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Bowstring: Agile Bowstring\nArrow: Straight Fletching\nGrip: Smooth Grip\nCatalyst: Vorpal Weapon Retrofit",
+            "hash": 2910326942,
+            "name": "Wish-Keeper PVP God Roll",
+            "plugs": [
+                [
+                    3768438372
+                ],
+                [
+                    3827198035
+                ],
+                [
+                    3326204863
+                ],
+                [
+                    372672210
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Flared Magwell\nStock: Short-Action Stock",
+            "hash": 46524085,
+            "name": "Osteo Striga PVE God Roll",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    1067908860
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Polygonal Rifling\nMagazine: Accurized Rounds\nStock: Hand-Laid Stock",
+            "hash": 46524085,
+            "name": "Osteo Striga PVP God Roll",
+            "plugs": [
+                [
+                    1392496348
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    990298390
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel or Hammer-Forged Rifling\nMagazine: Alloy Magazine or Accurized Rounds\nTrait: Rewind Rounds (also good: Rapid Hit)\nStock: Composite Stock",
+            "hash": 3824673936,
+            "name": "Outbreak Perfected PVE God Roll",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    1431678320,
+                    3142289711
+                ],
+                [
+                    2578928832,
+                    2578928835
+                ],
+                [
+                    3465198467
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling\nMagazine: Accurized Rounds\nTrait: Headseeker\nStock: Composite Stock",
+            "hash": 3824673936,
+            "name": "Outbreak Perfected PVP God Roll",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2578928833
+                ],
+                [
+                    3465198467
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Flared Magwell\nPerk 1: Repulsor Brace (also good: Firefly)\nPerk 2: Destabilizing Rounds (also good: Withering Gaze)\nMasterwork: Reload Speed\nOrigin Trait: Fleet Footed",
+            "hash": 877384,
+            "name": "The Martlet PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    2541826827,
+                    776531651,
+                    1183436451,
+                    3824105627
+                ],
+                [
+                    1926441324,
+                    2048641572,
+                    2904194311,
+                    1134488199
+                ],
+                [
+                    1939575288,
+                    65797256
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling\nMagazine: Accurized Rounds\nPerk 1: Keep Away or Headseeker\nPerk 2: Kill Clip or Zen Moment\nMasterwork: Range or Reload Speed\nOrigin Trait: Roar of Battle",
+            "hash": 877384,
+            "name": "The Martlet PVP God Roll",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    3198323828,
+                    3619207468,
+                    4045335048,
+                    460017080
+                ],
+                [
+                    2923251173,
+                    1015611457,
+                    1748774930,
+                    2387244414
+                ],
+                [
+                    4236235115,
+                    1673863459
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Corkscrew Rifling\nMagazine: Tactical Mag\nPerk 1: Rapid Hit\nPerk 2: Kinetic Tremors\nMasterwork: Range",
+            "hash": 501329015,
+            "name": "Chattering Bone PVE God Roll",
+            "plugs": [
+                [
+                    111235976,
+                    4090651448
+                ],
+                [
+                    1783397184,
+                    106909392
+                ],
+                [
+                    2938480696,
+                    247725512
+                ],
+                [
+                    1549370717,
+                    3891536761
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Chambered Compensator\nMagazine: Accurized Rounds\nPerk 1: Rangefinder\nPerk 2: Headseeker\nMasterwork: Range",
+            "hash": 501329015,
+            "name": "Chattering Bone PVP God Roll",
+            "plugs": [
+                [
+                    3399528164,
+                    3661387068
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    509594246,
+                    2846385770
+                ],
+                [
+                    4045335048,
+                    460017080
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
