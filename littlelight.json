@@ -19047,6 +19047,300 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Haft: Low-Impedance Windings\nMagazine: Appended Mag\nPerk 1: Replenishing Aegis (also good: Rimestealer)\nPerk 2: Chill Clip or Close to Melee\nMasterwork: Reload Speed\nOrigin Trait: Stunning Recovery",
+            "hash": 2298039571,
+            "name": "Rake Angle PVE God Roll",
+            "plugs": [
+                [
+                    3355117577,
+                    2713678205
+                ],
+                [
+                    1065371964,
+                    1087426260
+                ],
+                [
+                    1592669035,
+                    1966281507,
+                    2617553311,
+                    1955165503
+                ],
+                [
+                    344235611,
+                    2978966579,
+                    2241043034,
+                    1782407750
+                ],
+                [
+                    1281216113
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Haft: Tempered Truss Rod\nMagazine: Swap Mag\nPerk 1: Impulse Amplifier\nPerk 2: Swashbuckler\nMasterwork: Handling\nOrigin Trait: Hakke Breach Armaments",
+            "hash": 2298039571,
+            "name": "Rake Angle PVP God Roll",
+            "plugs": [
+                [
+                    1834828808,
+                    5699512
+                ],
+                [
+                    714384243,
+                    3721627275
+                ],
+                [
+                    3878366039,
+                    951095735
+                ],
+                [
+                    1161469972,
+                    4082225868
+                ],
+                [
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Haft: Low-Impedance Windings\nMagazine: Appended Mag\nPerk 1: Replenishing Aegis (also good: Rimestealer)\nPerk 2: Chill Clip or Close to Melee\nMasterwork: Reload Speed\nOrigin Trait: Stunning Recovery",
+            "hash": 3997086838,
+            "name": "Rake Angle PVE God Roll",
+            "plugs": [
+                [
+                    3355117577,
+                    2713678205
+                ],
+                [
+                    1065371964,
+                    1087426260
+                ],
+                [
+                    1592669035,
+                    1966281507,
+                    2617553311,
+                    1955165503
+                ],
+                [
+                    344235611,
+                    2978966579,
+                    2241043034,
+                    1782407750
+                ],
+                [
+                    1281216113
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Haft: Tempered Truss Rod\nMagazine: Swap Mag\nPerk 1: Impulse Amplifier\nPerk 2: Swashbuckler\nMasterwork: Handling\nOrigin Trait: Hakke Breach Armaments",
+            "hash": 3997086838,
+            "name": "Rake Angle PVP God Roll",
+            "plugs": [
+                [
+                    1834828808,
+                    5699512
+                ],
+                [
+                    714384243,
+                    3721627275
+                ],
+                [
+                    3878366039,
+                    951095735
+                ],
+                [
+                    1161469972,
+                    4082225868
+                ],
+                [
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Haft: Low-Impedance Windings\nMagazine: Alloy Magazine\nPerk 1: Immovable Object\nPerk 2: Surrounded or Unstoppable Force\nMasterwork: Shield Duration",
+            "hash": 2534546147,
+            "name": "Lubrae's Ruin PVE God Roll",
+            "plugs": [
+                [
+                    3355117577,
+                    2713678205
+                ],
+                [
+                    550838496,
+                    1431678320
+                ],
+                [
+                    3674673997,
+                    3800201097
+                ],
+                [
+                    781192741,
+                    3708227201,
+                    3102670337,
+                    2224838837
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Haft: Auxiliary Reserves\nMagazine: Accurized Rounds\nPerk 1: Immovable Object or Killing Wind\nPerk 2: Unstoppable Force\nMasterwork: Range",
+            "hash": 2534546147,
+            "name": "Lubrae's Ruin PVP God Roll",
+            "plugs": [
+                [
+                    2719770986,
+                    580685494
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    3674673997,
+                    3800201097,
+                    4207509907,
+                    2450788523
+                ],
+                [
+                    3102670337,
+                    2224838837
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Haft: Low-Impedance Windings\nMagazine: Alloy Magazine\nPerk 1: Immovable Object\nPerk 2: Surrounded or Unstoppable Force\nMasterwork: Shield Duration",
+            "hash": 1466006054,
+            "name": "Lubrae's Ruin PVE God Roll",
+            "plugs": [
+                [
+                    3355117577,
+                    2713678205
+                ],
+                [
+                    550838496,
+                    1431678320
+                ],
+                [
+                    3674673997,
+                    3800201097
+                ],
+                [
+                    781192741,
+                    3708227201,
+                    3102670337,
+                    2224838837
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Haft: Auxiliary Reserves\nMagazine: Accurized Rounds\nPerk 1: Immovable Object or Killing Wind\nPerk 2: Unstoppable Force\nMasterwork: Range",
+            "hash": 1466006054,
+            "name": "Lubrae's Ruin PVP God Roll",
+            "plugs": [
+                [
+                    2719770986,
+                    580685494
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    3674673997,
+                    3800201097,
+                    4207509907,
+                    2450788523
+                ],
+                [
+                    3102670337,
+                    2224838837
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Haft: Ballistic Tuning\nMagazine: Appended Mag\nPerk 1: Melee Momentum (also good: Impulse Amplifier)\nPerk 2: Close to Melee (also good: Desperate Measures)\nMasterwork: Range",
+            "hash": 267672635,
+            "name": "Backfang PVE God Roll",
+            "plugs": [
+                [
+                    2154730217,
+                    1263609309
+                ],
+                [
+                    1065371964,
+                    1087426260
+                ],
+                [
+                    2817677128,
+                    3773585912,
+                    3878366039,
+                    951095735
+                ],
+                [
+                    2241043034,
+                    1782407750,
+                    2799030358,
+                    2109543898
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Haft: Ballistic Tuning\nMagazine: Accurized Rounds\nPerk 1: Impulse Amplifier\nPerk 2: Swashbuckler or Close to Melee\nMasterwork: Range or Handling",
+            "hash": 267672635,
+            "name": "Backfang PVP God Roll",
+            "plugs": [
+                [
+                    2154730217,
+                    1263609309
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    3878366039,
+                    951095735
+                ],
+                [
+                    1161469972,
+                    4082225868,
+                    2241043034,
+                    1782407750
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
