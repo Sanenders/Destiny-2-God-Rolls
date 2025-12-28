@@ -590,10 +590,6 @@
                     95528736,
                     3581929919,
                     2890807135
-                ],
-                [
-                    2957461671,
-                    1164078247
                 ]
             ],
             "tags": [
@@ -626,10 +622,6 @@
                     1890422124,
                     956288240,
                     95528736
-                ],
-                [
-                    2957461671,
-                    1164078247
                 ]
             ],
             "tags": [
@@ -20804,6 +20796,124 @@
                     3414324643,
                     1161469972,
                     4082225868
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Flared Magwell or Appended Mag\nPerk 1: Eddy Current or Attrition Orbs\nPerk 2: Jolting Feedback or Onslaught\nMasterwork: Reload Speed\nOrigin Trait: Bray Legacy",
+            "hash": 4232480042,
+            "name": "VS Pyroelectric Propellant PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1709045111,
+                    3230963543,
+                    1065371964,
+                    1087426260
+                ],
+                [
+                    2785334058,
+                    684456054,
+                    984655331,
+                    243981275
+                ],
+                [
+                    717070634,
+                    3966416502,
+                    956288240,
+                    95528736
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore or Arrowhead Brake\nMagazine: Ricochet Rounds\nPerk 1: To the Pain or Fragile Focus\nPerk 2: Closing Time or Kill Clip\nMasterwork: Stability\nOrigin Trait: Bray Legacy",
+            "hash": 4232480042,
+            "name": "VS Pyroelectric Propellant PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992,
+                    3048246338,
+                    839105230
+                ],
+                [
+                    1968098204,
+                    1885400500
+                ],
+                [
+                    3416609154,
+                    3938834702,
+                    1609056795,
+                    2451262963
+                ],
+                [
+                    3955464425,
+                    1194056669,
+                    2923251173,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Tactical Mag\nPerk 1: Strategist\nPerk 2: Headstone (also good: Desperate Measures)\nMasterwork: Stability\nOrigin Trait: Radiolaria Transposer",
+            "hash": 3685470415,
+            "name": "Veiled Threat PVE God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    1783397184,
+                    106909392
+                ],
+                [
+                    3120212825,
+                    880644845
+                ],
+                [
+                    1171887445,
+                    124408337,
+                    2799030358,
+                    2109543898
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Chambered Compensator\nMagazine: Accurized Rounds\nPerk 1: Fragile Focus\nPerk 2: Moving Target\nMasterwork: Range\nOrigin Trait: Radiolaria Transposer",
+            "hash": 3685470415,
+            "name": "Veiled Threat PVP God Roll",
+            "plugs": [
+                [
+                    3399528164,
+                    3661387068
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    1609056795,
+                    2451262963
+                ],
+                [
+                    2717805783,
+                    588594999
                 ]
             ],
             "tags": [
