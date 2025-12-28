@@ -22476,6 +22476,252 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Corkscrew Rifling\nMagazine: Appended Mag\nPerk 1: Rimestealer or Demolitionist\nPerk 2: Headstone\nMasterwork: Handling",
+            "hash": 1663482635,
+            "name": "Faustus Decline PVE God Roll",
+            "plugs": [
+                [
+                    111235976,
+                    4090651448
+                ],
+                [
+                    1065371964,
+                    1087426260
+                ],
+                [
+                    2617553311,
+                    1955165503,
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    1171887445,
+                    124408337
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Lone Wolf\nPerk 2: Kill Clip\nMasterwork: Range",
+            "hash": 1663482635,
+            "name": "Faustus Decline PVP God Roll",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553
+                ],
+                [
+                    1968098204,
+                    1885400500
+                ],
+                [
+                    2073244114,
+                    2579169598
+                ],
+                [
+                    2923251173,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Bowstring: Polymer String\nArrow: Compact Arrow Shaft\nPerk 1: Tear\nPerk 2: Explosive Head (also good: Hatchling)\nMasterwork: Accuracy\nOrigin Trait: Wild Card",
+            "hash": 1175295126,
+            "name": "Hushed Whisper PVE God Roll",
+            "plugs": [
+                [
+                    3837163218,
+                    852209214
+                ],
+                [
+                    2732340361,
+                    16392701
+                ],
+                [
+                    3244229373,
+                    960997401
+                ],
+                [
+                    1551736345,
+                    3365897133,
+                    102912326,
+                    831391274
+                ],
+                [
+                    501821599,
+                    1050127423
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Bowstring: Polymer String\nArrow: Fiberglass Arrow Shaft\nPerk 1: Lone Wolf\nPerk 2: Archer’s Gambit\nMasterwork: Reload Speed\nOrigin Trait: Wild Card",
+            "hash": 1175295126,
+            "name": "Hushed Whisper PVP God Roll",
+            "plugs": [
+                [
+                    3837163218,
+                    852209214
+                ],
+                [
+                    52802868,
+                    3429800428
+                ],
+                [
+                    2073244114,
+                    2579169598
+                ],
+                [
+                    2662236651,
+                    3414324643
+                ],
+                [
+                    501821599,
+                    1050127423
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Bowstring: Polymer String\nArrow: Compact Arrow Shaft\nPerk 1: Tear\nPerk 2: Explosive Head (also good: Hatchling)\nMasterwork: Accuracy\nOrigin Trait: Wild Card",
+            "hash": 3574168117,
+            "name": "Hushed Whisper PVE God Roll",
+            "plugs": [
+                [
+                    3837163218,
+                    852209214
+                ],
+                [
+                    2732340361,
+                    16392701
+                ],
+                [
+                    3244229373,
+                    960997401
+                ],
+                [
+                    1551736345,
+                    3365897133,
+                    102912326,
+                    831391274
+                ],
+                [
+                    501821599,
+                    1050127423
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Bowstring: Polymer String\nArrow: Fiberglass Arrow Shaft\nPerk 1: Lone Wolf\nPerk 2: Archer’s Gambit\nMasterwork: Reload Speed\nOrigin Trait: Wild Card",
+            "hash": 3574168117,
+            "name": "Hushed Whisper PVP God Roll",
+            "plugs": [
+                [
+                    3837163218,
+                    852209214
+                ],
+                [
+                    52802868,
+                    3429800428
+                ],
+                [
+                    2073244114,
+                    2579169598
+                ],
+                [
+                    2662236651,
+                    3414324643
+                ],
+                [
+                    501821599,
+                    1050127423
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Appended Mag\nPerk 1: Incandescent (also good: Rampage, Subsistence)\nPerk 2: Killing Tally (also good: Onslaught)\nMasterwork: Stability or Reload\nOrigin Trait: Roar of Battle",
+            "hash": 3489054606,
+            "name": "Unwavering Duty PVE God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    1065371964,
+                    1087426260
+                ],
+                [
+                    2675184851,
+                    4293542123,
+                    288411554,
+                    3425386926,
+                    4245865861,
+                    1820235745
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    956288240,
+                    95528736
+                ],
+                [
+                    4236235115,
+                    1673863459
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Ricochet Rounds\nPerk 1: Dynamic Sway Reduction\nPerk 2: Tap the Trigger (also good: Killing Tally)\nMasterwork: Range\nOrigin Trait: Fleet Footed",
+            "hash": 3489054606,
+            "name": "Unwavering Duty PVP God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    1968098204,
+                    1885400500
+                ],
+                [
+                    3060983774,
+                    1359896290
+                ],
+                [
+                    1523649716,
+                    1890422124,
+                    2896748467,
+                    557221067
+                ],
+                [
+                    1939575288,
+                    65797256
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
