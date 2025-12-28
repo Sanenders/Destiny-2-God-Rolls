@@ -16859,6 +16859,1282 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: Spike Grenades\nPerk 1: Envious Arsenal (also good: Envious Assassin)\nPerk 2: Bait and Switch (also good: Cascade Point)\nMasterwork: Handling",
+            "hash": 2039776723,
+            "name": "Wicked Sister PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    409713597,
+                    3301904089
+                ],
+                [
+                    2817499044,
+                    3987942396,
+                    424370782,
+                    968510818
+                ],
+                [
+                    3744057135,
+                    3078487919,
+                    331667533,
+                    3751912585
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Impulse Amplifier (also good: Danger Zone)\nPerk 2: Reverberation\nMasterwork: Handling",
+            "hash": 2039776723,
+            "name": "Wicked Sister PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    3878366039,
+                    951095735,
+                    1077019636,
+                    960810156
+                ],
+                [
+                    2167611941,
+                    563069569
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Demolitionist or Unrelenting\nPerk 2: Attrition Orbs or Destabilizing Rounds\nMasterwork: Velocity or Handling",
+            "hash": 1762785663,
+            "name": "VS Velocity Baton PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    1906147653,
+                    3523296417,
+                    855168139,
+                    3108830275
+                ],
+                [
+                    984655331,
+                    243981275,
+                    1926441324,
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Slickdraw\nPerk 2: Harmony\nMasterwork: Velocity",
+            "hash": 1762785663,
+            "name": "VS Velocity Baton PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    1942880504,
+                    1821614984
+                ],
+                [
+                    2748801589,
+                    438098033
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: Spike Grenades\nPerk 1: Envious Arsenal or Demolitionist\nPerk 2: Bait and Switch\nMasterwork: Handling",
+            "hash": 1762785662,
+            "name": "VS Chill Inhibitor PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    409713597,
+                    3301904089
+                ],
+                [
+                    2817499044,
+                    3987942396,
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    3744057135,
+                    3078487919
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Danger Zone\nPerk 2: Chain Reaction\nMasterwork: Velocity",
+            "hash": 1762785662,
+            "name": "VS Chill Inhibitor PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    1077019636,
+                    960810156
+                ],
+                [
+                    598607952,
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Ambitious Assassin (also good: Demolitionist)\nPerk 2: Voltshot (also good: One for All)\nMasterwork: Velocity",
+            "hash": 3686538757,
+            "name": "Undercurrent PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    3797647183,
+                    2010801679,
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    1720528630,
+                    2173046394,
+                    859780267,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Demolitionist (also good: Ambitious Assassin)\nPerk 2: Adrenaline Junkie\nMasterwork: Velocity",
+            "hash": 3686538757,
+            "name": "Undercurrent PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    1906147653,
+                    3523296417,
+                    3797647183,
+                    2010801679
+                ],
+                [
+                    2422968039,
+                    11612903
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Ambitious Assassin (also good: Demolitionist)\nPerk 2: Voltshot (also good: One for All)\nMasterwork: Velocity",
+            "hash": 817909300,
+            "name": "Undercurrent PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    3797647183,
+                    2010801679,
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    1720528630,
+                    2173046394,
+                    859780267,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Demolitionist (also good: Ambitious Assassin)\nPerk 2: Adrenaline Junkie\nMasterwork: Velocity",
+            "hash": 817909300,
+            "name": "Undercurrent PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    1906147653,
+                    3523296417,
+                    3797647183,
+                    2010801679
+                ],
+                [
+                    2422968039,
+                    11612903
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Reconstruction (also good: Blast Distributor or Eddy Current)\nPerk 2: Elemental Honing (also good: Voltshot or Frenzy)\nMasterwork: Handling\nOrigin Trait: Problem Solver",
+            "hash": 4146673635,
+            "name": "Theodolite PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    461595545,
+                    1523832109,
+                    3696140595,
+                    1017229899,
+                    2785334058,
+                    684456054
+                ],
+                [
+                    496047945,
+                    1089671869,
+                    1720528630,
+                    2173046394,
+                    3007133316,
+                    4104185692
+                ],
+                [
+                    2223800157,
+                    3454102905
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Danger Zone\nPerk 2: Elemental Honing\nMasterwork: Velocity\nOrigin Trait: Field Tested",
+            "hash": 4146673635,
+            "name": "Theodolite PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    1077019636,
+                    960810156
+                ],
+                [
+                    496047945,
+                    1089671869
+                ],
+                [
+                    1064478151,
+                    2120661319
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: Spike Grenades\nPerk 1: Auto-Loading Holster (also good: Demolitionist)\nPerk 2: Frenzy or Recombination\nMasterwork: Velocity",
+            "hash": 568611922,
+            "name": "The Mountaintop PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    409713597,
+                    3301904089
+                ],
+                [
+                    3528046508,
+                    3300816228,
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    3007133316,
+                    4104185692,
+                    3335686050,
+                    469285294
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Volatile Launch\nMagazine: High-Velocity Rounds\nPerk 1: Impulse Amplifier\nPerk 2: Harmony (also good: Vorpal Weapon)\nMasterwork: Velocity",
+            "hash": 568611922,
+            "name": "The Mountaintop PVP God Roll",
+            "plugs": [
+                [
+                    373417387,
+                    1478423395
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    3878366039,
+                    951095735
+                ],
+                [
+                    2748801589,
+                    438098033,
+                    3418165135,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: Spike Grenades\nPerk 1: Envious Arsenal (also good: Auto-Loading Holster)\nPerk 2: Elemental Honing (also good: Aggregate Charge)\nMasterwork: Velocity",
+            "hash": 3177074192,
+            "name": "The Ever-Present PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    409713597,
+                    3301904089
+                ],
+                [
+                    2817499044,
+                    3987942396,
+                    3528046508,
+                    3300816228
+                ],
+                [
+                    496047945,
+                    1089671869,
+                    3192447905,
+                    3764420437
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Impulse Amplifier (also good: Demolitionist)\nPerk 2: Golden Tricorn\nMasterwork: Velocity or Handling",
+            "hash": 3177074192,
+            "name": "The Ever-Present PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    3878366039,
+                    951095735,
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    4290541820,
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Repulsor Brace (also good: Stats for All)\nPerk 2: Destabilizing Rounds (also good: One for All)\nMasterwork: Reload Speed\nOrigin Trait: Tenacity",
+            "hash": 4169082039,
+            "name": "Romantic Death PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    2541826827,
+                    776531651,
+                    1409206216,
+                    1583705720
+                ],
+                [
+                    1926441324,
+                    2048641572,
+                    859780267,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Reverberation\nPerk 2: Impulse Amplifier\nMasterwork: Velocity\nOrigin Trait: Tenacity",
+            "hash": 4169082039,
+            "name": "Romantic Death PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    2167611941,
+                    563069569
+                ],
+                [
+                    3878366039,
+                    951095735
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Repulsor Brace (also good: Stats for All)\nPerk 2: Destabilizing Rounds (also good: One for All)\nMasterwork: Reload Speed\nOrigin Trait: Tenacity",
+            "hash": 2979965246,
+            "name": "Romantic Death PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    2541826827,
+                    776531651,
+                    1409206216,
+                    1583705720
+                ],
+                [
+                    1926441324,
+                    2048641572,
+                    859780267,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Reverberation\nPerk 2: Impulse Amplifier\nMasterwork: Velocity\nOrigin Trait: Tenacity",
+            "hash": 2979965246,
+            "name": "Romantic Death PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    2167611941,
+                    563069569
+                ],
+                [
+                    3878366039,
+                    951095735
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Repulsor Brace (also good: Stats for All)\nPerk 2: Destabilizing Rounds (also good: One for All)\nMasterwork: Reload Speed\nOrigin Trait: Tenacity",
+            "hash": 2979965247,
+            "name": "Romantic Death PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    2541826827,
+                    776531651,
+                    1409206216,
+                    1583705720
+                ],
+                [
+                    1926441324,
+                    2048641572,
+                    859780267,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Reverberation\nPerk 2: Impulse Amplifier\nMasterwork: Velocity\nOrigin Trait: Tenacity",
+            "hash": 2979965247,
+            "name": "Romantic Death PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    2167611941,
+                    563069569
+                ],
+                [
+                    3878366039,
+                    951095735
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Repulsor Brace (also good: Stats for All)\nPerk 2: Destabilizing Rounds (also good: One for All)\nMasterwork: Reload Speed\nOrigin Trait: Tenacity",
+            "hash": 2979965244,
+            "name": "Romantic Death PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    2541826827,
+                    776531651,
+                    1409206216,
+                    1583705720
+                ],
+                [
+                    1926441324,
+                    2048641572,
+                    859780267,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Reverberation\nPerk 2: Impulse Amplifier\nMasterwork: Velocity\nOrigin Trait: Tenacity",
+            "hash": 2979965244,
+            "name": "Romantic Death PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    2167611941,
+                    563069569
+                ],
+                [
+                    3878366039,
+                    951095735
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Repulsor Brace (also good: Stats for All)\nPerk 2: Destabilizing Rounds (also good: One for All)\nMasterwork: Reload Speed\nOrigin Trait: Tenacity",
+            "hash": 2979965245,
+            "name": "Romantic Death PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    2541826827,
+                    776531651,
+                    1409206216,
+                    1583705720
+                ],
+                [
+                    1926441324,
+                    2048641572,
+                    859780267,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Reverberation\nPerk 2: Impulse Amplifier\nMasterwork: Velocity\nOrigin Trait: Tenacity",
+            "hash": 2979965245,
+            "name": "Romantic Death PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    2167611941,
+                    563069569
+                ],
+                [
+                    3878366039,
+                    951095735
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Subsistence\nPerk 2: Killing Tally or Detonator Beam\nMasterwork: Handling\nOrigin Trait: Tenacity",
+            "hash": 407150811,
+            "name": "Ribbontail PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    2073750249,
+                    2749775325
+                ],
+                [
+                    4245865861,
+                    1820235745
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    222783511,
+                    4198902903
+                ],
+                [
+                    483923727,
+                    3911709647
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Subsistence\nPerk 2: Killing Tally or Detonator Beam\nMasterwork: Handling\nOrigin Trait: Tenacity",
+            "hash": 407150809,
+            "name": "Ribbontail PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    2073750249,
+                    2749775325
+                ],
+                [
+                    4245865861,
+                    1820235745
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    222783511,
+                    4198902903
+                ],
+                [
+                    483923727,
+                    3911709647
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Subsistence\nPerk 2: Killing Tally or Detonator Beam\nMasterwork: Handling\nOrigin Trait: Tenacity",
+            "hash": 407150810,
+            "name": "Ribbontail PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    2073750249,
+                    2749775325
+                ],
+                [
+                    4245865861,
+                    1820235745
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    222783511,
+                    4198902903
+                ],
+                [
+                    483923727,
+                    3911709647
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Blade: Tempered Edge\nGuard: Swordmaster's Guard\nPerk 1: Relentless Strikes (also good: Attrition Orbs or Sharp Harvest)\nPerk 2: Eager Edge or Elemental Honing (also good: Surrounded)\nMasterwork: Impact\nOrigin Trait: Tenacity",
+            "hash": 2765451288,
+            "name": "Synanceia PVE God Roll",
+            "plugs": [
+                [
+                    766579919,
+                    938542991
+                ],
+                [
+                    125241418,
+                    269888150
+                ],
+                [
+                    4085959009,
+                    1749209109,
+                    984655331,
+                    243981275,
+                    2581144697,
+                    4132187021
+                ],
+                [
+                    1618208178,
+                    2077819806,
+                    496047945,
+                    1089671869,
+                    781192741,
+                    3708227201
+                ],
+                [
+                    483923727,
+                    3911709647
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Blade: Honed Edge\nGuard: Balanced Guard\nPerk 1: Assassin’s Blade (also good: Wellspring)\nPerk 2: Eager Edge\nMasterwork: Impact\nOrigin Trait: Tenacity",
+            "hash": 2765451288,
+            "name": "Synanceia PVP God Roll",
+            "plugs": [
+                [
+                    4270598587,
+                    2827049491
+                ],
+                [
+                    2338887882,
+                    52780822
+                ],
+                [
+                    3678483220,
+                    354401740,
+                    2675361166,
+                    3592538738
+                ],
+                [
+                    1618208178,
+                    2077819806
+                ],
+                [
+                    483923727,
+                    3911709647
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Blade: Tempered Edge\nGuard: Swordmaster's Guard\nPerk 1: Relentless Strikes (also good: Attrition Orbs or Sharp Harvest)\nPerk 2: Eager Edge or Elemental Honing (also good: Surrounded)\nMasterwork: Impact\nOrigin Trait: Tenacity",
+            "hash": 2765451291,
+            "name": "Synanceia PVE God Roll",
+            "plugs": [
+                [
+                    766579919,
+                    938542991
+                ],
+                [
+                    125241418,
+                    269888150
+                ],
+                [
+                    4085959009,
+                    1749209109,
+                    984655331,
+                    243981275,
+                    2581144697,
+                    4132187021
+                ],
+                [
+                    1618208178,
+                    2077819806,
+                    496047945,
+                    1089671869,
+                    781192741,
+                    3708227201
+                ],
+                [
+                    483923727,
+                    3911709647
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Blade: Honed Edge\nGuard: Balanced Guard\nPerk 1: Assassin’s Blade (also good: Wellspring)\nPerk 2: Eager Edge\nMasterwork: Impact\nOrigin Trait: Tenacity",
+            "hash": 2765451291,
+            "name": "Synanceia PVP God Roll",
+            "plugs": [
+                [
+                    4270598587,
+                    2827049491
+                ],
+                [
+                    2338887882,
+                    52780822
+                ],
+                [
+                    3678483220,
+                    354401740,
+                    2675361166,
+                    3592538738
+                ],
+                [
+                    1618208178,
+                    2077819806
+                ],
+                [
+                    483923727,
+                    3911709647
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Blade: Tempered Edge\nGuard: Swordmaster's Guard\nPerk 1: Relentless Strikes (also good: Attrition Orbs or Sharp Harvest)\nPerk 2: Eager Edge or Elemental Honing (also good: Surrounded)\nMasterwork: Impact\nOrigin Trait: Tenacity",
+            "hash": 2765451289,
+            "name": "Synanceia PVE God Roll",
+            "plugs": [
+                [
+                    766579919,
+                    938542991
+                ],
+                [
+                    125241418,
+                    269888150
+                ],
+                [
+                    4085959009,
+                    1749209109,
+                    984655331,
+                    243981275,
+                    2581144697,
+                    4132187021
+                ],
+                [
+                    1618208178,
+                    2077819806,
+                    496047945,
+                    1089671869,
+                    781192741,
+                    3708227201
+                ],
+                [
+                    483923727,
+                    3911709647
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Blade: Honed Edge\nGuard: Balanced Guard\nPerk 1: Assassin’s Blade (also good: Wellspring)\nPerk 2: Eager Edge\nMasterwork: Impact\nOrigin Trait: Tenacity",
+            "hash": 2765451289,
+            "name": "Synanceia PVP God Roll",
+            "plugs": [
+                [
+                    4270598587,
+                    2827049491
+                ],
+                [
+                    2338887882,
+                    52780822
+                ],
+                [
+                    3678483220,
+                    354401740,
+                    2675361166,
+                    3592538738
+                ],
+                [
+                    1618208178,
+                    2077819806
+                ],
+                [
+                    483923727,
+                    3911709647
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Flared Magwell\nPerk 1: Heal Clip (also good: Demolitionist or Attrition Orbs)\nPerk 2: Incandescent or Chaos Reshaped (also good: Burning Ambition)\nMasterwork: Reload Speed\nOrigin Trait: Dream Work or Tex Balanced Stock",
+            "hash": 2965080304,
+            "name": "Yeartide Apex PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    4223976499,
+                    3017780555,
+                    1906147653,
+                    3523296417,
+                    984655331,
+                    243981275
+                ],
+                [
+                    2675184851,
+                    4293542123,
+                    1817983009,
+                    3640170453,
+                    3581929919,
+                    2890807135
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Ricochet Rounds\nPerk 1: Lone Wolf (also good: Heal Clip)\nPerk 2: Target Lock (also good: Chaos Reshaped)\nMasterwork: Range\nOrigin Trait: Dream Work",
+            "hash": 2965080304,
+            "name": "Yeartide Apex PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    1968098204,
+                    1885400500
+                ],
+                [
+                    2073244114,
+                    2579169598,
+                    4223976499,
+                    3017780555
+                ],
+                [
+                    2939589096,
+                    365154968,
+                    1817983009,
+                    3640170453
+                ],
+                [
+                    1198287879,
+                    1380061575
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Envious Arsenal or Ambitious Assassin\nPerk 2: Rolling Storm (also good: Frenzy)\nMasterwork: Handling\nOrigin Trait: Willing Vessel",
+            "hash": 4028298892,
+            "name": "Psychopomp PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    2817499044,
+                    3987942396,
+                    3797647183,
+                    2010801679
+                ],
+                [
+                    2633604463,
+                    3218042543,
+                    3007133316,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Envious Arsenal or Ambitious Assassin\nPerk 2: Rolling Storm (also good: Frenzy)\nMasterwork: Handling\nOrigin Trait: Willing Vessel",
+            "hash": 2553380021,
+            "name": "Psychopomp PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    2817499044,
+                    3987942396,
+                    3797647183,
+                    2010801679
+                ],
+                [
+                    2633604463,
+                    3218042543,
+                    3007133316,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Rimestealer (also good: Demolitionist)\nPerk 2: Crystalline Corpsebloom (also good: Reaper’s Tithe)\nMasterwork: Handling or Reload Speed\nOrigin Trait: Field-Tested",
+            "hash": 2316331767,
+            "name": "Permafrost PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    2617553311,
+                    1955165503,
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    2078520142,
+                    2922950962,
+                    177189259,
+                    113508675
+                ],
+                [
+                    1064478151,
+                    2120661319
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: Spike Grenades\nPerk 1: Envious Arsenal\nPerk 2: Bait and Switch\nMasterwork: Handling\nOrigin Trait: Problem Solver",
+            "hash": 4146673634,
+            "name": "Outrageous Fortune PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    409713597,
+                    3301904089
+                ],
+                [
+                    2817499044,
+                    3987942396
+                ],
+                [
+                    3744057135,
+                    3078487919
+                ],
+                [
+                    2223800157,
+                    3454102905
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Explosive Ordnance\nPerk 1: Impulse Amplifier\nPerk 2: Chain Reaction\nMasterwork: Velocity or Handling\nOrigin Trait: Vanguard Determination",
+            "hash": 4146673634,
+            "name": "Outrageous Fortune PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    3781548872,
+                    1380253176
+                ],
+                [
+                    3878366039,
+                    951095735
+                ],
+                [
+                    598607952,
+                    2396489472
+                ],
+                [
+                    1621842933,
+                    3846229553
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
