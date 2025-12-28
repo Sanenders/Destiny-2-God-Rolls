@@ -18477,6 +18477,280 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Envious Arsenal (also good: Voltshot)\nPerk 2: One for All (also good: Chain Reaction)\nMasterwork: Handling",
+            "hash": 2666273249,
+            "name": "Hullabaloo PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    2817499044,
+                    3987942396,
+                    1720528630,
+                    2173046394
+                ],
+                [
+                    859780267,
+                    4049631843,
+                    598607952,
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Impulse Amplifier\nPerk 2: Chain Reaction\nMasterwork: Handling",
+            "hash": 2666273249,
+            "name": "Hullabaloo PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    3878366039,
+                    951095735
+                ],
+                [
+                    598607952,
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Envious Arsenal (also good: Slideshot or Air Trigger)\nPerk 2: Elemental Honing (also good: Aggregate Charge or Bait and Switch)\nMasterwork: Handling\nOrigin Trait: Contending Cascade",
+            "hash": 1572604081,
+            "name": "Gizmo Weft PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    2817499044,
+                    3987942396,
+                    191144788,
+                    3161816588,
+                    3291427296,
+                    1421772400
+                ],
+                [
+                    496047945,
+                    1089671869,
+                    3192447905,
+                    3764420437,
+                    3744057135,
+                    3078487919
+                ],
+                [
+                    2691822036,
+                    934928524
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Demolitionist or Blast Distributor (also good: Slice)\nPerk 2: Elemental Honing or One-for-All (also good: Attrition Orbs)\nMasterwork: Reload Speed\nOrigin Trait: Dream Work",
+            "hash": 4019651319,
+            "name": "Festival Flight PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    1906147653,
+                    3523296417,
+                    3696140595,
+                    1017229899,
+                    3422796781,
+                    923806249
+                ],
+                [
+                    496047945,
+                    1089671869,
+                    859780267,
+                    4049631843,
+                    984655331,
+                    243981275
+                ],
+                [
+                    1198287879,
+                    1380061575
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Demolitionist or Blast Distributor (also good: Slice)\nPerk 2: Elemental Honing or One-for-All (also good: Attrition Orbs)\nMasterwork: Reload Speed\nOrigin Trait: Dream Work",
+            "hash": 3977654524,
+            "name": "Festival Flight PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    1906147653,
+                    3523296417,
+                    3696140595,
+                    1017229899,
+                    3422796781,
+                    923806249
+                ],
+                [
+                    496047945,
+                    1089671869,
+                    859780267,
+                    4049631843,
+                    984655331,
+                    243981275
+                ],
+                [
+                    1198287879,
+                    1380061575
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: Spike Grenades\nPerk 1: Envious Assassin\nPerk 2: Bait and Switch\nMasterwork: Handling",
+            "hash": 2738601016,
+            "name": "Cataphract GL3 PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    409713597,
+                    3301904089
+                ],
+                [
+                    424370782,
+                    968510818
+                ],
+                [
+                    3744057135,
+                    3078487919
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: Proximity Grenades\nPerk 1: Impulse Amplifier\nPerk 2: Full Court\nMasterwork: Velocity",
+            "hash": 2738601016,
+            "name": "Cataphract GL3 PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    137682932,
+                    409831596
+                ],
+                [
+                    3878366039,
+                    951095735
+                ],
+                [
+                    1905598698,
+                    2888557110
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: Spike Grenades\nPerk 1: Envious Assassin\nPerk 2: Bait and Switch\nMasterwork: Handling",
+            "hash": 874623537,
+            "name": "Cataphract GL3 PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    409713597,
+                    3301904089
+                ],
+                [
+                    424370782,
+                    968510818
+                ],
+                [
+                    3744057135,
+                    3078487919
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: Proximity Grenades\nPerk 1: Impulse Amplifier\nPerk 2: Full Court\nMasterwork: Velocity",
+            "hash": 874623537,
+            "name": "Cataphract GL3 PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    137682932,
+                    409831596
+                ],
+                [
+                    3878366039,
+                    951095735
+                ],
+                [
+                    1905598698,
+                    2888557110
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
