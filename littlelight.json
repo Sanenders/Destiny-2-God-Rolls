@@ -19721,6 +19721,278 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Smallbore (also good: Corkscrew Rifling)\nBattery: Enhanced Battery\nPerk 1: Cornered (also good: Unrelenting)\nPerk 2: Surrounded or Reservoir Burst\nMasterwork: Reload Speed",
+            "hash": 3969066556,
+            "name": "Midha's Reckoning PVE God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992,
+                    111235976,
+                    4090651448
+                ],
+                [
+                    3839493627,
+                    2680121939
+                ],
+                [
+                    1008128453,
+                    1799762209,
+                    855168139,
+                    3108830275
+                ],
+                [
+                    781192741,
+                    3708227201,
+                    254337357,
+                    1427256713
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Extended Barrel\nBattery: Projection Fuse\nPerk 1: Backup Plan\nPerk 2: Successful Warm-Up\nMasterwork: Range",
+            "hash": 3969066556,
+            "name": "Midha's Reckoning PVP God Roll",
+            "plugs": [
+                [
+                    1932356121,
+                    1467527085
+                ],
+                [
+                    2800182654,
+                    2969185026
+                ],
+                [
+                    828056542,
+                    1600092898
+                ],
+                [
+                    617966211,
+                    2652708987
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore (also good: Corkscrew Rifling)\nBattery: Enhanced Battery\nPerk 1: Cornered (also good: Unrelenting)\nPerk 2: Surrounded or Reservoir Burst\nMasterwork: Reload Speed",
+            "hash": 3904516037,
+            "name": "Midha's Reckoning PVE God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992,
+                    111235976,
+                    4090651448
+                ],
+                [
+                    3839493627,
+                    2680121939
+                ],
+                [
+                    1008128453,
+                    1799762209,
+                    855168139,
+                    3108830275
+                ],
+                [
+                    781192741,
+                    3708227201,
+                    254337357,
+                    1427256713
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Extended Barrel\nBattery: Projection Fuse\nPerk 1: Backup Plan\nPerk 2: Successful Warm-Up\nMasterwork: Range",
+            "hash": 3904516037,
+            "name": "Midha's Reckoning PVP God Roll",
+            "plugs": [
+                [
+                    1932356121,
+                    1467527085
+                ],
+                [
+                    2800182654,
+                    2969185026
+                ],
+                [
+                    828056542,
+                    1600092898
+                ],
+                [
+                    617966211,
+                    2652708987
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nBattery: Accelerated Coils\nPerk 1: Overflow\nPerk 2: Reservoir Burst or Controlled Burst\nMasterwork: Handling or Range",
+            "hash": 3125454907,
+            "name": "Loaded Question PVE God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    1279785143,
+                    689005463
+                ],
+                [
+                    3643424744
+                ],
+                [
+                    1427256713,
+                    2594592626
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Chambered Compensator\nBattery: Projection Fuse\nPerk 1: Under Pressure\nPerk 2: Eye of the Storm\nMasterwork: Handling or Range",
+            "hash": 3125454907,
+            "name": "Loaded Question PVP God Roll",
+            "plugs": [
+                [
+                    3399528164,
+                    3661387068
+                ],
+                [
+                    2800182654,
+                    2969185026
+                ],
+                [
+                    1645158859
+                ],
+                [
+                    699525795
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nBattery: Accelerated Coils\nPerk 1: Overflow\nPerk 2: Reservoir Burst or Controlled Burst\nMasterwork: Handling or Range",
+            "hash": 2914913838,
+            "name": "Loaded Question PVE God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    1279785143,
+                    689005463
+                ],
+                [
+                    3643424744
+                ],
+                [
+                    1427256713,
+                    2594592626
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Chambered Compensator\nBattery: Projection Fuse\nPerk 1: Under Pressure\nPerk 2: Eye of the Storm\nMasterwork: Handling or Range",
+            "hash": 2914913838,
+            "name": "Loaded Question PVP God Roll",
+            "plugs": [
+                [
+                    3399528164,
+                    3661387068
+                ],
+                [
+                    2800182654,
+                    2969185026
+                ],
+                [
+                    1645158859
+                ],
+                [
+                    699525795
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Reconstruction (also good: Lead from Gold)\nPerk 2: Controlled Burst (also good: Reservoir Burst)\nMasterwork: Handling or Stability\nOrigin Trait: Frame of Reference",
+            "hash": 3241217409,
+            "name": "Finite Maybe PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    3839493627,
+                    2680121939
+                ],
+                [
+                    461595545,
+                    1523832109,
+                    3442762221,
+                    1556840489
+                ],
+                [
+                    2037312142,
+                    2594592626,
+                    254337357,
+                    1427256713
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Under Pressure\nPerk 2: Successful Warm-Up or Discord\nMasterwork: Stability\nOrigin Trait: Frame of Reference",
+            "hash": 3241217409,
+            "name": "Finite Maybe PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    2800182654,
+                    2969185026
+                ],
+                [
+                    3755250867,
+                    1645158859
+                ],
+                [
+                    617966211,
+                    2652708987,
+                    906981559,
+                    3978468247
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
