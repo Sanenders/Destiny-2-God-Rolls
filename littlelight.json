@@ -19993,6 +19993,822 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nBattery: Liquid Coils\nPerk 1: Envious Arsenal (also good: Ambitious Assassin)\nPerk 2: Chill Clip (also good: Controlled Burst)\nMasterwork: Charge Time\nOrigin Trait: Roar of Battle",
+            "hash": 976459525,
+            "name": "Burden of Guilt PVE God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    2777563320,
+                    1687452232
+                ],
+                [
+                    2817499044,
+                    3987942396,
+                    3797647183,
+                    2010801679
+                ],
+                [
+                    344235611,
+                    2978966579,
+                    2037312142,
+                    2594592626
+                ],
+                [
+                    4236235115,
+                    1673863459
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nBattery: Projection Fuse\nPerk 1: Under Pressure\nPerk 2: Closing Time (also good: Kickstart)\nMasterwork: Range\nOrigin Trait: Fleet Footed",
+            "hash": 976459525,
+            "name": "Burden of Guilt PVP God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    2800182654,
+                    2969185026
+                ],
+                [
+                    3755250867,
+                    1645158859
+                ],
+                [
+                    3955464425,
+                    1194056669,
+                    834262328,
+                    1754714824
+                ],
+                [
+                    1939575288,
+                    65797256
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Bowstring: Elastic String\nArrow: Fiberglass Arrow Shaft\nPerk 1: Explosive Head or Archer’s Tempo\nPerk 2: Precision Instrument or Successful Warmup\nMasterwork: Draw Time",
+            "hash": 839344841,
+            "name": "Vengeful Whisper PVE God Roll",
+            "plugs": [
+                [
+                    3956406253,
+                    2801223209
+                ],
+                [
+                    52802868,
+                    3429800428
+                ],
+                [
+                    3365897133,
+                    201365942
+                ],
+                [
+                    555281244,
+                    2652708987
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Bowstring: Flexible String\nArrow: Fiberglass Arrow Shaft\nPerk 1: Archer’s Tempo or Hip-Fire Grip\nPerk 2: Successful Warmup and High Ground\nMasterwork: Draw Time",
+            "hash": 839344841,
+            "name": "Vengeful Whisper PVP God Roll",
+            "plugs": [
+                [
+                    1777340333,
+                    4067834857
+                ],
+                [
+                    52802868,
+                    3429800428
+                ],
+                [
+                    201365942,
+                    1866048759
+                ],
+                [
+                    2652708987,
+                    2319119708
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Rail: Empowered Rail\nBolt: Serrated Bolts or Charged Bolts\nPerk 1: Bolt Scavenger or Ensemble\nPerk 2: Chill Clip or Firing Line (also good: Aggregate Charge)\nMasterwork: Persistence",
+            "hash": 3524386983,
+            "name": "Submersion PVE God Roll",
+            "plugs": [
+                [
+                    2398680997,
+                    4196967425
+                ],
+                [
+                    2552577806,
+                    1069117426,
+                    2783367502,
+                    2955427634
+                ],
+                [
+                    883665727,
+                    4042220767,
+                    2495011826,
+                    2621346526
+                ],
+                [
+                    344235611,
+                    2978966579,
+                    395388285,
+                    1771339417,
+                    3192447905,
+                    3764420437
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Rail: Mag-Lev Rail\nBolt: Explosive Bolts\nPerk 1: Impulse Amplifier or No Distractions\nPerk 2: High Ground or Chill Clip\nMasterwork: Velocity",
+            "hash": 3524386983,
+            "name": "Submersion PVP God Roll",
+            "plugs": [
+                [
+                    2385083333,
+                    1776069409
+                ],
+                [
+                    2523856971,
+                    3603807747
+                ],
+                [
+                    3878366039,
+                    951095735,
+                    3974407819,
+                    2866798147
+                ],
+                [
+                    2140591236,
+                    2319119708,
+                    344235611,
+                    2978966579
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Rail: Empowered Rail\nBolt: Serrated Bolts or Charged Bolts\nPerk 1: Bolt Scavenger or Ensemble\nPerk 2: Chill Clip or Firing Line (also good: Aggregate Charge)\nMasterwork: Persistence",
+            "hash": 1724104236,
+            "name": "Submersion PVE God Roll",
+            "plugs": [
+                [
+                    2398680997,
+                    4196967425
+                ],
+                [
+                    2552577806,
+                    1069117426,
+                    2783367502,
+                    2955427634
+                ],
+                [
+                    883665727,
+                    4042220767,
+                    2495011826,
+                    2621346526
+                ],
+                [
+                    344235611,
+                    2978966579,
+                    395388285,
+                    1771339417,
+                    3192447905,
+                    3764420437
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Rail: Mag-Lev Rail\nBolt: Explosive Bolts\nPerk 1: Impulse Amplifier or No Distractions\nPerk 2: High Ground or Chill Clip\nMasterwork: Velocity",
+            "hash": 1724104236,
+            "name": "Submersion PVP God Roll",
+            "plugs": [
+                [
+                    2385083333,
+                    1776069409
+                ],
+                [
+                    2523856971,
+                    3603807747
+                ],
+                [
+                    3878366039,
+                    951095735,
+                    3974407819,
+                    2866798147
+                ],
+                [
+                    2140591236,
+                    2319119708,
+                    344235611,
+                    2978966579
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Bowstring: Elastic String\nArrow: Fiberglass Arrow Shaft\nPerk 1: Archer’s Tempo\nPerk 2: Headstone (also good: Explosive Head or Successful Warm-Up)\nMasterwork: Accuracy",
+            "hash": 45643573,
+            "name": "Raconteur PVE God Roll",
+            "plugs": [
+                [
+                    3956406253,
+                    2801223209
+                ],
+                [
+                    52802868,
+                    3429800428
+                ],
+                [
+                    3523746922,
+                    201365942
+                ],
+                [
+                    1171887445,
+                    124408337,
+                    1551736345,
+                    3365897133,
+                    617966211,
+                    2652708987
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Bowstring: Elastic String\nArrow: Fiberglass Arrow Shaft\nPerk 1: Archer’s Tempo\nPerk 2: Successful Warm-Up\nMasterwork: Handling",
+            "hash": 45643573,
+            "name": "Raconteur PVP God Roll",
+            "plugs": [
+                [
+                    3956406253,
+                    2801223209
+                ],
+                [
+                    52802868,
+                    3429800428
+                ],
+                [
+                    3523746922,
+                    201365942
+                ],
+                [
+                    617966211,
+                    2652708987
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Bowstring: Elastic String\nArrow: Fiberglass Arrow Shaft (also good: Straight Fletching)\nPerk 1: Archer’s Tempo\nPerk 2: Swashbuckler (also good: Precision Instrument)\nMasterwork: Draw Time (also good: Accuracy)",
+            "hash": 3465233192,
+            "name": "Point of the Stag PVE God Roll",
+            "plugs": [
+                [
+                    3956406253,
+                    2801223209
+                ],
+                [
+                    52802868,
+                    3429800428,
+                    1649480699,
+                    3827198035
+                ],
+                [
+                    3523746922,
+                    201365942
+                ],
+                [
+                    1161469972,
+                    4082225868,
+                    332733060,
+                    555281244
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Bowstring: Polymer String\nArrow: Fiberglass Arrow Shaft (also good: Straight Fletching)\nPerk 1: Archer’s Tempo (also good: Shot Swap)\nPerk 2: Swashbuckler\nMasterwork: Accuracy (also good: Draw Time)",
+            "hash": 3465233192,
+            "name": "Point of the Stag PVP God Roll",
+            "plugs": [
+                [
+                    3837163218,
+                    852209214
+                ],
+                [
+                    52802868,
+                    3429800428,
+                    1649480699,
+                    3827198035
+                ],
+                [
+                    3523746922,
+                    201365942
+                ],
+                [
+                    1161469972,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Bowstring: Elastic String\nArrow: Fiberglass Arrow Shaft (also good: Straight Fletching)\nPerk 1: Archer’s Tempo\nPerk 2: Swashbuckler (also good: Precision Instrument)\nMasterwork: Draw Time (also good: Accuracy)",
+            "hash": 888872889,
+            "name": "Point of the Stag PVE God Roll",
+            "plugs": [
+                [
+                    3956406253,
+                    2801223209
+                ],
+                [
+                    52802868,
+                    3429800428,
+                    1649480699,
+                    3827198035
+                ],
+                [
+                    3523746922,
+                    201365942
+                ],
+                [
+                    1161469972,
+                    4082225868,
+                    332733060,
+                    555281244
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Bowstring: Polymer String\nArrow: Fiberglass Arrow Shaft (also good: Straight Fletching)\nPerk 1: Archer’s Tempo (also good: Shot Swap)\nPerk 2: Swashbuckler\nMasterwork: Accuracy (also good: Draw Time)",
+            "hash": 888872889,
+            "name": "Point of the Stag PVP God Roll",
+            "plugs": [
+                [
+                    3837163218,
+                    852209214
+                ],
+                [
+                    52802868,
+                    3429800428,
+                    1649480699,
+                    3827198035
+                ],
+                [
+                    3523746922,
+                    201365942,
+                    2217963031,
+                    2586829431
+                ],
+                [
+                    1161469972,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Rail: Empowered Rail\nBolt: Charged Bolts\nPerk 1: Impulse Amplifier or Bolt Collector (also good: Field Prep)\nPerk 2: Frenzy or Elemental Honing (also good: Master of Arms)\nMasterwork: Persistence",
+            "hash": 1553681400,
+            "name": "Opaque Hourglass PVE God Roll",
+            "plugs": [
+                [
+                    2398680997,
+                    4196967425
+                ],
+                [
+                    2783367502,
+                    2955427634
+                ],
+                [
+                    3878366039,
+                    951095735,
+                    883665727,
+                    4042220767,
+                    2308090567,
+                    2869569095
+                ],
+                [
+                    3007133316,
+                    4104185692,
+                    496047945,
+                    1089671869,
+                    2963273944,
+                    3081867624
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Bowstring: Polymer String\nArrow: Compact Arrow Shaft\nPerk 1: Successful Warm-Up\nPerk 2: Kinetic Tremors\nMasterwork: Handling or Draw Time\nOrigin Trait: Vanguard Determination",
+            "hash": 2838279629,
+            "name": "Mercury-A PVE God Roll",
+            "plugs": [
+                [
+                    3837163218,
+                    852209214
+                ],
+                [
+                    2732340361,
+                    16392701
+                ],
+                [
+                    617966211,
+                    2652708987
+                ],
+                [
+                    1549370717,
+                    3891536761
+                ],
+                [
+                    1621842933,
+                    3846229553
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Bowstring: Natural String\nArrow: Helical Fletching\nPerk 1: Successful Warm-Up\nPerk 2: Precision Instrument\nMasterwork: Accuracy or Handling\nOrigin Trait: Tenacity",
+            "hash": 2838279629,
+            "name": "Mercury-A PVP God Roll",
+            "plugs": [
+                [
+                    1301083363,
+                    1784898267
+                ],
+                [
+                    1796628141,
+                    3311977193
+                ],
+                [
+                    617966211,
+                    2652708987
+                ],
+                [
+                    332733060,
+                    555281244
+                ],
+                [
+                    483923727,
+                    3911709647
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Bowstring: Agile Bowstring\nArrow: Compact Arrow Shaft\nPerk 1: Repulsor Brace or Dragonfly\nPerk 2: Destabilizing Rounds or Demoralize\nMasterwork: Draw Time\nOrigin Trait: Veist Stinger",
+            "hash": 2631466936,
+            "name": "Fortunate Star PVE God Roll",
+            "plugs": [
+                [
+                    4201007276,
+                    3768438372
+                ],
+                [
+                    2732340361,
+                    16392701
+                ],
+                [
+                    2541826827,
+                    776531651,
+                    169755979,
+                    2848615171
+                ],
+                [
+                    1926441324,
+                    2048641572,
+                    2813913866,
+                    1464081238
+                ],
+                [
+                    54024075,
+                    3988215619
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Bowstring: Agile Bowstring\nArrow: Compact Arrow Shaft\nPerk 1: Repulsor Brace or Dragonfly\nPerk 2: Destabilizing Rounds or Demoralize\nMasterwork: Draw Time\nOrigin Trait: Veist Stinger",
+            "hash": 591672323,
+            "name": "Fortunate Star PVE God Roll",
+            "plugs": [
+                [
+                    4201007276,
+                    3768438372
+                ],
+                [
+                    2732340361,
+                    16392701
+                ],
+                [
+                    2541826827,
+                    776531651,
+                    169755979,
+                    2848615171
+                ],
+                [
+                    1926441324,
+                    2048641572,
+                    2813913866,
+                    1464081238
+                ],
+                [
+                    54024075,
+                    3988215619
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Rail: Mag-Lev Rail\nBolt: Explosive Bolts\nPerk 1: Repulsor Brace (also good: Envious Arsenal)\nPerk 2: Destabilizing Rounds (also good: High Ground)\nMasterwork: Reload Speed\nOrigin Trait: Problem Solver",
+            "hash": 3615748501,
+            "name": "A Good Shout PVE God Roll",
+            "plugs": [
+                [
+                    2385083333,
+                    1776069409
+                ],
+                [
+                    2523856971,
+                    3603807747
+                ],
+                [
+                    2541826827,
+                    776531651,
+                    2817499044,
+                    3987942396
+                ],
+                [
+                    1926441324,
+                    2048641572,
+                    2140591236,
+                    2319119708
+                ],
+                [
+                    2223800157,
+                    3454102905
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Rail: Mag-Lev Rail\nBolt: Explosive Bolts\nPerk 1: Repulsor Brace (also good: Envious Arsenal)\nPerk 2: Destabilizing Rounds (also good: High Ground)\nMasterwork: Reload Speed\nOrigin Trait: Problem Solver",
+            "hash": 649691506,
+            "name": "A Good Shout PVE God Roll",
+            "plugs": [
+                [
+                    2385083333,
+                    1776069409
+                ],
+                [
+                    2523856971,
+                    3603807747
+                ],
+                [
+                    2541826827,
+                    776531651,
+                    2817499044,
+                    3987942396
+                ],
+                [
+                    1926441324,
+                    2048641572,
+                    2140591236,
+                    2319119708
+                ],
+                [
+                    2223800157,
+                    3454102905
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Bowstring: Elastic String\nArrow: Fiberglass Arrow Shaft\nPerk 1: Repulsor Brace (also good: Dragonfly)\nPerk 2: Destabilizing Rounds\nMasterwork: Handling",
+            "hash": 2291392465,
+            "name": "Anamnesis PVE God Roll",
+            "plugs": [
+                [
+                    3956406253,
+                    2801223209
+                ],
+                [
+                    52802868,
+                    3429800428
+                ],
+                [
+                    2541826827,
+                    776531651,
+                    169755979,
+                    2848615171
+                ],
+                [
+                    1926441324,
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Bowstring: Natural String\nArrow: Straight Fletching\nPerk 1: Successful Warm-Up\nPerk 2: Sword Logic\nMasterwork: Accuracy",
+            "hash": 2291392465,
+            "name": "Anamnesis PVP God Roll",
+            "plugs": [
+                [
+                    1301083363,
+                    1784898267
+                ],
+                [
+                    1649480699,
+                    3827198035
+                ],
+                [
+                    617966211,
+                    2652708987
+                ],
+                [
+                    639190697,
+                    31345821
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Bowstring: Elastic String\nArrow: Fiberglass Arrow Shaft\nPerk 1: Repulsor Brace (also good: Dragonfly)\nPerk 2: Destabilizing Rounds\nMasterwork: Handling",
+            "hash": 1536325168,
+            "name": "Anamnesis PVE God Roll",
+            "plugs": [
+                [
+                    3956406253,
+                    2801223209
+                ],
+                [
+                    52802868,
+                    3429800428
+                ],
+                [
+                    2541826827,
+                    776531651,
+                    169755979,
+                    2848615171
+                ],
+                [
+                    1926441324,
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Bowstring: Natural String\nArrow: Straight Fletching\nPerk 1: Successful Warm-Up\nPerk 2: Sword Logic\nMasterwork: Accuracy",
+            "hash": 1536325168,
+            "name": "Anamnesis PVP God Roll",
+            "plugs": [
+                [
+                    1301083363,
+                    1784898267
+                ],
+                [
+                    1649480699,
+                    3827198035
+                ],
+                [
+                    617966211,
+                    2652708987
+                ],
+                [
+                    639190697,
+                    31345821
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Bowstring: Elastic String\nArrow: Straight Fletching\nPerk 1: Successful Warm-Up or Archer’s Tempo\nPerk 2: Kinetic Tremors (also good: Firefly)\nMasterwork: Draw Time\nOrigin Trait: Photoinhibition",
+            "hash": 3621336854,
+            "name": "Accrued Redemption PVE God Roll",
+            "plugs": [
+                [
+                    3956406253,
+                    2801223209
+                ],
+                [
+                    1649480699,
+                    3827198035
+                ],
+                [
+                    617966211,
+                    2652708987,
+                    3523746922,
+                    201365942
+                ],
+                [
+                    1549370717,
+                    3891536761,
+                    1183436451,
+                    3824105627
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Bowstring: Polymer String\nArrow: Straight Fletching\nPerk 1: Archer’s Tempo\nPerk 2: Archer’s Gambit or Swashbuckler\nMasterwork: Draw Time\nOrigin Trait: Photoinhibition",
+            "hash": 3621336854,
+            "name": "Accrued Redemption PVP God Roll",
+            "plugs": [
+                [
+                    3837163218,
+                    852209214
+                ],
+                [
+                    1649480699,
+                    3827198035
+                ],
+                [
+                    3523746922,
+                    201365942
+                ],
+                [
+                    2662236651,
+                    3414324643,
+                    1161469972,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
