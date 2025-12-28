@@ -18245,6 +18245,238 @@
             "tags": [
                 "GodPVE"
             ]
+        },
+        {
+            "description": "Barrel: Hard Launch\nMagazine: Spike Grenades\nPerk 1: Envious Arsenal (also good: Rimestealer)\nPerk 2: Chill Clip (also good: Chain Reaction)\nMasterwork: Velocity or Reload Speed",
+            "hash": 2599338624,
+            "name": "Liturgy PVE God Roll",
+            "plugs": [
+                [
+                    564443854,
+                    981914802
+                ],
+                [
+                    409713597,
+                    3301904089
+                ],
+                [
+                    2817499044,
+                    3987942396,
+                    2617553311,
+                    1955165503
+                ],
+                [
+                    344235611,
+                    2978966579,
+                    598607952,
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: Spike Grenades\nPerk 1: Slideways\nPerk 2: Harmony\nMasterwork: Velocity",
+            "hash": 2599338624,
+            "name": "Liturgy PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    409713597,
+                    3301904089
+                ],
+                [
+                    2396422520,
+                    2039302152
+                ],
+                [
+                    2748801589,
+                    438098033
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch (also good: Hard Launch)\nMagazine: Spike Grenades\nPerk 1: Demolitionist (also good: Reconstruction or Field Prep)\nPerk 2: Hatchling (also good: Full Court)\nMasterwork: Velocity or Reload Speed",
+            "hash": 2972949637,
+            "name": "Koraxis's Distress PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810,
+                    564443854,
+                    981914802
+                ],
+                [
+                    409713597,
+                    3301904089
+                ],
+                [
+                    1906147653,
+                    3523296417,
+                    461595545,
+                    1523832109,
+                    2308090567,
+                    2869569095
+                ],
+                [
+                    102912326,
+                    831391274,
+                    1905598698,
+                    2888557110
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Linear Compensator\nMagazine: Proximity Grenades\nPerk 1: Impulse Amplifier\nPerk 2: Wellspring\nMasterwork: Velocity",
+            "hash": 2972949637,
+            "name": "Koraxis's Distress PVP God Roll",
+            "plugs": [
+                [
+                    1639399262,
+                    1441682018
+                ],
+                [
+                    137682932,
+                    409831596
+                ],
+                [
+                    3878366039,
+                    951095735
+                ],
+                [
+                    2675361166,
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch (also good: Hard Launch)\nMagazine: Spike Grenades\nPerk 1: Demolitionist (also good: Reconstruction or Field Prep)\nPerk 2: Hatchling (also good: Full Court)\nMasterwork: Velocity or Reload Speed",
+            "hash": 495442100,
+            "name": "Koraxis's Distress PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810,
+                    564443854,
+                    981914802
+                ],
+                [
+                    409713597,
+                    3301904089
+                ],
+                [
+                    1906147653,
+                    3523296417,
+                    461595545,
+                    1523832109,
+                    2308090567,
+                    2869569095
+                ],
+                [
+                    102912326,
+                    831391274,
+                    1905598698,
+                    2888557110
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Linear Compensator\nMagazine: Proximity Grenades\nPerk 1: Impulse Amplifier\nPerk 2: Wellspring\nMasterwork: Velocity",
+            "hash": 495442100,
+            "name": "Koraxis's Distress PVP God Roll",
+            "plugs": [
+                [
+                    1639399262,
+                    1441682018
+                ],
+                [
+                    137682932,
+                    409831596
+                ],
+                [
+                    3878366039,
+                    951095735
+                ],
+                [
+                    2675361166,
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: Spike Grenades or Disorienting Grenades\nPerk 1: Slideshot (also good: Lead from Gold)\nPerk 2: Frenzy\nMasterwork: Velocity or Handling",
+            "hash": 2761869150,
+            "name": "Ignition Code PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    409713597,
+                    3301904089,
+                    745577913,
+                    3032599245
+                ],
+                [
+                    191144788,
+                    3161816588,
+                    3442762221,
+                    1556840489
+                ],
+                [
+                    3007133316,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Steady Hands\nPerk 2: Harmony\nMasterwork: Velocity",
+            "hash": 2761869150,
+            "name": "Ignition Code PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    843318450,
+                    509074078
+                ],
+                [
+                    2748801589,
+                    438098033
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
