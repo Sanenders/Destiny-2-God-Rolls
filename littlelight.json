@@ -18135,6 +18135,116 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Demolitionist\nPerk 2: Collective Action\nOrigin Trait: Restoration Ritual\nMasterwork: Reload",
+            "hash": 1125217994,
+            "name": "New Pacific Epitaph PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    3324494224
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Perpetual Motion\nPerk 2: Harmony\nOrigin Trait: Restoration Ritual\nMasterwork: Velocity",
+            "hash": 1125217994,
+            "name": "New Pacific Epitaph PVP God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    1428297954
+                ],
+                [
+                    438098033
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Auto-Loading Holster (also good: Wellspring or Heal Clip)\nPerk 2: Incandescent or Attrition Orbs (also good: Master of Arms)\nMasterwork: Handling\nOrigin Trait: Suros Synergy",
+            "hash": 1685533876,
+            "name": "Motif-41",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    3528046508,
+                    3300816228,
+                    2675361166,
+                    3592538738,
+                    4223976499,
+                    3017780555
+                ],
+                [
+                    2675184851,
+                    4293542123,
+                    984655331,
+                    243981275,
+                    2963273944,
+                    3081867624
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: High-Velocity Rounds\nPerk 1: Auto-Loading Holster\nPerk 2: One for All or Vorpal Weapon\nMasterwork: Blast Radius",
+            "hash": 1197771438,
+            "name": "Lost Signal PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    2108812838,
+                    2822142346
+                ],
+                [
+                    3528046508,
+                    3300816228
+                ],
+                [
+                    859780267,
+                    4049631843,
+                    3418165135,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }
