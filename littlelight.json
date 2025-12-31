@@ -22722,6 +22722,196 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Supercharged Magazine (also good: Trickle Charge)\nPerk 2: Jolting Feedback (also good: Rolling Storm, Voltshot)\nMasterwork: Handling",
+            "hash": 2645567209,
+            "name": "Fimbulwinter Stitch PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1065371964,
+                    1087426260
+                ],
+                [
+                    65604327,
+                    1511100135,
+                    511499160,
+                    1115162408
+                ],
+                [
+                    717070634,
+                    3966416502,
+                    2633604463,
+                    3218042543,
+                    1720528630,
+                    2173046394
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Ricochet Rounds\nPerk 1: Rangefinder or Lone Wolf\nPerk 2: Precision Instrument (also good: Kill Clip)\nMasterwork: Range",
+            "hash": 2645567209,
+            "name": "Fimbulwinter Stitch PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    1968098204,
+                    1885400500
+                ],
+                [
+                    509594246,
+                    2846385770,
+                    2073244114,
+                    2579169598
+                ],
+                [
+                    332733060,
+                    555281244,
+                    2923251173,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Tactical Mag\nPerk 1: Hatchling (also good: Demolitionist)\nPerk 2: Killing Tally (also good: Meganeura)\nMasterwork: Stability\nOrigin Trait: Accelerated Assault",
+            "hash": 337893613,
+            "name": "Qua Vinctus IV PVE God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    1783397184,
+                    106909392
+                ],
+                [
+                    102912326,
+                    831391274,
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    4196156997,
+                    657025441
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Demolitionist\nPerk 2: Killing Tally (also good: Lone Wolf)\nMasterwork: Range\nOrigin Trait: Roar of Battle",
+            "hash": 337893613,
+            "name": "Qua Vinctus IV PVP God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    2073244114,
+                    2579169598
+                ],
+                [
+                    4236235115,
+                    1673863459
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Tactical Mag\nPerk 1: Hatchling (also good: Demolitionist)\nPerk 2: Killing Tally (also good: Meganeura)\nMasterwork: Stability\nOrigin Trait: Accelerated Assault",
+            "hash": 4176551594,
+            "name": "Qua Vinctus IV PVE God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    1783397184,
+                    106909392
+                ],
+                [
+                    102912326,
+                    831391274,
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    4196156997,
+                    657025441
+                ],
+                [
+                    2671305723,
+                    3713579091
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Demolitionist\nPerk 2: Killing Tally (also good: Lone Wolf)\nMasterwork: Range\nOrigin Trait: Roar of Battle",
+            "hash": 4176551594,
+            "name": "Qua Vinctus IV PVP God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    1906147653,
+                    3523296417
+                ],
+                [
+                    2896748467,
+                    557221067,
+                    2073244114,
+                    2579169598
+                ],
+                [
+                    4236235115,
+                    1673863459
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
