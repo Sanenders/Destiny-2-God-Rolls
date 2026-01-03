@@ -22912,6 +22912,1101 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Steady Rounds\nPerk 1: Triple Tap (also good: Discord)\nPerk 2: Elemental Honing (also good: Redirection or Adhesive Ordinance)\nOrigin Trait: Accelerated Assault",
+            "hash": 3421075982,
+            "name": "Something Something PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1002206008,
+                    3177308360
+                ],
+                [
+                    573122728,
+                    3400784728,
+                    906981559,
+                    3978468247
+                ],
+                [
+                    496047945,
+                    1089671869,
+                    1545231802,
+                    3201496230,
+                    122204356,
+                    3252937884
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Snapshot Sights\nPerk 2: Box Breathing\nOrigin Trait: Accelerated Assault",
+            "hash": 3421075982,
+            "name": "Something Something PVP God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    4116820839,
+                    957782887
+                ],
+                [
+                    23371658,
+                    2551157718
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Steady Rounds\nPerk 1: Triple Tap (also good: Discord)\nPerk 2: Elemental Honing (also good: Redirection or Adhesive Ordnance)\nOrigin Trait: Accelerated Assault",
+            "hash": 690412397,
+            "name": "Something Something PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1002206008,
+                    3177308360
+                ],
+                [
+                    573122728,
+                    3400784728,
+                    906981559,
+                    3978468247
+                ],
+                [
+                    496047945,
+                    1089671869,
+                    1545231802,
+                    3201496230,
+                    122204356,
+                    3252937884
+                ],
+                [
+                    2671305723,
+                    3713579091
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Snapshot Sights\nPerk 2: Box Breathing\nOrigin Trait: Accelerated Assault",
+            "hash": 690412397,
+            "name": "Something Something PVP God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    4116820839,
+                    957782887
+                ],
+                [
+                    23371658,
+                    2551157718
+                ],
+                [
+                    2671305723,
+                    3713579091
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Blade: Jagged Edge\nGuard: Swordmaster’s Guard\nPerk 1: Frenzy or Relentless Strikes (also good: Vorpal Weapon)\nPerk 2: Eager Edge or Surrounded (also good: Whirlwind Blade)\nMasterwork: Impact",
+            "hash": 1815105249,
+            "name": "Falling Guillotine PVE God Roll",
+            "plugs": [
+                [
+                    3959569796,
+                    3666208348
+                ],
+                [
+                    125241418,
+                    269888150
+                ],
+                [
+                    3007133316,
+                    4104185692,
+                    4085959009,
+                    1749209109,
+                    3418165135,
+                    1546637391
+                ],
+                [
+                    1618208178,
+                    2077819806,
+                    781192741,
+                    3708227201,
+                    147913470,
+                    3913600130
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Blade: Hungry Edge\nGuard: Swordmaster’s Guard\nPerk 1: Vorpal Weapon\nPerk 2: Eager Edge\nMasterwork: Impact",
+            "hash": 1815105249,
+            "name": "Falling Guillotine PVP God Roll",
+            "plugs": [
+                [
+                    1498024248,
+                    436053704
+                ],
+                [
+                    125241418,
+                    269888150
+                ],
+                [
+                    3418165135,
+                    1546637391
+                ],
+                [
+                    1618208178,
+                    2077819806
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Blade: Jagged Edge\nGuard: Swordmaster’s Guard\nPerk 1: Frenzy or Relentless Strikes (also good: Vorpal Weapon)\nPerk 2: Eager Edge or Surrounded (also good: Whirlwind Blade)\nMasterwork: Impact",
+            "hash": 243425374,
+            "name": "Falling Guillotine PVE God Roll",
+            "plugs": [
+                [
+                    3959569796,
+                    3666208348
+                ],
+                [
+                    125241418,
+                    269888150
+                ],
+                [
+                    3007133316,
+                    4104185692,
+                    4085959009,
+                    1749209109,
+                    3418165135,
+                    1546637391
+                ],
+                [
+                    1618208178,
+                    2077819806,
+                    781192741,
+                    3708227201,
+                    147913470,
+                    3913600130
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Blade: Hungry Edge\nGuard: Swordmaster’s Guard\nPerk 1: Vorpal Weapon\nPerk 2: Eager Edge\nMasterwork: Impact",
+            "hash": 243425374,
+            "name": "Falling Guillotine PVP God Roll",
+            "plugs": [
+                [
+                    1498024248,
+                    436053704
+                ],
+                [
+                    125241418,
+                    269888150
+                ],
+                [
+                    3418165135,
+                    1546637391
+                ],
+                [
+                    1618208178,
+                    2077819806
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Blade: Honed Edge or Tempered Edge\nGuard: Swordmaster’s Guard\nPerk 1: Relentless Strikes\nPerk 2: Whirlwind Blade\nMasterwork: Impact",
+            "hash": 614426548,
+            "name": "Falling Guillotine PVE God Roll",
+            "plugs": [
+                [
+                    4270598587,
+                    2827049491,
+                    766579919,
+                    938542991
+                ],
+                [
+                    125241418,
+                    269888150
+                ],
+                [
+                    1749209109
+                ],
+                [
+                    3913600130
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling or Polygonal Rifling\nMagazine: Alloy Mag\nPerk: Surplus or Killing Wind.\nGrip: Smooth Grip or Heavy Grip",
+            "hash": 3856705927,
+            "name": "Hawkmoon PVE God Roll",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553,
+                    3966296580,
+                    1392496348
+                ],
+                [
+                    1431678320
+                ],
+                [
+                    3436462433,
+                    2450788523
+                ],
+                [
+                    3326204863,
+                    1012699414
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling or Polygonal Rifling\nMagazine: Alloy Mag\nTrait: Rangefinder, Opening Shot, or Eye of the Storm\nGrip: Smooth Grip or Heavy Grip",
+            "hash": 3856705927,
+            "name": "Hawkmoon PVP God Roll",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553,
+                    3966296580,
+                    1392496348
+                ],
+                [
+                    1431678320
+                ],
+                [
+                    2846385770,
+                    47981717,
+                    699525795
+                ],
+                [
+                    3326204863,
+                    1012699414
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Flared Magwell\nPerk 1: Subsistence\nPerk 2: Frenzy (also good: Kinetic Tremors)\nMasterwork: Stability",
+            "hash": 2598420927,
+            "name": "Chroma Rush PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    4245865861,
+                    1820235745
+                ],
+                [
+                    3007133316,
+                    4104185692,
+                    1549370717,
+                    3891536761
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Steady Rounds\nPerk 1: Dynamic Sway Reduction or Killing Wind\nPerk 2: Kill Clip (also good: Target Lock)\nMasterwork: Stability",
+            "hash": 2598420927,
+            "name": "Chroma Rush PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    1002206008,
+                    3177308360
+                ],
+                [
+                    3060983774,
+                    1359896290,
+                    4207509907,
+                    2450788523
+                ],
+                [
+                    2923251173,
+                    1015611457,
+                    2939589096,
+                    365154968
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore or Hammer-Forged Rifling\nMagazine: Tactical Mag\nPerk 1: Surplus or Heating Up\nPerk 2: Frenzy\nMasterwork: Range",
+            "hash": 3924212056,
+            "name": "Loud Lullaby PVE God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992,
+                    1147230557,
+                    3250034553
+                ],
+                [
+                    1783397184,
+                    106909392
+                ],
+                [
+                    3436462433,
+                    1570042021
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling\nMagazine: Accurized Rounds\nPerk 1: Slideshot\nPerk 2: Kill Clip\nMasterwork: Range",
+            "hash": 3924212056,
+            "name": "Loud Lullaby PVP God Roll",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    3161816588
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Corkscrew Rifling\nMagazine: Flared Magwell\nPerk 1: Attrition Orbs\nPerk 2: Kinetic Tremors\nMasterwork: Reload Speed (also good: Range)",
+            "hash": 3211624072,
+            "name": "Multimach CCX PVE God Roll",
+            "plugs": [
+                [
+                    111235976,
+                    4090651448
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    984655331,
+                    243981275
+                ],
+                [
+                    1549370717,
+                    3891536761
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling\nMagazine: Accurized Rounds\nPerk 1: Dynamic Sway Reduction (also good: Moving Target)\nPerk 2: Kill Clip (also good: Tap the Trigger)\nMasterwork: Range",
+            "hash": 3211624072,
+            "name": "Multimach CCX PVP God Roll",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    3060983774,
+                    1359896290,
+                    2717805783,
+                    588594999
+                ],
+                [
+                    2923251173,
+                    1015611457,
+                    1523649716,
+                    1890422124
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Volatile Launch or Hard Launch\nMagazine: Disorienting Grenades or Spike Grenades\nPerk 1: Auto-Loading Holster or Ambitious Assassin\nPerk 2: Danger Zone or Vorpal Weapon (also good: Demolitionist)\nMasterwork: Blast Radius",
+            "hash": 3849810018,
+            "name": "Pardon Our Dust PVE God Roll",
+            "plugs": [
+                [
+                    373417387,
+                    1478423395,
+                    564443854,
+                    981914802
+                ],
+                [
+                    745577913,
+                    3032599245,
+                    409713597,
+                    3301904089
+                ],
+                [
+                    3528046508,
+                    3300816228,
+                    3797647183,
+                    2010801679
+                ],
+                [
+                    1077019636,
+                    960810156,
+                    3418165135,
+                    1546637391,
+                    1906147653,
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Hard Launch\nMagazine: Proximity Grenades\nPerk 1: Auto-Loading Holster\nPerk 2: Demolitionist (also good: Wellspring)\nMasterwork: Velocity",
+            "hash": 3849810018,
+            "name": "Pardon Our Dust PVP God Roll",
+            "plugs": [
+                [
+                    564443854,
+                    981914802
+                ],
+                [
+                    137682932,
+                    409831596
+                ],
+                [
+                    3528046508,
+                    3300816228
+                ],
+                [
+                    1906147653,
+                    3523296417,
+                    2675361166,
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Appended Mag\nTrait: Taken Ambition (also good: Taken Resolution)\nGrip: Polymer Grip\nCatalyst: Target Lock (also good: One for All)",
+            "hash": 1481594633,
+            "name": "Barrow-Dyad PVE God Roll",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    1524069046,
+                    1555922475
+                ],
+                [
+                    862848869
+                ],
+                [
+                    4204405032,
+                    4204405033
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Ricochet Rounds\nTrait: Taken Ambition\nGrip: Smooth Grip\nCatalyst: High-Impact Reserves Refit or Target Lock Refit",
+            "hash": 1481594633,
+            "name": "Barrow-Dyad PVP God Roll",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1524069046
+                ],
+                [
+                    3326204863
+                ],
+                [
+                    4204405035,
+                    4204405032
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Flared Magwell\nStock: Composite Stock\nCatalyst Trait: Subsistence Refit or Onslaught Refit",
+            "hash": 3698448090,
+            "name": "Choir of One PVE God Roll",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3465198467
+                ],
+                [
+                    1931951168,
+                    1931951170
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Accurized Rounds\nStock: Short-Action Stock\nCatalyst Trait: Onslaught Refit",
+            "hash": 3698448090,
+            "name": "Choir of One PVP God Roll",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1067908860
+                ],
+                [
+                    1931951170
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Launcher: Quick Launch (also good: Hard Launch)\nMagazine: High-Velocity Rounds\nStock: Short-Action Stock\nTrait: Demolitionist (also good: Unrelenting)",
+            "hash": 46125926,
+            "name": "Dead Messenger PVE God Roll",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    1067908860
+                ],
+                [
+                    3523296417,
+                    3108830275
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Launcher: Quick Launch\nMagazine: High-Velocity Rounds\nStock: Short-Action Stock\nTrait: Demolitionist (also good: Thresh)",
+            "hash": 46125926,
+            "name": "Dead Messenger PVP God Roll",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    1067908860
+                ],
+                [
+                    3523296417,
+                    2726471870
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "DPS & TEAMPLAY ROLL:\nBlade: Jagged Edge\nGuard: Swordmaster’s Guard\nFrame: Lightweight\nElement: Void\nExotic Trait: Wolfpack Rounds",
+            "hash": 1681583613,
+            "name": "Ergo Sum PVE God Roll - DPS & Teamplay",
+            "plugs": [
+                [
+                    3959569796,
+                    3666208348
+                ],
+                [
+                    125241418,
+                    269888150
+                ],
+                [
+                    2753228730
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "AD CLEAR & SOLO ROLL:\nBlade: Jagged Edge\nGuard: Swordmaster’s Guard\nFrame: Caster\nElement: Solar\nExotic Trait: The Perfect Fifth",
+            "hash": 1681583613,
+            "name": "Ergo Sum PVE God Roll - Ad Clear & Solo",
+            "plugs": [
+                [
+                    3959569796,
+                    3666208348
+                ],
+                [
+                    125241418,
+                    269888150
+                ],
+                [
+                    519046634
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Blade: Hungry Edge\nGuard: Swordmaster’s Guard\nFrame: Wave Sword\nElement: Arc\nExotic Trait: Arc Conductor",
+            "hash": 1681583613,
+            "name": "Ergo Sum PVP God Roll",
+            "plugs": [
+                [
+                    1498024248,
+                    436053704
+                ],
+                [
+                    125241418,
+                    269888150
+                ],
+                [
+                    289811733
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Break\nMagazine: Ricochet Rounds\nTrait: Vorpal Weapon\nStock: Fitted Stock\nMode: Hakke Light Burst Fire",
+            "hash": 1473821207,
+            "name": "Revision Zero PVE God Roll",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1546637391
+                ],
+                [
+                    4259401308
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Break\nMagazine: Ricochet Rounds\nTrait: Perpetual Motion (also good: Elemental Capacitor, when using a Void or Stasis subclass)\nStock: Fitted Stock\nMode: Hakke Light Burst Fire",
+            "hash": 1473821207,
+            "name": "Revision Zero PVP God Roll",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1428297954,
+                    3511092054
+                ],
+                [
+                    4259401308
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Assault Mag\nStock: Short-Action Stock\nCatalyst: Repulsor Brace or Cascade Point",
+            "hash": 1047932517,
+            "name": "Slayer's Fang PVE God Roll",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    791862061
+                ],
+                [
+                    1067908860
+                ],
+                [
+                    2883096194,
+                    2883096193
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling\nMagazine: Accurized Rounds\nStock: Short-Action Stock\nCatalyst Trait: Repulsor Brace",
+            "hash": 1047932517,
+            "name": "Slayer's Fang PVP God Roll",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1067908860
+                ],
+                [
+                    2883096194
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Haft: Auxiliary Reserves\nMagazine: Light Mag\nStock: Short-Action Stock\nCatalyst Trait: Feedback Retrofit or Robber Retrofit",
+            "hash": 3118061005,
+            "name": "Vexcalibur PVE God Roll",
+            "plugs": [
+                [
+                    580685494
+                ],
+                [
+                    679225683
+                ],
+                [
+                    1067908860
+                ],
+                [
+                    3146691103,
+                    3146691100
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Haft: Auxiliary Reserves\nMagazine: Accurized Rounds\nStock: Short-Action Stock\nCatalyst Trait: Feedback Retrofit",
+            "hash": 3118061005,
+            "name": "Vexcalibur PVP God Roll",
+            "plugs": [
+                [
+                    580685494
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1067908860
+                ],
+                [
+                    3146691103
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Blade: Tempered Edge\nGuards: Jagged Edge or Enduring Edge\nHandle: Tenacious Handle\nCatalyst: Relentless Strikes or Subroutine: ~Recursion (also good: Attrition Orbs)",
+            "hash": 1753923263,
+            "name": "Wolfsbane PVE God Roll",
+            "plugs": [
+                [
+                    938542991
+                ],
+                [
+                    3666208348,
+                    1261178282
+                ],
+                [
+                    3377448506
+                ],
+                [
+                    3865920552,
+                    3865920554,
+                    3865920553
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Haft: Supercooled Accelerator or Lightweight Emitter\nMagazine: Light Mag\nPerk 1: Grave Robber (also good: Beacon Rounds)\nPerk 2: Demolitionist (also good: Close to Melee)\nMasterwork: Range or Reload Speed",
+            "hash": 2680976411,
+            "name": "Albedo Wing PVE God Roll",
+            "plugs": [
+                [
+                    3020906571,
+                    1934171651,
+                    2364577709,
+                    594346985
+                ],
+                [
+                    1807273211,
+                    679225683
+                ],
+                [
+                    402033656,
+                    1631667848,
+                    1135494563,
+                    2859149211
+                ],
+                [
+                    1906147653,
+                    3523296417,
+                    2241043034,
+                    1782407750
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Haft: Supercooled Accelerator\nMagazine: Accurized Rounds (also good: Light Mag)\nPerk 1: Beacon Rounds\nPerk 2: Close to Melee\nMasterwork: Range",
+            "hash": 2680976411,
+            "name": "Albedo Wing PVP God Roll",
+            "plugs": [
+                [
+                    3020906571,
+                    1934171651
+                ],
+                [
+                    3267421167,
+                    3142289711,
+                    1807273211,
+                    679225683
+                ],
+                [
+                    1135494563,
+                    2859149211
+                ],
+                [
+                    2241043034,
+                    1782407750
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Haft: Supercooled Accelerator or Lightweight Emitter\nMagazine: Light Mag\nPerk 1: Grave Robber (also good: Beacon Rounds)\nPerk 2: Demolitionist (also good: Close to Melee)\nMasterwork: Range or Reload Speed",
+            "hash": 1845372864,
+            "name": "Albedo Wing PVE God Roll",
+            "plugs": [
+                [
+                    3020906571,
+                    1934171651
+                ],
+                [
+                    1807273211,
+                    679225683
+                ],
+                [
+                    402033656,
+                    1631667848,
+                    1135494563,
+                    2859149211
+                ],
+                [
+                    1906147653,
+                    3523296417,
+                    2241043034,
+                    1782407750
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Haft: Supercooled Accelerator\nMagazine: Accurized Rounds (also good: Light Mag)\nPerk 1: Beacon Rounds\nPerk 2: Close to Melee\nMasterwork: Range",
+            "hash": 1845372864,
+            "name": "Albedo Wing PVP God Roll",
+            "plugs": [
+                [
+                    3020906571,
+                    1934171651
+                ],
+                [
+                    3267421167,
+                    3142289711,
+                    1807273211,
+                    679225683
+                ],
+                [
+                    1135494563,
+                    2859149211
+                ],
+                [
+                    2241043034,
+                    1782407750
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Stats for All\nPerk 2: Incandescent (also good: One for All)\nMasterwork: Range or Reload Speed",
+            "hash": 2119346509,
+            "name": "Ammit AR2 PVE God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    1409206216,
+                    1583705720
+                ],
+                [
+                    2675184851,
+                    4293542123,
+                    859780267,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling (also good: Arrowhead Brake)\nMagazine: Ricochet Rounds\nPerk 1: Dynamic Sway Reduction\nPerk 2: Tap the Trigger\nMasterwork: Range",
+            "hash": 2119346509,
+            "name": "Ammit AR2 PVP God Roll",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553,
+                    3048246338,
+                    839105230
+                ],
+                [
+                    1968098204,
+                    1885400500
+                ],
+                [
+                    3060983774,
+                    1359896290
+                ],
+                [
+                    1523649716,
+                    1890422124
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
