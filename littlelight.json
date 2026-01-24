@@ -24007,6 +24007,60 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Flared Magwell\nPerk 1: Snapshot Sights\nPerk 2: Aggregate Charge\nMasterwork: Handling",
+            "hash": 593808239,
+            "name": "Refurbished A499 PVE God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    4116820839,
+                    957782887
+                ],
+                [
+                    3192447905,
+                    3764420437
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Steady Rounds\nPerk 1: Snapshot Sights (also good: Lone Wolf)\nPerk 2: Mulligan\nMasterwork: Handling",
+            "hash": 593808239,
+            "name": "Refurbished A499 PVP God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1002206008,
+                    3177308360
+                ],
+                [
+                    4116820839,
+                    957782887,
+                    2073244114,
+                    2579169598
+                ],
+                [
+                    162561147,
+                    3513791699
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
