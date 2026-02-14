@@ -24061,6 +24061,422 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Bowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer",
+            "hash": 3481382332,
+            "name": "King Orfeo PvE God Roll",
+            "plugs": [
+                [
+                    1777340333,
+                    4067834857
+                ],
+                [
+                    2732340361,
+                    16392701
+                ],
+                [
+                    1551736345,
+                    3365897133,
+                    2840833776,
+                    3700496672,
+                    3523746922,
+                    201365942
+                ],
+                [
+                    4196156997,
+                    657025441,
+                    717070634,
+                    3966416502
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Bowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer",
+            "hash": 3481382332,
+            "name": "King Orfeo PvE God Roll",
+            "plugs": [
+                [
+                    3837163218,
+                    852209214
+                ],
+                [
+                    52802868,
+                    3429800428
+                ],
+                [
+                    3523746922,
+                    201365942,
+                    3878366039,
+                    951095735
+                ],
+                [
+                    1161469972,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Bowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer",
+            "hash": 784540300,
+            "name": "King Orfeo PvE God Roll",
+            "plugs": [
+                [
+                    1777340333,
+                    4067834857
+                ],
+                [
+                    2732340361,
+                    16392701
+                ],
+                [
+                    1551736345,
+                    3365897133,
+                    2840833776,
+                    3700496672,
+                    3523746922,
+                    201365942
+                ],
+                [
+                    4196156997,
+                    657025441,
+                    717070634,
+                    3966416502
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Bowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer",
+            "hash": 784540300,
+            "name": "King Orfeo PVP God Roll",
+            "plugs": [
+                [
+                    3837163218,
+                    852209214
+                ],
+                [
+                    52802868,
+                    3429800428
+                ],
+                [
+                    3523746922,
+                    201365942,
+                    3878366039,
+                    951095735
+                ],
+                [
+                    1161469972,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Bowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer",
+            "hash": 784540303,
+            "name": "King Orfeo PVE God Roll",
+            "plugs": [
+                [
+                    1777340333,
+                    4067834857
+                ],
+                [
+                    2732340361,
+                    16392701
+                ],
+                [
+                    1551736345,
+                    3365897133,
+                    2840833776,
+                    3700496672,
+                    3523746922,
+                    201365942
+                ],
+                [
+                    4196156997,
+                    657025441,
+                    717070634,
+                    3966416502
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Bowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer",
+            "hash": 784540303,
+            "name": "King Orfeo PVP God Roll",
+            "plugs": [
+                [
+                    3837163218,
+                    852209214
+                ],
+                [
+                    52802868,
+                    3429800428
+                ],
+                [
+                    3523746922,
+                    201365942,
+                    3878366039,
+                    951095735
+                ],
+                [
+                    1161469972,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Bowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedack)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer",
+            "hash": 784540302,
+            "name": "King Orfeo PVE God Roll",
+            "plugs": [
+                [
+                    1777340333,
+                    4067834857
+                ],
+                [
+                    2732340361,
+                    16392701
+                ],
+                [
+                    1551736345,
+                    3365897133,
+                    2840833776,
+                    3700496672,
+                    3523746922,
+                    201365942
+                ],
+                [
+                    4196156997,
+                    657025441,
+                    717070634,
+                    3966416502
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Bowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer",
+            "hash": 784540302,
+            "name": "King Orfeo PVP God Roll",
+            "plugs": [
+                [
+                    3837163218,
+                    852209214
+                ],
+                [
+                    52802868,
+                    3429800428
+                ],
+                [
+                    3523746922,
+                    201365942,
+                    3878366039,
+                    951095735
+                ],
+                [
+                    1161469972,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Bowstring: Flexible String\nArrow: Compact Arrowshaft\nPerk 1: Explosive Head (also good: Shoot to Loot, Archer’s Tempo)\nPerk 2: Meganeura (also good: Jolting Feedback)\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer",
+            "hash": 784540301,
+            "name": "King Orfeo PVE God Roll",
+            "plugs": [
+                [
+                    1777340333,
+                    4067834857
+                ],
+                [
+                    2732340361,
+                    16392701
+                ],
+                [
+                    1551736345,
+                    3365897133,
+                    2840833776,
+                    3700496672,
+                    3523746922,
+                    201365942
+                ],
+                [
+                    4196156997,
+                    657025441,
+                    717070634,
+                    3966416502
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Bowstring: Polymer String\nArrow: Fiberglass Arrowshaft\nPerk 1: Archer’s Tempo (also good: Impulse Amplifier)\nPerk 2: Swashbuckler\nMasterwork: Draw Time or Reload Speed\nOrigin Trait: Nail, Meet Hammer",
+            "hash": 784540301,
+            "name": "King Orfeo PVP God Roll",
+            "plugs": [
+                [
+                    3837163218,
+                    852209214
+                ],
+                [
+                    52802868,
+                    3429800428
+                ],
+                [
+                    3523746922,
+                    201365942,
+                    3878366039,
+                    951095735
+                ],
+                [
+                    1161469972,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Haft: Auxiliary Reserves\nMagazine: Alloy Magazine\nPerk 1: Repulsor Brace (also good: Lead from Gold)\nPerk 2: Destabilizing Rounds (also good: Sword Logic)\nMasterwork: Shield Duration\nOrigin Trait: Nail, Meet Hammer",
+            "hash": 2246386812,
+            "name": "The Heron PVE God Roll",
+            "plugs": [
+                [
+                    2719770986,
+                    580685494
+                ],
+                [
+                    550838496,
+                    1431678320
+                ],
+                [
+                    2541826827,
+                    776531651,
+                    3442762221,
+                    1556840489
+                ],
+                [
+                    1926441324,
+                    2048641572,
+                    639190697,
+                    31345821
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Haft: Ballistic Tuning\nMagazine: Swap Mag\nPerk 1: Disruption Break\nPerk 2: Close to Melee or Binary Orbit\nMasterwork: Range\nOrigin Trait: Nail, Meet Hammer",
+            "hash": 2246386812,
+            "name": "The Heron PVP God Roll",
+            "plugs": [
+                [
+                    2154730217,
+                    1263609309
+                ],
+                [
+                    714384243,
+                    3721627275
+                ],
+                [
+                    2216471363,
+                    1683379515
+                ],
+                [
+                    2241043034,
+                    1782407750,
+                    983853954,
+                    1546142478
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Haft: Auxiliary Reserves\nMagazine: Alloy Magazine\nPerk 1: Repulsor Brace (also good: Lead from Gold)\nPerk 2: Destabilizing Rounds (also good: Sword Logic)\nMasterwork: Shield Duration\nOrigin Trait: Nail, Meet Hammer",
+            "hash": 617566159,
+            "name": "The Heron PVE God Roll",
+            "plugs": [
+                [
+                    2719770986,
+                    580685494
+                ],
+                [
+                    550838496,
+                    1431678320
+                ],
+                [
+                    2541826827,
+                    776531651,
+                    3442762221,
+                    1556840489
+                ],
+                [
+                    1926441324,
+                    2048641572,
+                    639190697,
+                    31345821
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Haft: Ballistic Tuning\nMagazine: Swap Mag\nPerk 1: Disruption Break\nPerk 2: Close to Melee or Binary Orbit\nMasterwork: Range\nOrigin Trait: Nail, Meet Hammer",
+            "hash": 617566159,
+            "name": "The Heron PVP God Roll",
+            "plugs": [
+                [
+                    2154730217,
+                    1263609309
+                ],
+                [
+                    714384243,
+                    3721627275
+                ],
+                [
+                    2216471363,
+                    1683379515
+                ],
+                [
+                    2241043034,
+                    1782407750,
+                    983853954,
+                    1546142478
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
