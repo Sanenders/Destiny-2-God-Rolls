@@ -24477,6 +24477,287 @@
             "tags": [
                 "GodPVP"
             ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling",
+            "hash": 2386208942,
+            "name": "Keraunios PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    2073750249,
+                    2749775325
+                ],
+                [
+                    2840833776,
+                    3700496672,
+                    65604327,
+                    1511100135
+                ],
+                [
+                    598607952,
+                    2396489472,
+                    2633604463,
+                    3218042543,
+                    717070634,
+                    3966416502
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range",
+            "hash": 2386208942,
+            "name": "Keraunios PVP God Roll",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553
+                ],
+                [
+                    2800182654,
+                    2969185026
+                ],
+                [
+                    2938480696,
+                    247725512
+                ],
+                [
+                    2939589096,
+                    365154968
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Light Battery\nPerk 1: Shoot to Loot (also good: Supercharged Magazine)\nPerk 2: Chain Reaction (also good: Rolling Storm or Jolting Feedback)\nMasterwork: Handling",
+            "hash": 981450701,
+            "name": "Keraunios PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    2073750249,
+                    2749775325
+                ],
+                [
+                    2840833776,
+                    3700496672,
+                    65604327,
+                    1511100135
+                ],
+                [
+                    598607952,
+                    2396489472,
+                    2633604463,
+                    3218042543,
+                    717070634,
+                    3966416502
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Hammerforged Rifling\nBattery: Projection Fuse\nPerk 1: Rapid Hit\nPerk 2: Target Lock\nMasterwork: Range",
+            "hash": 981450701,
+            "name": "Keraunios PVP God Roll",
+            "plugs": [
+                [
+                    1147230557,
+                    3250034553
+                ],
+                [
+                    2800182654,
+                    2969185026
+                ],
+                [
+                    2938480696,
+                    247725512
+                ],
+                [
+                    2939589096,
+                    365154968
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time",
+            "hash": 2161618499,
+            "name": "The Beacon PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1279785143,
+                    689005463
+                ],
+                [
+                    2817499044,
+                    3987942396,
+                    1906147653,
+                    3523296417,
+                    3442762221,
+                    1556840489
+                ],
+                [
+                    3744057135,
+                    3078487919,
+                    254337357,
+                    1427256713,
+                    3581929919,
+                    2890807135
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability",
+            "hash": 2161618499,
+            "name": "The Beacon PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    2800182654,
+                    2969185026
+                ],
+                [
+                    2073244114,
+                    2579169598
+                ],
+                [
+                    3955464425,
+                    1194056669
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Accelerated Coils\nPerk 1: Envious Arsenal or Demolitionist (also good: Lead from Gold)\nPerk 2: Bait and Switch or Reservoir Burst (also good: Burning Ambition)\nMasterwork: Charge Time",
+            "hash": 76739872,
+            "name": "The Beacon PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1279785143,
+                    689005463
+                ],
+                [
+                    2817499044,
+                    3987942396,
+                    1906147653,
+                    3523296417,
+                    3442762221,
+                    1556840489
+                ],
+                [
+                    3744057135,
+                    3078487919,
+                    254337357,
+                    1427256713,
+                    3581929919,
+                    2890807135
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nBattery: Projection Fuse\nPerk 1: Lone Wolf\nPerk 2: Closing Time\nMasterwork: Stability",
+            "hash": 76739872,
+            "name": "The Beacon PVP God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    2800182654,
+                    2969185026
+                ],
+                [
+                    2073244114,
+                    2579169598
+                ],
+                [
+                    3955464425,
+                    1194056669
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments",
+            "hash": 1605599021,
+            "name": "Triple Laureate PVE God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    2078520142,
+                    2922950962,
+                    402033656,
+                    1631667848
+                ],
+                [
+                    1817983009,
+                    3640170453,
+                    2459015849,
+                    2360754333,
+                    788178929,
+                    2679249093
+                ],
+                [
+                    250902314,
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Hammer-Forged Rifling\nMagazine: Ricochet Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender",
+            "hash": 1605599021,
+            "name": "Triple Laureate PVP God Roll",
+            "plugs": [],
+            "tags": [
+                "GodPVP"
+            ]
         }
     ]
 }
