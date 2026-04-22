@@ -24755,7 +24755,7 @@
             "hash": 1605599021,
             "name": "Triple Laureate PVP God Roll",
             "plugs": [
-			                [
+                [
                     905499626,
                     466087222
                 ],
@@ -24778,6 +24778,626 @@
                 [
                     2523469161,
                     1702976605
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Smallbore\nMagazine: Flared Magwell\nPerk 1: Crystalline Corpsebloom (also good: Graverobber)\nPerk 2: Chaos Reshaped (Also good: Trench Barrel, One-Two Punch)\nMasterwork: Reload Speed\nOrigin Trait: Hakke Breach Armaments",
+            "hash": 2908653246,
+            "name": "Triple Laureate PVE God Roll",
+            "plugs": [
+                [
+                    2860123632,
+                    1482024992
+                ],
+                [
+                    1709045111,
+                    3230963543
+                ],
+                [
+                    2078520142,
+                    2922950962,
+                    402033656,
+                    1631667848
+                ],
+                [
+                    1817983009,
+                    3640170453,
+                    2459015849,
+                    2360754333,
+                    788178929,
+                    2679249093
+                ],
+                [
+                    250902314,
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Smoothbore\nMagazine: Accurized Rounds\nPerk 1: Slideshot (also good: Rangefinder)\nPerk 2: Opening Shot (also good: Master of Arms)\nMasterwork: Range or Handling\nOrigin Trait: Classy Contender",
+            "hash": 2908653246,
+            "name": "Triple Laureate PVP God Roll",
+            "plugs": [
+                [
+                    905499626,
+                    466087222
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    191144788,
+                    3161816588,
+                    509594246,
+                    2846385770
+                ],
+                [
+                    1370847713,
+                    47981717,
+                    2963273944,
+                    3081867624
+                ],
+                [
+                    2523469161,
+                    1702976605
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Nail, Meet Hammer",
+            "hash": 527989828,
+            "name": "Action Item PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    3839493627,
+                    2680121939
+                ],
+                [
+                    1906147653,
+                    3523296417,
+                    2617553311,
+                    1955165503
+                ],
+                [
+                    2078520142,
+                    2922950962,
+                    1171887445,
+                    124408337,
+                    222783511,
+                    4198902903
+                ],
+                [
+                    1209885908,
+                    2152442764
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Nail, Meet Hammer",
+            "hash": 437854388,
+            "name": "Action Item PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    3839493627,
+                    2680121939
+                ],
+                [
+                    1906147653,
+                    3523296417,
+                    2617553311,
+                    1955165503
+                ],
+                [
+                    2078520142,
+                    2922950962,
+                    1171887445,
+                    124408337,
+                    222783511,
+                    4198902903
+                ],
+                [
+                    1209885908,
+                    2152442764
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Nail, Meet Hammer",
+            "hash": 437854389,
+            "name": "Action Item PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    3839493627,
+                    2680121939
+                ],
+                [
+                    1906147653,
+                    3523296417,
+                    2617553311,
+                    1955165503
+                ],
+                [
+                    2078520142,
+                    2922950962,
+                    1171887445,
+                    124408337,
+                    222783511,
+                    4198902903
+                ],
+                [
+                    1209885908,
+                    2152442764
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Nail, Meet Hammer",
+            "hash": 437854391,
+            "name": "Action Item PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    3839493627,
+                    2680121939
+                ],
+                [
+                    1906147653,
+                    3523296417,
+                    2617553311,
+                    1955165503
+                ],
+                [
+                    2078520142,
+                    2922950962,
+                    1171887445,
+                    124408337,
+                    222783511,
+                    4198902903
+                ],
+                [
+                    1209885908,
+                    2152442764
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nBattery: Enhanced Battery\nPerk 1: Demolitionist or Rimestealer\nPerk 2: Crystalline Corpsebloom or Headstone (also good: Detonator Beam)\nMasterwork: Reload Speed\nOrigin Trait: Nail, Meet Hammer",
+            "hash": 437854390,
+            "name": "Action Item PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    3839493627,
+                    2680121939
+                ],
+                [
+                    1906147653,
+                    3523296417,
+                    2617553311,
+                    1955165503
+                ],
+                [
+                    2078520142,
+                    2922950962,
+                    1171887445,
+                    124408337,
+                    222783511,
+                    4198902903
+                ],
+                [
+                    1209885908,
+                    2152442764
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: Impact Casing\nPerk 1: Envious Arsenal (also good: Reconstruction)\nPerk 2: Bait and Switch\nMasterwork: Handling\nOrigin Trait: Häkke Breach Armaments",
+            "hash": 474671201,
+            "name": "Micromort PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    274905539,
+                    3796465595
+                ],
+                [
+                    2817499044,
+                    3987942396,
+                    461595545,
+                    1523832109
+                ],
+                [
+                    3744057135,
+                    3078487919
+                ],
+                [
+                    250902314,
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Confined Launch\nMagazine: Black Powder\nPerk 1: Cluster Bomb\nPerk 2: Chain Reaction\nMasterwork: Blast Radius\nOrigin Trait: Nail, Meet Hammer",
+            "hash": 474671201,
+            "name": "Micromort PVP God Roll",
+            "plugs": [
+                [
+                    3471392239,
+                    1844523823
+                ],
+                [
+                    3605260959,
+                    1996142143
+                ],
+                [
+                    2091001077,
+                    1275731761
+                ],
+                [
+                    598607952,
+                    2396489472
+                ],
+                [
+                    1209885908,
+                    2152442764
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: Impact Casing\nPerk 1: Envious Arsenal (also good: Reconstruction)\nPerk 2: Bait and Switch\nMasterwork: Handling\nOrigin Trait: Häkke Breach Armaments",
+            "hash": 602331464,
+            "name": "Micromort PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    274905539,
+                    3796465595
+                ],
+                [
+                    2817499044,
+                    3987942396,
+                    461595545,
+                    1523832109
+                ],
+                [
+                    3744057135,
+                    3078487919
+                ],
+                [
+                    250902314,
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Confined Launch\nMagazine: Black Powder\nPerk 1: Cluster Bomb\nPerk 2: Chain Reaction\nMasterwork: Blast Radius\nOrigin Trait: Nail, Meet Hammer",
+            "hash": 602331464,
+            "name": "Micromort PVP God Roll",
+            "plugs": [
+                [
+                    3471392239,
+                    1844523823
+                ],
+                [
+                    3605260959,
+                    1996142143
+                ],
+                [
+                    2091001077,
+                    1275731761
+                ],
+                [
+                    598607952,
+                    2396489472
+                ],
+                [
+                    1209885908,
+                    2152442764
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: Impact Casing\nPerk 1: Envious Arsenal (also good: Reconstruction)\nPerk 2: Bait and Switch\nMasterwork: Handling\nOrigin Trait: Häkke Breach Armaments",
+            "hash": 602331465,
+            "name": "Micromort PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    274905539,
+                    3796465595
+                ],
+                [
+                    2817499044,
+                    3987942396,
+                    461595545,
+                    1523832109
+                ],
+                [
+                    3744057135,
+                    3078487919
+                ],
+                [
+                    250902314,
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Confined Launch\nMagazine: Black Powder\nPerk 1: Cluster Bomb\nPerk 2: Chain Reaction\nMasterwork: Blast Radius\nOrigin Trait: Nail, Meet Hammer",
+            "hash": 602331465,
+            "name": "Micromort PVP God Roll",
+            "plugs": [
+                [
+                    3471392239,
+                    1844523823
+                ],
+                [
+                    3605260959,
+                    1996142143
+                ],
+                [
+                    2091001077,
+                    1275731761
+                ],
+                [
+                    598607952,
+                    2396489472
+                ],
+                [
+                    1209885908,
+                    2152442764
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: Impact Casing\nPerk 1: Envious Arsenal (also good: Reconstruction)\nPerk 2: Bait and Switch\nMasterwork: Handling\nOrigin Trait: Häkke Breach Armaments",
+            "hash": 602331466,
+            "name": "Micromort PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    274905539,
+                    3796465595
+                ],
+                [
+                    2817499044,
+                    3987942396,
+                    461595545,
+                    1523832109
+                ],
+                [
+                    3744057135,
+                    3078487919
+                ],
+                [
+                    250902314,
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Confined Launch\nMagazine: Black Powder\nPerk 1: Cluster Bomb\nPerk 2: Chain Reaction\nMasterwork: Blast Radius\nOrigin Trait: Nail, Meet Hammer",
+            "hash": 602331466,
+            "name": "Micromort PVP God Roll",
+            "plugs": [
+                [
+                    3471392239,
+                    1844523823
+                ],
+                [
+                    3605260959,
+                    1996142143
+                ],
+                [
+                    2091001077,
+                    1275731761
+                ],
+                [
+                    598607952,
+                    2396489472
+                ],
+                [
+                    1209885908,
+                    2152442764
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Quick Launch\nMagazine: Impact Casing\nPerk 1: Envious Arsenal (also good: Reconstruction)\nPerk 2: Bait and Switch\nMasterwork: Handling\nOrigin Trait: Häkke Breach Armaments",
+            "hash": 602331467,
+            "name": "Micromort PVE God Roll",
+            "plugs": [
+                [
+                    3250572790,
+                    3525010810
+                ],
+                [
+                    274905539,
+                    3796465595
+                ],
+                [
+                    2817499044,
+                    3987942396,
+                    461595545,
+                    1523832109
+                ],
+                [
+                    3744057135,
+                    3078487919
+                ],
+                [
+                    250902314,
+                    1607056502
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Confined Launch\nMagazine: Black Powder\nPerk 1: Cluster Bomb\nPerk 2: Chain Reaction\nMasterwork: Blast Radius\nOrigin Trait: Nail, Meet Hammer",
+            "hash": 602331467,
+            "name": "Micromort PVP God Roll",
+            "plugs": [
+                [
+                    3471392239,
+                    1844523823
+                ],
+                [
+                    3605260959,
+                    1996142143
+                ],
+                [
+                    2091001077,
+                    1275731761
+                ],
+                [
+                    598607952,
+                    2396489472
+                ],
+                [
+                    1209885908,
+                    2152442764
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Barrel: Fluted Barrel\nMagazine: Appended Mag\nPerk 1: Destabilizing Rounds (also good: Rewind Rounds)\nPerk 2: Repulsor Brace (also good: Golden Tricorn, Attrition Orbs)\nMasterwork: Reload Speed or Handling\nOrigin Trait: Skulking Wolf",
+            "hash": 2370525224,
+            "name": "Reghusk's Pledge PVE God Roll",
+            "plugs": [
+                [
+                    1124871858,
+                    1840239774
+                ],
+                [
+                    1065371964,
+                    1087426260
+                ],
+                [
+                    1926441324,
+                    2048641572,
+                    1563455254,
+                    3418782618
+                ],
+                [
+                    2541826827,
+                    776531651,
+                    4290541820,
+                    2610012052,
+                    984655331,
+                    243981275
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrel: Arrowhead Brake\nMagazine: Accurized Rounds\nPerk 1: Dynamic-Sway Reduction\nPerk 2: Target Lock (also good: Kill Clip)\nMasterwork: Range\nOrigin Trait: Skulking Wolf",
+            "hash": 2370525224,
+            "name": "Reghusk's Pledge PVP God Roll",
+            "plugs": [
+                [
+                    3048246338,
+                    839105230
+                ],
+                [
+                    3267421167,
+                    3142289711
+                ],
+                [
+                    3060983774,
+                    1359896290
+                ],
+                [
+                    2939589096,
+                    365154968,
+                    2923251173,
+                    1015611457
                 ]
             ],
             "tags": [
