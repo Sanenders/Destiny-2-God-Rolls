@@ -16,7 +16,7 @@ However, even with a God Roll designation, Perk 1 and Perk 2 may not always syne
 - It contains **no PvP rolls**.
 
 ### Masterwork Recommendations
-Suggested Masterwork types have been intentionally removed from the notes, as they are typically obvious for most weapons (e.g., Handling or Reload Speed for Fusion Rifles).
+Suggested Masterwork types have been intentionally removed from the notes, as they are typically obvious for most weapons (e.g., Charge Time for Fusion Rifles).
 
 ---
 
@@ -24,7 +24,7 @@ Suggested Masterwork types have been intentionally removed from the notes, as th
 
 A small number of weapons are currently unable to receive certain strong perks. These are temporarily adjusted as follows:
 
-- **Mykel's Revenge** — Missing a perk slot (Masterwork perk temporarily replaced with *Dimensional Shift*).
+- **Mykel's Revenge** — Adept missing one Perk (temporarely switched to *Dimensional Shift*).
 - **Praedyth's Revenge** — Normal version is missing *Aggregate Charge* (temporarily replaced with *Envious Arsenal*).
 - **Acasia's Dejection** — Also missing one perk (the missing perk is generally considered weak anyway).
 
